@@ -61,8 +61,8 @@
     {
       "id": "circuspes",
       "name": "Circuspes",
-      "author": "Circuspes",
-      "description": "Traduction FR communautaire de base (traduction.circuspes.fr).",
+      "author": "Communauté Hugo Lisoir",
+      "description": "Communautaire FR (communauté Hugo Lisoir), corrigée en amont via Evocati/PTU — à jour à chaque patch.",
       "lang": ["fr"],
       "folder": "french_(france)",
       "url": "https://traduction.circuspes.fr/download/global.ini"
