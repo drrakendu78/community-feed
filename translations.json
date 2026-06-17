@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-06-07",
+  "updated": "2026-06-17",
   "languages": ["fr", "vo", "en"],
   "packs": [
     {
@@ -57,6 +57,15 @@
       "lang": ["fr"],
       "folder": "french_(france)",
       "url": "https://raw.githubusercontent.com/DolbyFR/SC-FR-remix/main/global.ini"
+    },
+    {
+      "id": "circuspes",
+      "name": "Circuspes",
+      "author": "Circuspes",
+      "description": "Traduction FR communautaire de base (traduction.circuspes.fr).",
+      "lang": ["fr"],
+      "folder": "french_(france)",
+      "url": "https://traduction.circuspes.fr/download/global.ini"
     },
     {
       "id": "exoae",
