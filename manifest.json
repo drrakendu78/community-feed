@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "model": "model.onnx",
+  "template": "title.png",
+  "note": "Modele OCR du scan de minage Stelliverse (panneau RESULTATS D'ANALYSE)."
+}
