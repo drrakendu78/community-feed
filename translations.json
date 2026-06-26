@@ -1,8 +1,18 @@
 {
   "schema": 1,
-  "updated": "2026-06-17",
+  "updated": "2026-06-26",
   "languages": ["fr", "vo", "en"],
   "packs": [
+    {
+      "id": "dolbyfr",
+      "name": "StelliTrad",
+      "author": "DolbyFR",
+      "description": "Version FR SCCompanion enrichie par DolbyFR : marqueurs de missions ([BP], [XP], DIRECT) et préfixes Type/Taille/Grade sur les composants.",
+      "lang": ["fr"],
+      "folder": "french_(france)",
+      "url": "https://raw.githubusercontent.com/DolbyFR/StelliTrad/refs/heads/main/global.ini",
+      "featured": true
+    },
     {
       "id": "scc-fr-uex",
       "name": "FR — Avec prix UEX / Grade composants",
@@ -10,8 +20,7 @@
       "description": "Traduction FR complète : prix UEX et grade des composants intégrés aux titres et descriptions des missions.",
       "lang": ["fr"],
       "folder": "french_(france)",
-      "url": "https://raw.githubusercontent.com/GerbyTV/SCTMN/refs/heads/main/global.ini",
-      "featured": true
+      "url": "https://raw.githubusercontent.com/GerbyTV/SCTMN/refs/heads/main/global.ini"
     },
     {
       "id": "scc-fr-noprix",
@@ -48,15 +57,6 @@
       "lang": ["vo"],
       "folder": "french_(france)",
       "url": "https://raw.githubusercontent.com/GerbyTV/PolyToolSC/refs/heads/main/global_en.ini"
-    },
-    {
-      "id": "dolbyfr",
-      "name": "DolbyFR Remix",
-      "author": "DolbyFR",
-      "description": "Remix FR de la base SCCompanion, avec des ajustements personnels.",
-      "lang": ["fr"],
-      "folder": "french_(france)",
-      "url": "https://raw.githubusercontent.com/DolbyFR/SC-FR-remix/main/global.ini"
     },
     {
       "id": "circuspes",
