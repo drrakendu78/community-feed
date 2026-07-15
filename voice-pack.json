@@ -324,7 +324,7 @@
   {
     "order_string": "autorisation|controle aerien|atc|la tour|appelle la tour|demande autorisation",
     "key_to_press": "lalt++n",
-    "success_message": "demande à l'ATC|autorisation demandée|j'appelle la tour|la tour, ici Stelli|je contacte le contrôle|demande d'autorisation|liaison ATC ouverte|j'attends leur feu vert, commandant|contrôle aérien contacté|autorisation en cours|je hèle la tour|demande de créneau|la tour va nous répondre, commandant|j'ouvre le canal ATC",
+    "success_message": "demande à l'ATC|autorisation demandée|j'appelle la tour|la tour, ici Stelli|je contacte le contrôle|demande d'autorisation|liaison ATC ouverte|j'attends leur feu vert, commandant|contrôle aérien contacté|autorisation en cours|je hèle la tour|demande de créneau|la tour va nous répondre, commandant|j'ouvre le canal ATC|contrôle contacté, Commandant",
     "sounds": [],
     "enabled": true
   },
