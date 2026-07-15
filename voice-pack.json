@@ -71,7 +71,7 @@
   },
   {
     "order_string": "atterrir|atterrissage|pose le vaisseau|atteri|fais nous atterir|atterrissage automatique|active l atterrissage automatique|lance l atterrissage automatique|déclenche l atterrissage automatique|procédure d atterrissage automatique|auto atterrissage|pose automatique|lance la pose automatique|active la pose automatique|atterris automatiquement|fais atterrir le vaisseau automatiquement|séquence d atterrissage automatique|atterrissage assisté|mode atterrissage automatique",
-    "key_to_press": "n:350",
+    "key_to_press": "n pause:300 n:350",
     "success_message": "séquence d'atterrissage|approche au sol|atterrissage engagé|on se pose, commandant|je prépare la pose|descente amorcée|approche finale|on rentre à la maison|doucement sur les patins|posez-nous en douceur|séquence de pose lancée|terrain en visée|on pose ça tranquille, commandant|atterrissage en cours",
     "sounds": [],
     "enabled": true
