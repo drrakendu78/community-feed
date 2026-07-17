@@ -1499,7 +1499,7 @@
   },
   {
     "enabled": true,
-    "key_to_press": "escape pause:700 clic:1805,886@3840x2160 pause:700 clic:1267,842@3840x2160 pause:700 pause:500 clic:1997,842@3840x2160 pause:500 escape",
+    "key_to_press": "escape pause:450 clic:1805,886@3840x2160 pause:450 clic:1267,842@3840x2160 pause:450 pause:350 clic:1997,842@3840x2160 pause:350 escape",
     "order_string": "vire moi ce bug|vire le bug|vire ce bug|vire moi le bug|eradique ce bug|eradique le bug|degage ce bug|repare le bug|vire moi ce bug maudit",
     "sounds": [],
     "success_message": "je vire ce bug, Commandant|bug éradiqué|et hop, plus de bug|double échap, c'est réglé|je débloque ça, Commandant|bug maudit dégagé|voilà, interface décoincée|je répare ce plantage|adieu le bug|bug neutralisé, Commandant|encore un bug de génie, réglé"
@@ -1562,49 +1562,49 @@
   },
   {
     "enabled": true,
-    "key_to_press": "f2 pause:1500 pause:1000 clic:3103,1344@3840x2160 pause:100 f2",
+    "key_to_press": "f2 pause:2000 clic:3103,1344@3840x2160 pause:100 f2",
     "order_string": "annule la route|annule l'itineraire|efface la route|efface l'itineraire",
     "sounds": [],
     "success_message": "itinéraire calculé, Commandant|route tracée|cap sur la destination|destination verrouillée"
   },
   {
     "enabled": true,
-    "key_to_press": "f1 pause:2000 pause:1000 pause:1000 clic:1886,1968@3840x2160 pause:1000 clic:2339,244@3840x2160 pause:1000 pause:1000 clic:3210,242@3840x2160 pause:100 pause:100 pause:1500 clic:1559,778@3840x2160 pause:1000 pause:1000 pause:1000 clic:1567,864@3840x2160 pause:500 pause:500 clic:3368,1701@3840x2160 pause:1000 clicgauche pause:100 escape:1500",
+    "key_to_press": "f1 pause:3200 clic:1886,1968@3840x2160 pause:700 clic:2339,244@3840x2160 pause:700 pause:1000 clic:3210,242@3840x2160 pause:100 pause:100 pause:1500 clic:1559,778@3840x2160 pause:700 pause:1000 pause:700 clic:1567,864@3840x2160 pause:500 pause:500 clic:3368,1701@3840x2160 pause:700 clicgauche pause:100 escape:1500",
     "order_string": "lance une bicone de refiouling|lance une bicone de ravitaillement|lance undemande de refiouling|lance undemande de ravitaillement|lance une balise de refiouling|lance une balise de ravitaillement|envoie une bicone de refiouling|envoie une bicone de ravitaillement|envoie undemande de refiouling|envoie undemande de ravitaillement|envoie une balise de refiouling|envoie une balise de ravitaillement|demande une bicone de refiouling|demande une bicone de ravitaillement|demande undemande de refiouling|demande undemande de ravitaillement|demande une balise de refiouling|demande une balise de ravitaillement",
     "sounds": [],
     "success_message": "ravitaillement lancé, Commandant|je fais le plein|on refait les niveaux"
   },
   {
     "enabled": true,
-    "key_to_press": "f1 pause:3000 clic:3056,1966@3840x2160 clic:2896,632@3840x2160 pause:1000 pause:1000 clic:2924,948@3840x2160 pause:1000 pause:1000 clic:3140,1274@3840x2160 pause:1000 pause:1000 clic:3141,1611@3840x2160 pause:1000 escape",
+    "key_to_press": "f1 pause:2800 clic:3056,1966@3840x2160 clic:2896,632@3840x2160 pause:700 pause:1000 clic:2924,948@3840x2160 pause:700 pause:1000 clic:3140,1274@3840x2160 pause:700 pause:1000 clic:3141,1611@3840x2160 pause:700 escape",
     "order_string": "fait le plein|recharge les munition|rifil|met du carburant|fais le plein du vaisseau|refait le plein|refait le plein du vaisseau",
     "sounds": [],
     "success_message": "ravitaillement lancé, Commandant|je fais le plein|on refait les niveaux"
   },
   {
     "enabled": true,
-    "key_to_press": "f1 pause:3000 clic:3053,1959@3840x2160 clic:2961,609@3840x2160 pause:2000 pause:1000 clic:2922,613@3840x2160 escape",
+    "key_to_press": "f1 pause:2800 clic:3053,1959@3840x2160 clic:2961,609@3840x2160 pause:2000 clic:2922,613@3840x2160 escape",
     "order_string": "répare le vaisseau|lance l'entretiens du vaisseau",
     "sounds": [],
     "success_message": "réparation lancée, Commandant|entretien en cours"
   },
   {
     "enabled": true,
-    "key_to_press": "escape pause:1000 pause:100 clicgauche:1889,896@3840x2160 pause:500 pause:500 clicgauche:1620,270@3840x2160 pause:500 pause:500 clicgauche:2039,596@3840x2160 pause:500 escape",
+    "key_to_press": "escape pause:500 pause:100 clicgauche:1889,896@3840x2160 pause:700 clicgauche:1620,270@3840x2160 pause:700 clicgauche:2039,596@3840x2160 pause:500 escape",
     "order_string": "rizette le son|rizette le volume|rebout le son|rebout le volume|réinitialise le son|réinitialise le volume|restaure le son|restaure le volume|monte le son|monte le volume|remonte le son|remonte le volume",
     "sounds": [],
     "success_message": "volume réglé, Commandant|audio ajusté"
   },
   {
     "enabled": true,
-    "key_to_press": "escape pause:1000 pause:100 clic:1911,886@3840x2160 pause:500 pause:500 clic:1610,262@3840x2160 pause:500 pause:500 clic:1461,584@3840x2160 pause:500 escape",
+    "key_to_press": "escape pause:500 pause:100 clic:1911,886@3840x2160 pause:700 clic:1610,262@3840x2160 pause:700 clic:1461,584@3840x2160 pause:500 escape",
     "order_string": "baisse le son|baisse le volume|baisse le la pollution sonore",
     "sounds": [],
     "success_message": "volume réglé, Commandant|audio ajusté"
   },
   {
     "enabled": true,
-    "key_to_press": "f1 pause:2000 pause:100 pause:100 clic:1872,1977@3840x2160 pause:100 clic:3123,1722@3840x2160 pause:1500 clicgauche pause:100 clicgauche pause:100 escape",
+    "key_to_press": "f1 pause:2000 pause:100 pause:100 clic:1872,1977@3840x2160 pause:100 clic:3123,1722@3840x2160 pause:1000 clicgauche pause:100 clicgauche pause:100 escape",
     "order_string": "partage la mission|partage les contrats|partage le contrat|partage les missions|envoie les contrats|envoie le contrat|envoie les missions|envoie la mission|partage les contrats avec l équipe|partage les missions avec l équipe|diffuse les contrats|diffuse les missions|distribue les contrats|distribue les missions|synchronise les contrats|synchronise les missions|partager les contrats|partager les missions|transmets les contrats|transmets les missions",
     "sounds": [],
     "success_message": "mission partagée, Commandant|partage envoyé"
