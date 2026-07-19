@@ -2378,5 +2378,13 @@
     "order_string": "fait une route vers gray gardens depot|fais une route vers gray gardens depot|trace une route vers gray gardens depot|calcul une route vers gray gardens depot|fait une route sur gray gardens depot|cap sur gray gardens depot|mets le cap sur gray gardens depot|direction gray gardens depot|en route pour gray gardens depot|en route vers gray gardens depot|destination gray gardens depot|va vers gray gardens depot|emmène moi vers gray gardens depot|navigation vers gray gardens depot",
     "sounds": [],
     "success_message": "en route pour Gray Gardens Depot, Commandant|cap sur Gray Gardens Depot|itinéraire vers Gray Gardens Depot verrouillé, moteurs à toi|route tracée, prochaine escale Gray Gardens Depot|Gray Gardens Depot, excellent choix, j'espère qu'ils ont du café|direction Gray Gardens Depot, essaie de ne rien percuter en chemin|c'est parti pour Gray Gardens Depot, Commandant|destination Gray Gardens Depot, je préviens personne, on arrive|cap sur Gray Gardens Depot, tâche de te poser en douceur cette fois|on entre en zone de non-droit, garde les boucliers chargés|Pyro, charmant secteur, vérifie que ton assurance est à jour"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "cmd:allume%20le%20vaisseau pause:3000 cmd:active%20les%20moteurs pause:1500 space:1500 pause:2000 cmd:rentrer%20le%20train cmd:autorisation",
+    "order_string": "allumage|démarrage|procédure de démarrage|réveille le vaisseau|on démarre",
+    "scene": true,
+    "sounds": [],
+    "success_message": "Séquence de démarrage engagée, commandant.|Mise en route. Systèmes en ligne.|Procédure de démarrage lancée.|Je réveille le vaisseau, commandant.|Démarrage en cours. Tenez-vous prêt."
   }
 ]
