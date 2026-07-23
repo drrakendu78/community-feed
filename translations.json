@@ -83,7 +83,7 @@
       "description": "Anglais composants — la version d'origine de MrKraken.",
       "lang": ["en"],
       "folder": "english",
-      "url": "https://raw.githubusercontent.com/MrKraken/StarStrings/refs/heads/master/Data/Localization/english/global.ini"
+      "url": "https://raw.githubusercontent.com/MrKraken/StarStrings/refs/heads/master/src/For_Players/Data/Localization/english/global.ini"
     },
     {
       "id": "beltakoda",
