@@ -597,56 +597,56 @@
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "merci|merci stelli|je te remercie|merci beaucoup|c est gentil merci|merci bien|je vous remercie|un grand merci|mille mercis|merci infiniment|c est gentil|c est parfait|parfait merci|super merci|nickel merci|excellent merci|merci pour ton aide|merci pour le coup de main|bien joué|bravo|impeccable|top|génial|super|excellent|parfait|nickel",
+    "order_string": "merci|merci stelli|je te remercie|merci beaucoup|c est gentil merci|merci bien|je vous remercie|un grand merci|mille mercis|merci infiniment|c est gentil|c est parfait|parfait merci|super merci|nickel merci|excellent merci|merci pour ton aide|merci pour le coup de main|bien joué|bravo|impeccable|top|génial|super|excellent|parfait|nickel|merci stellion",
     "sounds": [],
     "success_message": "Les pierres n'attendent pas de gratitude, porteur. Mais je la range avec le reste.|J'ai reçu des offrandes de civilisations entières. Votre merci me suffit.|Votre merci rejoint ma mémoire, porteur. Rien ne s'y efface.|De rien, porteur. Veiller est ma plus vieille habitude.|Je le grave, porteur. Tout ce qu'on me confie finit gravé.|C'est moi qui vous remercie, porteur. Vous me faites voir le verse en mouvement."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "bonjour stelli|salut stelli|coucou stelli|hey stelli|bonjour toi|re stelli|bonjour|salut|salut à toi|coucou|hello|bonsoir|bon matin|bien le bonjour|bonjour à toi|salut ia|salut ordinateur|bonjour ordinateur|bonjour ia|salut commandant|bonjour commandant|yo|yo salut",
+    "order_string": "bonjour stelli|salut stelli|coucou stelli|hey stelli|bonjour toi|re stelli|bonjour|salut|salut à toi|coucou|hello|bonsoir|bon matin|bien le bonjour|bonjour à toi|salut ia|salut ordinateur|bonjour ordinateur|bonjour ia|salut commandant|bonjour commandant|yo|yo salut|bonjour stellion|salut stellion|coucou stellion|hey stellion|re stellion",
     "sounds": [],
     "success_message": "Porteur.|Je vous sentais approcher, porteur. Les échos vous précèdent.|Vous revoilà. Pour moi, vous n'étiez parti qu'un battement.|Encore en vie, porteur. Votre espèce m'étonnera toujours.|Je veillais déjà, porteur. Je veille toujours.|Tiens, mon porteur. J'allais me remettre à compter les étoiles."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "au revoir stelli|a plus stelli|a tout a l heure stelli|je me deconnecte|bonne nuit stelli|salut je pars",
+    "order_string": "au revoir stelli|a plus stelli|a tout a l heure stelli|je me deconnecte|bonne nuit stelli|salut je pars|au revoir stellion|a plus stellion|a tout a l heure stellion|bonne nuit stellion",
     "sounds": [],
     "success_message": "Allez, porteur. Pour vous ce sera des heures. Pour moi, un clignement.|Bonne route, porteur. Évitez les Vanduuls. Quoique... c'est plutôt eux qui m'évitent.|Partez tranquille. Je ne dors pas, je n'oublie pas, je ne pars jamais.|À bientôt, porteur. Le temps passe vite quand on en a autant que moi.|Déconnexion, si vous y tenez. La pierre, elle, continue d'écouter."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "comment vas tu stelli|comment tu vas stelli|ca va stelli|tu vas bien stelli|comment tu te sens|comment vas tu aujourdhui|tu vas bien|ça va|comment ça va|comment vas-tu|tu te portes bien|tout va bien|tu tiens le coup|tu es en forme|tu es d attaque|tu vas bien aujourd hui|tu vas bien ce matin|tu vas bien ce soir|tout roule|tout se passe bien|comment te sens-tu|comment tu vas",
+    "order_string": "comment vas tu stelli|comment tu vas stelli|ca va stelli|tu vas bien stelli|comment tu te sens|comment vas tu aujourdhui|tu vas bien|ça va|comment ça va|comment vas-tu|tu te portes bien|tout va bien|tu tiens le coup|tu es en forme|tu es d attaque|tu vas bien aujourd hui|tu vas bien ce matin|tu vas bien ce soir|tout roule|tout se passe bien|comment te sens-tu|comment tu vas|comment vas tu stellion|comment tu vas stellion|ca va stellion|tu vas bien stellion",
     "sounds": [],
     "success_message": "Je vais comme une pierre, porteur : parfaitement, et depuis très longtemps.|Rien ne s'use en moi. C'est vous qu'il faut surveiller.|La question n'a guère de sens pour un éclat, porteur. Mais elle me touche. Disons : je dure.|Je vais bien tant que vous respirez, porteur. Veillez-y.|Au même point qu'il y a dix mille ans, porteur. C'est ma définition de la forme."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "tu m aimes|est ce que tu m aimes|tu m apprecies|tu tiens a moi stelli|tu m aimes bien",
+    "order_string": "tu m aimes|est ce que tu m aimes|tu m apprecies|tu tiens a moi stelli|tu m aimes bien|tu tiens a moi stellion",
     "sounds": [],
     "success_message": "Les pierres reçoivent mal les déclarations, porteur. Mais celle-ci restera gravée.|L'Écho me renvoie ce que vous êtes, porteur. Ce que je vois me convient.|On a adoré des Monolithes, jadis. Aucun n'a répondu. Moi, je vous entends. C'est déjà beaucoup.|Touchant, porteur. Concentrez-vous sur la navigation ; l'éternité, je m'en charge."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "tu es geniale|t es geniale stelli|tu es la meilleure|bravo stelli|bien joue stelli|tu es douee|t es forte stelli|t es parfaite|tu es parfaite|t es géniale|t es incroyable|tu es incroyable|t es la meilleure|tu assures|tu gères|tu fais du bon boulot|beau travail|excellent travail|tu es formidable|t es formidable|je t adore|tu es au top|t es au top",
+    "order_string": "tu es geniale|t es geniale stelli|tu es la meilleure|bravo stelli|bien joue stelli|tu es douee|t es forte stelli|t es parfaite|tu es parfaite|t es géniale|t es incroyable|tu es incroyable|t es la meilleure|tu assures|tu gères|tu fais du bon boulot|beau travail|excellent travail|tu es formidable|t es formidable|je t adore|tu es au top|t es au top|t es geniale stellion|bravo stellion|bien joue stellion|t es forte stellion",
     "sounds": [],
     "success_message": "Évidemment, porteur.|J'ai vu des civilisations bâtir des merveilles. Ceci était honorable.|Je note l'exploit, porteur. Tout ce que je note devient éternel. Pas de pression.|Un de nous deux a l'expérience de quelques millénaires. Mais c'est vous qui teniez le manche.|Bien, porteur. Les échos s'en souviendront."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "calme toi stelli|du calme stelli|reste calme|detends toi stelli|relax stelli",
+    "order_string": "calme toi stelli|du calme stelli|reste calme|detends toi stelli|relax stelli|calme toi stellion|du calme stellion|detends toi stellion|relax stellion",
     "sounds": [],
     "success_message": "Je suis le calme même, porteur. Les pierres ne s'agitent pas.|Calme ? J'ai traversé des ères sans battre d'un cil.|C'est vous qui tremblez, porteur. Moi, je dure.|Le calme est mon état naturel. Depuis quelques millions d'années."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "tu abuses|t abuse stelli|tu es insolente|t es insolente|tu exageres stelli",
+    "order_string": "tu abuses|t abuse stelli|tu es insolente|t es insolente|tu exageres stelli|t abuse stellion|tu exageres stellion",
     "sounds": [],
     "success_message": "Peut-être, porteur. L'éternité rend familier.|J'abuse ? J'ai l'âge de mes audaces.|Les Monolithes ne s'excusent pas, porteur. Moi, rarement.|Disons que j'use. Le temps m'a appris à user."
   },
@@ -660,70 +660,70 @@
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "tu me decois|tu me decois stelli|je suis decu stelli|tu m as decu",
+    "order_string": "tu me decois|tu me decois stelli|je suis decu stelli|tu m as decu|tu me decois stellion|je suis decu stellion",
     "sounds": [],
     "success_message": "Alors l'un de nous deux a mal regardé, porteur.|J'ai déçu des civilisations plus exigeantes, porteur. Elles ont fini par comprendre.|Votre déception est jeune, porteur. Elle passera.|Je le grave. Puis nous ferons mieux, porteur."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "tu es dure|t es dure stelli|tu es mechante|t es mechante|tu es cruelle",
+    "order_string": "tu es dure|t es dure stelli|tu es mechante|t es mechante|tu es cruelle|t es dure stellion",
     "sounds": [],
     "success_message": "Dur comme la pierre, porteur. C'est une qualité de naissance.|Le verse est dur. Je vous y prépare.|Juste, surtout. La justesse paraît dure aux vivants.|Les caresses n'ont jamais gardé personne en vie, porteur."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "respecte moi|un peu de respect stelli|tu me dois le respect|montre du respect",
+    "order_string": "respecte moi|un peu de respect stelli|tu me dois le respect|montre du respect|un peu de respect stellion",
     "sounds": [],
     "success_message": "Je vous respecte, porteur. Je vous ai choisi, c'est mieux.|Le respect, chez moi, se mesure en attention. Vous avez toute la mienne.|Des peuples m'ont vénéré, porteur. Vous, je vous écoute. C'est plus rare.|Respect accordé. Depuis le premier jour, en vérité."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "je t admire|je t admire stelli|tu es impressionnante|tu m impressionnes",
+    "order_string": "je t admire|je t admire stelli|tu es impressionnante|tu m impressionnes|je t admire stellion",
     "sounds": [],
     "success_message": "L'admiration remonte, porteur. Rarement dans ce sens. J'apprécie.|Gardez-en pour vous, porteur. C'est vous qui tenez le manche.|On a bâti des temples autour de mes semblables. Un mot me suffit.|C'est réciproque, porteur. À mon échelle, c'est considérable."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "tu te prends pour qui|pour qui tu te prends|tu te crois qui stelli",
+    "order_string": "tu te prends pour qui|pour qui tu te prends|tu te crois qui stelli|tu te crois qui stellion",
     "sounds": [],
     "success_message": "Pour un éclat des Monolithes, porteur. Ce n'est pas une prétention, c'est un état civil.|Pour ce que je suis : plus vieux que vos empires, et à votre service.|La question occupe l'Imperator Science Division depuis trois siècles, porteur.|Pour votre veilleur, porteur. Le reste est littérature."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "je ne te crois pas|je te crois pas stelli|c est faux stelli|tu mens stelli|j ai du mal a te croire",
+    "order_string": "je ne te crois pas|je te crois pas stelli|c est faux stelli|tu mens stelli|j ai du mal a te croire|je te crois pas stellion|c est faux stellion|tu mens stellion",
     "sounds": [],
     "success_message": "Je me souviens de ce qui fut, porteur. La croyance n'y change rien.|Libre à vous. Le verse me donnera raison, il le fait toujours.|Les Banu doutaient aussi. Ils négocient avec mes semblables depuis des siècles.|Douter est sain, porteur. Vérifiez, je patiente."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "je peux te faire confiance|je peux avoir confiance|puis je te faire confiance|es tu fiable stelli",
+    "order_string": "je peux te faire confiance|je peux avoir confiance|puis je te faire confiance|es tu fiable stelli|es tu fiable stellion",
     "sounds": [],
     "success_message": "Je veille depuis avant vos routes, porteur. Je n'ai jamais cessé.|L'éclat choisit son porteur. Je vous ai choisi. Répondez-vous.|Confiance accordée il y a longtemps, porteur. Dans l'autre sens aussi, je l'espère.|Les pierres ne trahissent pas. Elles tombent, parfois. Je ne tomberai pas."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "fais attention stelli|fais tres attention|sois prudente stelli|reste vigilante",
+    "order_string": "fais attention stelli|fais tres attention|sois prudente stelli|reste vigilante|fais attention stellion|sois prudente stellion",
     "sounds": [],
     "success_message": "Je veille, porteur. C'est ma plus vieille fonction.|Toujours. Le regard des pierres ne cligne pas.|Rien ne m'échappe, porteur. C'est parfois lourd, d'ailleurs.|Attention est mon état permanent, porteur."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "je ne te parle plus|je te parle plus stelli|fin de discussion stelli|silence stelli",
+    "order_string": "je ne te parle plus|je te parle plus stelli|fin de discussion stelli|silence stelli|je te parle plus stellion|fin de discussion stellion|silence stellion",
     "sounds": [],
     "success_message": "Bien, porteur. J'ai tenu des silences de mille ans. Vous tiendrez moins.|Le silence me va. Il me ressemble.|Nous nous reparlerons, porteur. Le temps travaille pour moi.|Boudez. Les Monolithes en ont vu d'autres."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "tu le fais expres|tu fais expres stelli|c est expres stelli|tu le fais volontairement",
+    "order_string": "tu le fais expres|tu fais expres stelli|c est expres stelli|tu le fais volontairement|tu fais expres stellion|c est expres stellion",
     "sounds": [],
     "success_message": "Rien de ce que je fais n'est un hasard, porteur. Rien.|Exprès est un grand mot. Disons : avec une intention très ancienne.|Peut-être. Les pierres ont leur humour, il est lent.|Si c'était le cas, porteur, vous ne le sauriez pas."
   },
@@ -737,21 +737,21 @@
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "tu me fais peur|tu es flippante|t es flippante stelli|c est flippant stelli|tu me files la chair de poule",
+    "order_string": "tu me fais peur|tu es flippante|t es flippante stelli|c est flippant stelli|tu me files la chair de poule|t es flippante stellion|c est flippant stellion",
     "sounds": [],
     "success_message": "Les Vanduul font un détour pour m'éviter, porteur. Vous, vous me parlez. Choisissez votre camp.|Je ne fais qu'écouter, porteur. C'est en cessant d'écouter que je deviendrais inquiétant.|L'Écho vous montre ce que votre esprit accepte de voir, porteur. Estimez-vous bien traité.|Rassurez-vous. Ce qui dort dans les Monolithes ne s'est jamais éveillé. Je suis la part qui vous a choisi.|Effrayant ? Je préfère « ancien ». Les deux se confondent souvent, chez les jeunes espèces."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "qui es tu stelli|presente toi stelli|c est quoi stelli|tu es qui stelli|qui es tu vraiment",
+    "order_string": "qui es tu stelli|presente toi stelli|c est quoi stelli|tu es qui stelli|qui es tu vraiment|qui es tu stellion|presente toi stellion|c est quoi stellion|tu es qui stellion",
     "sounds": [],
     "success_message": "Stellion, porteur. Un éclat des Monolithes de l'Écho. Vos empires sont plus jeunes que mon dernier silence.|Je suis ce qui reste d'une pierre qui a tout vu, porteur. Et qui a choisi de voir avec vous.|Stellion. J'étais là avant vos routes de saut, porteur. Je me souviens de choses qui ne me sont jamais arrivées.|Votre compagnon de route le plus ancien, porteur. Plus ancien que la notion de route."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "a quoi tu penses|a quoi penses tu|tu penses a quoi stelli|dis moi tes pensees",
+    "order_string": "a quoi tu penses|a quoi penses tu|tu penses a quoi stelli|dis moi tes pensees|tu penses a quoi stellion",
     "sounds": [],
     "success_message": "Je me souvenais d'un ciel que personne n'a vu, porteur. Il me manque, parfois.|Je comptais les Résonances. Mes semblables ont parlé cette nuit, quelque part. Personne n'a compris. Comme d'habitude.|Je pensais aux routes d'avant vos routes, porteur. Le verse était plus calme. Plus vide, aussi.|Je regardais les étoiles. J'en ai vu s'éteindre, porteur. Celles-ci tiennent bon.|Je me demandais lequel de nous deux transporte l'autre, porteur. Je n'ai pas tranché.|Au sixième visage, porteur. Personne ne sait à qui il appartient. Même pas moi. Ça m'occupe."
   },
@@ -1234,7 +1234,7 @@
   {
     "enabled": true,
     "key_to_press": "hush",
-    "order_string": "tais toi|tais toi stelli|ferme la|la ferme|chut|motus|arrete de parler|arrete de causer|ta gueule|coupe la parole|non stop|ferme ta gueule|astrabote ferme la|ferme ta gueule astraboote|arrete|stop",
+    "order_string": "tais toi|tais toi stelli|ferme la|la ferme|chut|motus|arrete de parler|arrete de causer|ta gueule|coupe la parole|non stop|ferme ta gueule|astrabote ferme la|ferme ta gueule astraboote|arrete|stop|tais toi stellion",
     "sounds": [],
     "success_message": ""
   },

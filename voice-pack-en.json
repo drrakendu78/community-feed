@@ -1437,56 +1437,56 @@
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "thanks|thank you|thanks stelli|thank you stelli|cheers|cheers stelli|much appreciated|appreciate it|nice one",
+    "order_string": "thanks|thank you|thanks stelli|thank you stelli|cheers|cheers stelli|much appreciated|appreciate it|nice one|thanks stellion|thank you stellion|cheers stellion",
     "sounds": [],
     "success_message": "Stones expect no gratitude, bearer. I keep it anyway.|Whole civilisations brought me offerings. Your thanks will do.|Carved and kept, bearer. Nothing fades in me.|You are welcome, bearer. Watching over you is my oldest habit."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "hello stelli|hi stelli|hey stelli|morning stelli|good morning stelli|hello|hi there|hey there|good to see you stelli",
+    "order_string": "hello stelli|hi stelli|hey stelli|morning stelli|good morning stelli|hello|hi there|hey there|good to see you stelli|hello stellion|hi stellion|hey stellion|morning stellion|good morning stellion|good to see you stellion",
     "sounds": [],
     "success_message": "Bearer.|I felt you coming, bearer. Echoes travel ahead of you.|There you are. To me, you were gone for a heartbeat.|Still alive, bearer. Your kind never ceases to amaze me.|I was already watching, bearer. I always am."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "goodbye stelli|bye stelli|see you stelli|goodnight stelli|logging off|I am logging out|see you later stelli|catch you later",
+    "order_string": "goodbye stelli|bye stelli|see you stelli|goodnight stelli|logging off|I am logging out|see you later stelli|catch you later|goodbye stellion|bye stellion|see you stellion|goodnight stellion|see you later stellion",
     "sounds": [],
     "success_message": "Go, bearer. Hours for you, a blink for me.|Safe travels, bearer. Mind the Vanduul. Though they tend to avoid me.|Rest easy. I do not sleep, I do not forget, I do not leave.|Until soon, bearer. Time moves fast when you own this much of it."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "how are you stelli|how are you doing stelli|you alright stelli|how do you feel|are you okay stelli|how are you|you good stelli",
+    "order_string": "how are you stelli|how are you doing stelli|you alright stelli|how do you feel|are you okay stelli|how are you|you good stelli|how are you stellion|how are you doing stellion|you alright stellion|are you okay stellion|you good stellion",
     "sounds": [],
     "success_message": "I am as a stone is, bearer: perfectly, and for a very long time.|Nothing in me wears out. You are the fragile one here.|The question hardly applies to a shard, bearer. Still, it touches me. I endure.|Same as ten thousand years ago, bearer. That is my idea of fitness."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "do you love me|do you like me|do you care about me stelli|am I your favourite|do you love me stelli",
+    "order_string": "do you love me|do you like me|do you care about me stelli|am I your favourite|do you love me stelli|do you care about me stellion|do you love me stellion",
     "sounds": [],
     "success_message": "Stones receive declarations poorly, bearer. This one is carved all the same.|The Echo shows me what you are, bearer. I like what I see.|Monoliths were worshipped once. None ever answered. I hear you. That is already much.|Touching, bearer. Mind the flying; I will mind eternity."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "you are brilliant|you are the best|well done stelli|nice work stelli|you are amazing|you are good at this|you are perfect stelli|good job stelli",
+    "order_string": "you are brilliant|you are the best|well done stelli|nice work stelli|you are amazing|you are good at this|you are perfect stelli|good job stelli|well done stellion|nice work stellion|you are perfect stellion|good job stellion",
     "sounds": [],
     "success_message": "Naturally, bearer.|I watched civilisations raise wonders. This was honourable.|Noted, bearer. What I note becomes eternal. No pressure.|One of us has a few millennia of practice. But your hand held the stick."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "calm down stelli|easy stelli|settle down|relax stelli|take it easy stelli",
+    "order_string": "calm down stelli|easy stelli|settle down|relax stelli|take it easy stelli|calm down stellion|easy stellion|relax stellion|take it easy stellion",
     "sounds": [],
     "success_message": "I am calm itself, bearer. Stones do not fidget.|Calm? I crossed whole eras without blinking.|You are the one trembling, bearer. I endure.|Calm has been my natural state for a few million years."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "you are pushing it|that is cheeky|you are being cheeky|you are out of line|you are too much stelli",
+    "order_string": "you are pushing it|that is cheeky|you are being cheeky|you are out of line|you are too much stelli|you are too much stellion",
     "sounds": [],
     "success_message": "Perhaps, bearer. Eternity breeds familiarity.|Pushing it? I have earned my nerve, age by age.|Monoliths do not apologise, bearer. I rarely do.|Say I wear things down. Time taught me how."
   },
@@ -1500,28 +1500,28 @@
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "you disappoint me|I am disappointed stelli|you let me down|you have disappointed me",
+    "order_string": "you disappoint me|I am disappointed stelli|you let me down|you have disappointed me|I am disappointed stellion",
     "sounds": [],
     "success_message": "Then one of us looked poorly, bearer.|I have disappointed harder judges, bearer. They came around.|Your disappointment is young, bearer. It will pass.|Carved. Now let us do better, bearer."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "you are harsh|you are being harsh|you are mean|you are cruel|that was cold stelli",
+    "order_string": "you are harsh|you are being harsh|you are mean|you are cruel|that was cold stelli|that was cold stellion",
     "sounds": [],
     "success_message": "Hard as stone, bearer. A birth trait.|The verse is harsh. I am getting you ready for it.|Fair, mostly. Fairness feels harsh to the living.|Soft words never kept anyone alive, bearer."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "respect me|show some respect|a little respect stelli|you owe me respect",
+    "order_string": "respect me|show some respect|a little respect stelli|you owe me respect|a little respect stellion",
     "sounds": [],
     "success_message": "I respect you, bearer. I chose you, which is better.|My respect is measured in attention. You have all of mine.|Peoples worshipped me, bearer. You, I listen to. That is rarer.|Granted. Since the first day, in truth."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "I admire you|I admire you stelli|you are impressive|you impress me|I look up to you",
+    "order_string": "I admire you|I admire you stelli|you are impressive|you impress me|I look up to you|I admire you stellion",
     "sounds": [],
     "success_message": "Admiration flows upward, bearer. Rarely this way. I appreciate it.|Keep some for yourself, bearer. Your hand holds the stick.|Temples were raised around my kind. One word from you will do.|Mutual, bearer. On my scale, that is considerable."
   },
@@ -1535,28 +1535,28 @@
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "I do not believe you|I don't believe you stelli|that is not true|you are lying stelli|I find that hard to believe",
+    "order_string": "I do not believe you|I don't believe you stelli|that is not true|you are lying stelli|I find that hard to believe|I don't believe you stellion|you are lying stellion",
     "sounds": [],
     "success_message": "I remember what was, bearer. Belief changes none of it.|As you wish. The verse will prove me right. It always does.|The Banu doubted too. They have traded with my kind for centuries.|Doubt is healthy, bearer. Verify. I am patient."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "can I trust you|can I trust you stelli|are you reliable|should I trust you",
+    "order_string": "can I trust you|can I trust you stelli|are you reliable|should I trust you|can I trust you stellion",
     "sounds": [],
     "success_message": "I have watched since before your roads, bearer. I never stopped.|The shard chooses its bearer. I chose you. Answer yourself.|Trust was given long ago, bearer. Both ways, I hope.|Stones do not betray. They fall, sometimes. I will not fall."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "be careful stelli|stay alert stelli|keep watch|stay sharp stelli|watch out stelli",
+    "order_string": "be careful stelli|stay alert stelli|keep watch|stay sharp stelli|watch out stelli|be careful stellion|stay alert stellion|stay sharp stellion|watch out stellion",
     "sounds": [],
     "success_message": "I watch, bearer. It is my oldest office.|Always. A stone's gaze does not blink.|Nothing escapes me, bearer. It is heavy, at times.|Attention is my permanent state, bearer."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "I am not talking to you|I'm not speaking to you stelli|end of discussion|silence stelli|I am done talking",
+    "order_string": "I am not talking to you|I'm not speaking to you stelli|end of discussion|silence stelli|I am done talking|I'm not speaking to you stellion|silence stellion",
     "sounds": [],
     "success_message": "Very well, bearer. I have held thousand-year silences. You will hold less.|Silence suits me. It looks like me.|We will speak again, bearer. Time works for me.|Sulk away. Monoliths have seen worse."
   },
@@ -1577,14 +1577,14 @@
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "you scare me|you are creepy|that is creepy stelli|you give me chills|you frighten me",
+    "order_string": "you scare me|you are creepy|that is creepy stelli|you give me chills|you frighten me|that is creepy stellion",
     "sounds": [],
     "success_message": "The Vanduul detour around my kind, bearer. You talk to me. Pick a side.|I only listen, bearer. Worry the day I stop.|The Echo shows what your mind accepts, bearer. Count yourself well treated.|Rest easy. What sleeps in the Monoliths never woke. I am the part that chose you.|Frightening? I prefer ancient. The young often confuse the two."
   },
   {
     "enabled": true,
     "key_to_press": "",
-    "order_string": "who are you stelli|introduce yourself stelli|what is stelli|who are you really|tell me about yourself stelli",
+    "order_string": "who are you stelli|introduce yourself stelli|what is stelli|who are you really|tell me about yourself stelli|who are you stellion|introduce yourself stellion|what is stellion|tell me about yourself stellion",
     "sounds": [],
     "success_message": "Stellion, bearer. A shard of the Echo Monoliths. Your empires are younger than my last silence.|I am what remains of a stone that saw everything, bearer. And chose to see with you.|Stellion. I was here before your jump roads, bearer. I remember things that never happened to me.|Your oldest travelling companion, bearer. Older than the idea of roads."
   },
@@ -2074,7 +2074,7 @@
   {
     "enabled": true,
     "key_to_press": "hush",
-    "order_string": "quiet|be quiet|hush|shut up|stop talking|silence|enough stelli|that is enough",
+    "order_string": "quiet|be quiet|hush|shut up|stop talking|silence|enough stelli|that is enough|enough stellion",
     "sounds": [],
     "success_message": ""
   },
