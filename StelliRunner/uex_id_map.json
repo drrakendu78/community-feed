@@ -1,0 +1,792 @@
+﻿[
+    {
+        "id":  1,
+        "uex_name":  "Agricium",
+        "key":  ""
+    },
+    {
+        "id":  2,
+        "uex_name":  "Agricium (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  3,
+        "uex_name":  "Agricultural Supplies",
+        "key":  ""
+    },
+    {
+        "id":  4,
+        "uex_name":  "Altruciatoxin",
+        "key":  ""
+    },
+    {
+        "id":  5,
+        "uex_name":  "Aluminum",
+        "key":  ""
+    },
+    {
+        "id":  6,
+        "uex_name":  "Aluminum (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  7,
+        "uex_name":  "Amioshi Plague",
+        "key":  ""
+    },
+    {
+        "id":  8,
+        "uex_name":  "Aphorite",
+        "key":  ""
+    },
+    {
+        "id":  9,
+        "uex_name":  "Astatine",
+        "key":  ""
+    },
+    {
+        "id":  10,
+        "uex_name":  "Audio-Visual Equipment",
+        "key":  ""
+    },
+    {
+        "id":  11,
+        "uex_name":  "Beryl",
+        "key":  ""
+    },
+    {
+        "id":  12,
+        "uex_name":  "Beryl (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  13,
+        "uex_name":  "Bexalite",
+        "key":  ""
+    },
+    {
+        "id":  14,
+        "uex_name":  "Bexalite (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  15,
+        "uex_name":  "Borase",
+        "key":  ""
+    },
+    {
+        "id":  16,
+        "uex_name":  "Borase (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  17,
+        "uex_name":  "Chlorine",
+        "key":  ""
+    },
+    {
+        "id":  18,
+        "uex_name":  "Compboard",
+        "key":  ""
+    },
+    {
+        "id":  19,
+        "uex_name":  "Construction Materials",
+        "key":  ""
+    },
+    {
+        "id":  20,
+        "uex_name":  "Copper",
+        "key":  ""
+    },
+    {
+        "id":  21,
+        "uex_name":  "Copper (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  22,
+        "uex_name":  "Corundum",
+        "key":  ""
+    },
+    {
+        "id":  23,
+        "uex_name":  "Corundum (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  24,
+        "uex_name":  "Degnous Root",
+        "key":  ""
+    },
+    {
+        "id":  25,
+        "uex_name":  "Diamond",
+        "key":  ""
+    },
+    {
+        "id":  26,
+        "uex_name":  "Diamond (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  27,
+        "uex_name":  "Distilled Spirits",
+        "key":  ""
+    },
+    {
+        "id":  28,
+        "uex_name":  "Dolivine",
+        "key":  ""
+    },
+    {
+        "id":  29,
+        "uex_name":  "E\u0027tam",
+        "key":  ""
+    },
+    {
+        "id":  31,
+        "uex_name":  "Fluorine",
+        "key":  ""
+    },
+    {
+        "id":  32,
+        "uex_name":  "Gasping Weevil Eggs",
+        "key":  ""
+    },
+    {
+        "id":  33,
+        "uex_name":  "Gold",
+        "key":  ""
+    },
+    {
+        "id":  34,
+        "uex_name":  "Gold (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  35,
+        "uex_name":  "Golden Medmon",
+        "key":  ""
+    },
+    {
+        "id":  36,
+        "uex_name":  "Hadanite",
+        "key":  ""
+    },
+    {
+        "id":  37,
+        "uex_name":  "Heart of the Woods",
+        "key":  ""
+    },
+    {
+        "id":  38,
+        "uex_name":  "Helium",
+        "key":  ""
+    },
+    {
+        "id":  39,
+        "uex_name":  "Hephaestanite",
+        "key":  ""
+    },
+    {
+        "id":  40,
+        "uex_name":  "Hephaestanite (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  41,
+        "uex_name":  "Hydrogen",
+        "key":  ""
+    },
+    {
+        "id":  43,
+        "uex_name":  "Iodine",
+        "key":  ""
+    },
+    {
+        "id":  44,
+        "uex_name":  "Iron",
+        "key":  ""
+    },
+    {
+        "id":  45,
+        "uex_name":  "Iron (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  46,
+        "uex_name":  "Janalite",
+        "key":  ""
+    },
+    {
+        "id":  47,
+        "uex_name":  "Laranite",
+        "key":  ""
+    },
+    {
+        "id":  48,
+        "uex_name":  "Laranite (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  49,
+        "uex_name":  "Luminalia Gift",
+        "key":  ""
+    },
+    {
+        "id":  50,
+        "uex_name":  "Maze",
+        "key":  ""
+    },
+    {
+        "id":  51,
+        "uex_name":  "Medical Supplies",
+        "key":  ""
+    },
+    {
+        "id":  52,
+        "uex_name":  "Neon",
+        "key":  ""
+    },
+    {
+        "id":  53,
+        "uex_name":  "Osoian Hides",
+        "key":  ""
+    },
+    {
+        "id":  54,
+        "uex_name":  "Party Favors",
+        "key":  ""
+    },
+    {
+        "id":  55,
+        "uex_name":  "Pitambu",
+        "key":  ""
+    },
+    {
+        "id":  56,
+        "uex_name":  "Processed Food",
+        "key":  ""
+    },
+    {
+        "id":  57,
+        "uex_name":  "Prota",
+        "key":  ""
+    },
+    {
+        "id":  58,
+        "uex_name":  "Quantainium",
+        "key":  ""
+    },
+    {
+        "id":  59,
+        "uex_name":  "Quantainium (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  60,
+        "uex_name":  "Quartz",
+        "key":  ""
+    },
+    {
+        "id":  61,
+        "uex_name":  "Quartz (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  62,
+        "uex_name":  "Ranta Dung",
+        "key":  ""
+    },
+    {
+        "id":  63,
+        "uex_name":  "Recycled Material Composite",
+        "key":  ""
+    },
+    {
+        "id":  64,
+        "uex_name":  "Year of the Monkey Envelope",
+        "key":  ""
+    },
+    {
+        "id":  65,
+        "uex_name":  "Revenant Pod",
+        "key":  ""
+    },
+    {
+        "id":  66,
+        "uex_name":  "Revenant Tree Pollen",
+        "key":  ""
+    },
+    {
+        "id":  67,
+        "uex_name":  "Scrap",
+        "key":  ""
+    },
+    {
+        "id":  68,
+        "uex_name":  "SLAM",
+        "key":  ""
+    },
+    {
+        "id":  69,
+        "uex_name":  "Souvenirs",
+        "key":  ""
+    },
+    {
+        "id":  70,
+        "uex_name":  "Stims",
+        "key":  ""
+    },
+    {
+        "id":  72,
+        "uex_name":  "Sunset Berries",
+        "key":  ""
+    },
+    {
+        "id":  73,
+        "uex_name":  "Taranite",
+        "key":  ""
+    },
+    {
+        "id":  74,
+        "uex_name":  "Taranite (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  75,
+        "uex_name":  "Titanium",
+        "key":  ""
+    },
+    {
+        "id":  76,
+        "uex_name":  "Titanium (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  77,
+        "uex_name":  "Tungsten",
+        "key":  ""
+    },
+    {
+        "id":  78,
+        "uex_name":  "Tungsten (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  79,
+        "uex_name":  "Waste",
+        "key":  ""
+    },
+    {
+        "id":  80,
+        "uex_name":  "WiDoW",
+        "key":  ""
+    },
+    {
+        "id":  81,
+        "uex_name":  "Year of the Rooster Envelope",
+        "key":  ""
+    },
+    {
+        "id":  82,
+        "uex_name":  "AcryliPlex Composite",
+        "key":  ""
+    },
+    {
+        "id":  83,
+        "uex_name":  "Diluthermex",
+        "key":  ""
+    },
+    {
+        "id":  85,
+        "uex_name":  "Ammonia",
+        "key":  ""
+    },
+    {
+        "id":  87,
+        "uex_name":  "Quantum Fuel",
+        "key":  ""
+    },
+    {
+        "id":  88,
+        "uex_name":  "Year of the Dog Envelope",
+        "key":  ""
+    },
+    {
+        "id":  91,
+        "uex_name":  "Marok Gem",
+        "key":  ""
+    },
+    {
+        "id":  92,
+        "uex_name":  "Kopion Horn",
+        "key":  ""
+    },
+    {
+        "id":  93,
+        "uex_name":  "DynaFlex",
+        "key":  ""
+    },
+    {
+        "id":  97,
+        "uex_name":  "Human Food Bars",
+        "key":  ""
+    },
+    {
+        "id":  100,
+        "uex_name":  "Silicon",
+        "key":  ""
+    },
+    {
+        "id":  101,
+        "uex_name":  "Pressurized Ice",
+        "key":  ""
+    },
+    {
+        "id":  102,
+        "uex_name":  "Carbon",
+        "key":  ""
+    },
+    {
+        "id":  103,
+        "uex_name":  "Tin",
+        "key":  ""
+    },
+    {
+        "id":  104,
+        "uex_name":  "Hydrogen Fuel",
+        "key":  ""
+    },
+    {
+        "id":  106,
+        "uex_name":  "Nitrogen",
+        "key":  ""
+    },
+    {
+        "id":  109,
+        "uex_name":  "Steel",
+        "key":  ""
+    },
+    {
+        "id":  110,
+        "uex_name":  "Cobalt",
+        "key":  ""
+    },
+    {
+        "id":  111,
+        "uex_name":  "Argon",
+        "key":  ""
+    },
+    {
+        "id":  112,
+        "uex_name":  "Bioplastic",
+        "key":  ""
+    },
+    {
+        "id":  113,
+        "uex_name":  "Carbon-Silk",
+        "key":  ""
+    },
+    {
+        "id":  114,
+        "uex_name":  "Methane",
+        "key":  ""
+    },
+    {
+        "id":  115,
+        "uex_name":  "Omnapoxy",
+        "key":  ""
+    },
+    {
+        "id":  116,
+        "uex_name":  "Potassium",
+        "key":  ""
+    },
+    {
+        "id":  118,
+        "uex_name":  "Xa\u0027Pyen",
+        "key":  ""
+    },
+    {
+        "id":  119,
+        "uex_name":  "Diamond Laminate",
+        "key":  ""
+    },
+    {
+        "id":  120,
+        "uex_name":  "Fresh Food",
+        "key":  ""
+    },
+    {
+        "id":  121,
+        "uex_name":  "Partillium",
+        "key":  ""
+    },
+    {
+        "id":  122,
+        "uex_name":  "Stileron",
+        "key":  ""
+    },
+    {
+        "id":  123,
+        "uex_name":  "Mercury",
+        "key":  ""
+    },
+    {
+        "id":  124,
+        "uex_name":  "Riccite",
+        "key":  ""
+    },
+    {
+        "id":  125,
+        "uex_name":  "Ice (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  126,
+        "uex_name":  "CK13-GID Seed Blend",
+        "key":  ""
+    },
+    {
+        "id":  127,
+        "uex_name":  "Dymantium",
+        "key":  ""
+    },
+    {
+        "id":  128,
+        "uex_name":  "Ship Ammunition",
+        "key":  ""
+    },
+    {
+        "id":  129,
+        "uex_name":  "HexaPolyMesh Coating",
+        "key":  ""
+    },
+    {
+        "id":  130,
+        "uex_name":  "Atlasium",
+        "key":  ""
+    },
+    {
+        "id":  132,
+        "uex_name":  "Thermalfoam",
+        "key":  ""
+    },
+    {
+        "id":  144,
+        "uex_name":  "Jumping Limes",
+        "key":  ""
+    },
+    {
+        "id":  153,
+        "uex_name":  "Tritium",
+        "key":  ""
+    },
+    {
+        "id":  161,
+        "uex_name":  "Silicon (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  162,
+        "uex_name":  "Stileron (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  163,
+        "uex_name":  "Riccite (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  164,
+        "uex_name":  "Year of the Pig Envelope",
+        "key":  ""
+    },
+    {
+        "id":  166,
+        "uex_name":  "Detatrine",
+        "key":  ""
+    },
+    {
+        "id":  167,
+        "uex_name":  "Beradom",
+        "key":  ""
+    },
+    {
+        "id":  168,
+        "uex_name":  "Glacosite",
+        "key":  ""
+    },
+    {
+        "id":  169,
+        "uex_name":  "Feynmaline",
+        "key":  ""
+    },
+    {
+        "id":  170,
+        "uex_name":  "Carinite",
+        "key":  ""
+    },
+    {
+        "id":  171,
+        "uex_name":  "Jaclium",
+        "key":  ""
+    },
+    {
+        "id":  172,
+        "uex_name":  "Saldynium (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  173,
+        "uex_name":  "Jaclium (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  174,
+        "uex_name":  "Cave Kopion Horn",
+        "key":  ""
+    },
+    {
+        "id":  175,
+        "uex_name":  "Tundra Kopion Horn",
+        "key":  ""
+    },
+    {
+        "id":  176,
+        "uex_name":  "Tin (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  178,
+        "uex_name":  "Carinite (Pure)",
+        "key":  ""
+    },
+    {
+        "id":  179,
+        "uex_name":  "Atacamite",
+        "key":  ""
+    },
+    {
+        "id":  184,
+        "uex_name":  "Lindinium",
+        "key":  ""
+    },
+    {
+        "id":  185,
+        "uex_name":  "Lindinium (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  186,
+        "uex_name":  "Organics",
+        "key":  ""
+    },
+    {
+        "id":  187,
+        "uex_name":  "Savrilium (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  188,
+        "uex_name":  "Savrilium",
+        "key":  ""
+    },
+    {
+        "id":  189,
+        "uex_name":  "Torite (Ore)",
+        "key":  ""
+    },
+    {
+        "id":  190,
+        "uex_name":  "Torite",
+        "key":  ""
+    },
+    {
+        "id":  191,
+        "uex_name":  "CryoPod",
+        "key":  ""
+    },
+    {
+        "id":  192,
+        "uex_name":  "Year of the Rat Envelope",
+        "key":  ""
+    },
+    {
+        "id":  193,
+        "uex_name":  "Aslarite",
+        "key":  ""
+    },
+    {
+        "id":  194,
+        "uex_name":  "Ouratite",
+        "key":  ""
+    },
+    {
+        "id":  199,
+        "uex_name":  "Aslarite (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  200,
+        "uex_name":  "Sadaryx",
+        "key":  ""
+    },
+    {
+        "id":  201,
+        "uex_name":  "Ship Ammunition - Size 1",
+        "key":  ""
+    },
+    {
+        "id":  202,
+        "uex_name":  "Ship Ammunition - Size 2",
+        "key":  ""
+    },
+    {
+        "id":  203,
+        "uex_name":  "Ship Ammunition - Size 3",
+        "key":  ""
+    },
+    {
+        "id":  204,
+        "uex_name":  "Ship Ammunition - Size 4",
+        "key":  ""
+    },
+    {
+        "id":  205,
+        "uex_name":  "Ship Ammunition - Size 5",
+        "key":  ""
+    },
+    {
+        "id":  206,
+        "uex_name":  "Ship Ammunition - Size 6",
+        "key":  ""
+    },
+    {
+        "id":  207,
+        "uex_name":  "Ship Ammunition - Size 7",
+        "key":  ""
+    },
+    {
+        "id":  208,
+        "uex_name":  "Ship Decoy Countermeasures",
+        "key":  ""
+    },
+    {
+        "id":  209,
+        "uex_name":  "Ship Noise Countermeasures",
+        "key":  ""
+    },
+    {
+        "id":  210,
+        "uex_name":  "Ouratite (Raw)",
+        "key":  ""
+    },
+    {
+        "id":  212,
+        "uex_name":  "Sadaryx (Raw)",
+        "key":  ""
+    }
+]
