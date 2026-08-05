@@ -2,667 +2,667 @@
     {
         "id":  1,
         "uex_name":  "Agricium",
-        "key":  ""
+        "key":  "items_commodities_agricium="
     },
     {
         "id":  2,
         "uex_name":  "Agricium (Ore)",
-        "key":  ""
+        "key":  "items_commodities_agricium_ore="
     },
     {
         "id":  3,
         "uex_name":  "Agricultural Supplies",
-        "key":  ""
+        "key":  "items_commodities_agriculturalSupplies="
     },
     {
         "id":  4,
         "uex_name":  "Altruciatoxin",
-        "key":  ""
+        "key":  "items_commodities_altruciatoxin="
     },
     {
         "id":  5,
         "uex_name":  "Aluminum",
-        "key":  ""
+        "key":  "items_commodities_aluminum="
     },
     {
         "id":  6,
         "uex_name":  "Aluminum (Ore)",
-        "key":  ""
+        "key":  "items_commodities_aluminum_ore="
     },
     {
         "id":  7,
         "uex_name":  "Amioshi Plague",
-        "key":  ""
+        "key":  "items_commodities_amioshiplague="
     },
     {
         "id":  8,
         "uex_name":  "Aphorite",
-        "key":  ""
+        "key":  "items_commodities_aphorite="
     },
     {
         "id":  9,
         "uex_name":  "Astatine",
-        "key":  ""
+        "key":  "items_commodities_Astatine="
     },
     {
         "id":  10,
         "uex_name":  "Audio-Visual Equipment",
-        "key":  ""
+        "key":  "items_commodities_AudioVisualEquipment="
     },
     {
         "id":  11,
         "uex_name":  "Beryl",
-        "key":  ""
+        "key":  "items_commodities_beryl="
     },
     {
         "id":  12,
         "uex_name":  "Beryl (Raw)",
-        "key":  ""
+        "key":  "items_commodities_beryl_raw="
     },
     {
         "id":  13,
         "uex_name":  "Bexalite",
-        "key":  ""
+        "key":  "items_commodities_bexalite="
     },
     {
         "id":  14,
         "uex_name":  "Bexalite (Raw)",
-        "key":  ""
+        "key":  "items_commodities_bexalite_raw="
     },
     {
         "id":  15,
         "uex_name":  "Borase",
-        "key":  ""
+        "key":  "items_commodities_borase="
     },
     {
         "id":  16,
         "uex_name":  "Borase (Ore)",
-        "key":  ""
+        "key":  "items_commodities_borase_ore="
     },
     {
         "id":  17,
         "uex_name":  "Chlorine",
-        "key":  ""
+        "key":  "items_commodities_chlorine="
     },
     {
         "id":  18,
         "uex_name":  "Compboard",
-        "key":  ""
+        "key":  "items_commodities_compboard="
     },
     {
         "id":  19,
         "uex_name":  "Construction Materials",
-        "key":  ""
+        "key":  "items_commodities_ConstructionMaterials="
     },
     {
         "id":  20,
         "uex_name":  "Copper",
-        "key":  ""
+        "key":  "items_commodities_copper="
     },
     {
         "id":  21,
         "uex_name":  "Copper (Ore)",
-        "key":  ""
+        "key":  "items_commodities_copper_ore="
     },
     {
         "id":  22,
         "uex_name":  "Corundum",
-        "key":  ""
+        "key":  "items_commodities_corundum="
     },
     {
         "id":  23,
         "uex_name":  "Corundum (Raw)",
-        "key":  ""
+        "key":  "items_commodities_corundum_raw="
     },
     {
         "id":  24,
         "uex_name":  "Degnous Root",
-        "key":  ""
+        "key":  "items_commodities_degnousroot="
     },
     {
         "id":  25,
         "uex_name":  "Diamond",
-        "key":  ""
+        "key":  "items_commodities_diamond="
     },
     {
         "id":  26,
         "uex_name":  "Diamond (Raw)",
-        "key":  ""
+        "key":  "items_commodities_diamond_raw="
     },
     {
         "id":  27,
         "uex_name":  "Distilled Spirits",
-        "key":  ""
+        "key":  "items_commodities_distilledSpirits="
     },
     {
         "id":  28,
         "uex_name":  "Dolivine",
-        "key":  ""
+        "key":  "items_commodities_dolivine="
     },
     {
         "id":  29,
         "uex_name":  "E\u0027tam",
-        "key":  ""
+        "key":  "items_commodities_etam="
     },
     {
         "id":  31,
         "uex_name":  "Fluorine",
-        "key":  ""
+        "key":  "items_commodities_fluorine="
     },
     {
         "id":  32,
         "uex_name":  "Gasping Weevil Eggs",
-        "key":  ""
+        "key":  "items_commodities_GaspingWeevilEggs="
     },
     {
         "id":  33,
         "uex_name":  "Gold",
-        "key":  ""
+        "key":  "items_commodities_gold="
     },
     {
         "id":  34,
         "uex_name":  "Gold (Ore)",
-        "key":  ""
+        "key":  "items_commodities_gold_ore="
     },
     {
         "id":  35,
         "uex_name":  "Golden Medmon",
-        "key":  ""
+        "key":  "items_commodities_goldenmedmon="
     },
     {
         "id":  36,
         "uex_name":  "Hadanite",
-        "key":  ""
+        "key":  "items_commodities_hadanite="
     },
     {
         "id":  37,
         "uex_name":  "Heart of the Woods",
-        "key":  ""
+        "key":  "items_commodities_heartofthewoods="
     },
     {
         "id":  38,
         "uex_name":  "Helium",
-        "key":  ""
+        "key":  "items_commodities_helium="
     },
     {
         "id":  39,
         "uex_name":  "Hephaestanite",
-        "key":  ""
+        "key":  "items_commodities_hephaestanite="
     },
     {
         "id":  40,
         "uex_name":  "Hephaestanite (Raw)",
-        "key":  ""
+        "key":  "items_commodities_hephaestanite_raw,P="
     },
     {
         "id":  41,
         "uex_name":  "Hydrogen",
-        "key":  ""
+        "key":  "items_commodities_hydrogen="
     },
     {
         "id":  43,
         "uex_name":  "Iodine",
-        "key":  ""
+        "key":  "items_commodities_iodine="
     },
     {
         "id":  44,
         "uex_name":  "Iron",
-        "key":  ""
+        "key":  "items_commodities_iron,P="
     },
     {
         "id":  45,
         "uex_name":  "Iron (Ore)",
-        "key":  ""
+        "key":  "items_commodities_iron_ore,P="
     },
     {
         "id":  46,
         "uex_name":  "Janalite",
-        "key":  ""
+        "key":  "items_commodities_janalite="
     },
     {
         "id":  47,
         "uex_name":  "Laranite",
-        "key":  ""
+        "key":  "items_commodities_laranite="
     },
     {
         "id":  48,
         "uex_name":  "Laranite (Raw)",
-        "key":  ""
+        "key":  "items_commodities_laranite_raw="
     },
     {
         "id":  49,
         "uex_name":  "Luminalia Gift",
-        "key":  ""
+        "key":  "items_commodities_special_holidaybox="
     },
     {
         "id":  50,
         "uex_name":  "Maze",
-        "key":  ""
+        "key":  "items_commodities_maze="
     },
     {
         "id":  51,
         "uex_name":  "Medical Supplies",
-        "key":  ""
+        "key":  "items_commodities_medicalSupplies="
     },
     {
         "id":  52,
         "uex_name":  "Neon",
-        "key":  ""
+        "key":  "items_commodities_neon="
     },
     {
         "id":  53,
         "uex_name":  "Osoian Hides",
-        "key":  ""
+        "key":  "items_commodities_OsoianHides="
     },
     {
         "id":  54,
         "uex_name":  "Party Favors",
-        "key":  ""
+        "key":  "items_commodities_PartyFavors="
     },
     {
         "id":  55,
         "uex_name":  "Pitambu",
-        "key":  ""
+        "key":  "items_commodities_pitambu="
     },
     {
         "id":  56,
         "uex_name":  "Processed Food",
-        "key":  ""
+        "key":  "items_commodities_processedFood="
     },
     {
         "id":  57,
         "uex_name":  "Prota",
-        "key":  ""
+        "key":  "items_commodities_prota="
     },
     {
         "id":  58,
         "uex_name":  "Quantainium",
-        "key":  ""
+        "key":  "items_commodities_quantainium="
     },
     {
         "id":  59,
         "uex_name":  "Quantainium (Raw)",
-        "key":  ""
+        "key":  "items_commodities_quantainium_raw="
     },
     {
         "id":  60,
         "uex_name":  "Quartz",
-        "key":  ""
+        "key":  "items_commodities_quartz="
     },
     {
         "id":  61,
         "uex_name":  "Quartz (Raw)",
-        "key":  ""
+        "key":  "items_commodities_quartz_raw="
     },
     {
         "id":  62,
         "uex_name":  "Ranta Dung",
-        "key":  ""
+        "key":  "items_commodities_rantadung="
     },
     {
         "id":  63,
         "uex_name":  "Recycled Material Composite",
-        "key":  ""
+        "key":  "items_commodities_type_RMC="
     },
     {
         "id":  64,
         "uex_name":  "Year of the Monkey Envelope",
-        "key":  ""
+        "key":  "items_commodities_special_lunar_envelope_1_monkey_a="
     },
     {
         "id":  65,
         "uex_name":  "Revenant Pod",
-        "key":  ""
+        "key":  "items_commodities_revenantpod="
     },
     {
         "id":  66,
         "uex_name":  "Revenant Tree Pollen",
-        "key":  ""
+        "key":  "items_commodities_altruciatoxin_unprocessed="
     },
     {
         "id":  67,
         "uex_name":  "Scrap",
-        "key":  ""
+        "key":  "items_commodities_scrap="
     },
     {
         "id":  68,
         "uex_name":  "SLAM",
-        "key":  ""
+        "key":  "items_commodities_slam="
     },
     {
         "id":  69,
         "uex_name":  "Souvenirs",
-        "key":  ""
+        "key":  "items_commodities_Souvenirs="
     },
     {
         "id":  70,
         "uex_name":  "Stims",
-        "key":  ""
+        "key":  "items_commodities_stims="
     },
     {
         "id":  72,
         "uex_name":  "Sunset Berries",
-        "key":  ""
+        "key":  "items_commodities_sunsetberry="
     },
     {
         "id":  73,
         "uex_name":  "Taranite",
-        "key":  ""
+        "key":  "items_commodities_taranite="
     },
     {
         "id":  74,
         "uex_name":  "Taranite (Raw)",
-        "key":  ""
+        "key":  "items_commodities_taranite_raw="
     },
     {
         "id":  75,
         "uex_name":  "Titanium",
-        "key":  ""
+        "key":  "items_commodities_titanium="
     },
     {
         "id":  76,
         "uex_name":  "Titanium (Ore)",
-        "key":  ""
+        "key":  "items_commodities_titanium_ore="
     },
     {
         "id":  77,
         "uex_name":  "Tungsten",
-        "key":  ""
+        "key":  "items_commodities_tungsten="
     },
     {
         "id":  78,
         "uex_name":  "Tungsten (Ore)",
-        "key":  ""
+        "key":  "items_commodities_tungsten_ore="
     },
     {
         "id":  79,
         "uex_name":  "Waste",
-        "key":  ""
+        "key":  "items_commodities_type_waste="
     },
     {
         "id":  80,
         "uex_name":  "WiDoW",
-        "key":  ""
+        "key":  "items_commodities_widow="
     },
     {
         "id":  81,
         "uex_name":  "Year of the Rooster Envelope",
-        "key":  ""
+        "key":  "items_commodities_special_lunar_envelope_1_rooster_a="
     },
     {
         "id":  82,
         "uex_name":  "AcryliPlex Composite",
-        "key":  ""
+        "key":  "items_commodities_acryliplex="
     },
     {
         "id":  83,
         "uex_name":  "Diluthermex",
-        "key":  ""
+        "key":  "items_commodities_diluthermex="
     },
     {
         "id":  85,
         "uex_name":  "Ammonia",
-        "key":  ""
+        "key":  "items_commodities_ammonia="
     },
     {
         "id":  87,
         "uex_name":  "Quantum Fuel",
-        "key":  ""
+        "key":  "items_commodities_type_quantumFuel="
     },
     {
         "id":  88,
         "uex_name":  "Year of the Dog Envelope",
-        "key":  ""
+        "key":  "items_commodities_special_lunar_envelope_1_dog_a="
     },
     {
         "id":  91,
         "uex_name":  "Marok Gem",
-        "key":  ""
+        "key":  "items_commodities_marokgem="
     },
     {
         "id":  92,
         "uex_name":  "Kopion Horn",
-        "key":  ""
+        "key":  "items_commodities_kopionhorn="
     },
     {
         "id":  93,
         "uex_name":  "DynaFlex",
-        "key":  ""
+        "key":  "items_commodities_dynaflex="
     },
     {
         "id":  97,
         "uex_name":  "Human Food Bars",
-        "key":  ""
+        "key":  "items_commodities_HumanFoodBars="
     },
     {
         "id":  100,
         "uex_name":  "Silicon",
-        "key":  ""
+        "key":  "items_commodities_silicon="
     },
     {
         "id":  101,
         "uex_name":  "Pressurized Ice",
-        "key":  ""
+        "key":  "items_commodities_pressurized_ice,P="
     },
     {
         "id":  102,
         "uex_name":  "Carbon",
-        "key":  ""
+        "key":  "items_commodities_carbon="
     },
     {
         "id":  103,
         "uex_name":  "Tin",
-        "key":  ""
+        "key":  "items_commodities_tin="
     },
     {
         "id":  104,
         "uex_name":  "Hydrogen Fuel",
-        "key":  ""
+        "key":  "items_commodities_type_plasmaFuel="
     },
     {
         "id":  106,
         "uex_name":  "Nitrogen",
-        "key":  ""
+        "key":  "items_commodities_nitrogen="
     },
     {
         "id":  109,
         "uex_name":  "Steel",
-        "key":  ""
+        "key":  "items_commodities_steel="
     },
     {
         "id":  110,
         "uex_name":  "Cobalt",
-        "key":  ""
+        "key":  "items_commodities_cobalt="
     },
     {
         "id":  111,
         "uex_name":  "Argon",
-        "key":  ""
+        "key":  "items_commodities_argon="
     },
     {
         "id":  112,
         "uex_name":  "Bioplastic",
-        "key":  ""
+        "key":  "items_commodities_bioplastic="
     },
     {
         "id":  113,
         "uex_name":  "Carbon-Silk",
-        "key":  ""
+        "key":  "items_commodities_carbonsilk="
     },
     {
         "id":  114,
         "uex_name":  "Methane",
-        "key":  ""
+        "key":  "items_commodities_methane="
     },
     {
         "id":  115,
         "uex_name":  "Omnapoxy",
-        "key":  ""
+        "key":  "items_commodities_omnapoxy="
     },
     {
         "id":  116,
         "uex_name":  "Potassium",
-        "key":  ""
+        "key":  "items_commodities_potassium="
     },
     {
         "id":  118,
         "uex_name":  "Xa\u0027Pyen",
-        "key":  ""
+        "key":  "items_commodities_xapyen="
     },
     {
         "id":  119,
         "uex_name":  "Diamond Laminate",
-        "key":  ""
+        "key":  "items_commodities_diamondlaminate="
     },
     {
         "id":  120,
         "uex_name":  "Fresh Food",
-        "key":  ""
+        "key":  "items_commodities_freshFood="
     },
     {
         "id":  121,
         "uex_name":  "Partillium",
-        "key":  ""
+        "key":  "items_commodities_partillium="
     },
     {
         "id":  122,
         "uex_name":  "Stileron",
-        "key":  ""
+        "key":  "items_commodities_stileron="
     },
     {
         "id":  123,
         "uex_name":  "Mercury",
-        "key":  ""
+        "key":  "items_commodities_mercury="
     },
     {
         "id":  124,
         "uex_name":  "Riccite",
-        "key":  ""
+        "key":  "items_commodities_riccite="
     },
     {
         "id":  125,
         "uex_name":  "Ice (Raw)",
-        "key":  ""
+        "key":  "items_commodities_raw_ice,P="
     },
     {
         "id":  126,
         "uex_name":  "CK13-GID Seed Blend",
-        "key":  ""
+        "key":  "items_commodities_CK13GIDSeeds="
     },
     {
         "id":  127,
         "uex_name":  "Dymantium",
-        "key":  ""
+        "key":  "items_commodities_dymantium="
     },
     {
         "id":  128,
         "uex_name":  "Ship Ammunition",
-        "key":  ""
+        "key":  "item_NameAmmoCrate="
     },
     {
         "id":  129,
         "uex_name":  "HexaPolyMesh Coating",
-        "key":  ""
+        "key":  "items_commodities_type_HPMC="
     },
     {
         "id":  130,
         "uex_name":  "Atlasium",
-        "key":  ""
+        "key":  "items_commodities_atlasium="
     },
     {
         "id":  132,
         "uex_name":  "Thermalfoam",
-        "key":  ""
+        "key":  "items_commodities_thermalfoam="
     },
     {
         "id":  144,
         "uex_name":  "Jumping Limes",
-        "key":  ""
+        "key":  "items_commodities_jumpinglimes="
     },
     {
         "id":  153,
         "uex_name":  "Tritium",
-        "key":  ""
+        "key":  "items_commodities_tritium="
     },
     {
         "id":  161,
         "uex_name":  "Silicon (Raw)",
-        "key":  ""
+        "key":  "items_commodities_raw_silicon,P="
     },
     {
         "id":  162,
         "uex_name":  "Stileron (Raw)",
-        "key":  ""
+        "key":  "items_commodities_stileron_ore="
     },
     {
         "id":  163,
         "uex_name":  "Riccite (Ore)",
-        "key":  ""
+        "key":  "items_commodities_riccite_ore="
     },
     {
         "id":  164,
         "uex_name":  "Year of the Pig Envelope",
-        "key":  ""
+        "key":  "items_commodities_special_lunar_envelope_1_pig_a="
     },
     {
         "id":  166,
         "uex_name":  "Detatrine",
-        "key":  ""
+        "key":  "items_commodities_detatrine="
     },
     {
         "id":  167,
         "uex_name":  "Beradom",
-        "key":  ""
+        "key":  "items_commodities_beradom="
     },
     {
         "id":  168,
         "uex_name":  "Glacosite",
-        "key":  ""
+        "key":  "items_commodities_glacosite="
     },
     {
         "id":  169,
         "uex_name":  "Feynmaline",
-        "key":  ""
+        "key":  "items_commodities_feynmaline="
     },
     {
         "id":  170,
         "uex_name":  "Carinite",
-        "key":  ""
+        "key":  "items_commodities_carinite="
     },
     {
         "id":  171,
         "uex_name":  "Jaclium",
-        "key":  ""
+        "key":  "items_commodities_jaclium="
     },
     {
         "id":  172,
         "uex_name":  "Saldynium (Ore)",
-        "key":  ""
+        "key":  "items_commodities_saldynium_ore="
     },
     {
         "id":  173,
         "uex_name":  "Jaclium (Ore)",
-        "key":  ""
+        "key":  "items_commodities_jaclium_ore="
     },
     {
         "id":  174,
         "uex_name":  "Cave Kopion Horn",
-        "key":  ""
+        "key":  "items_commodities_kopionhorn_cave="
     },
     {
         "id":  175,
         "uex_name":  "Tundra Kopion Horn",
-        "key":  ""
+        "key":  "items_commodities_kopionhorn_tundra="
     },
     {
         "id":  176,
         "uex_name":  "Tin (Ore)",
-        "key":  ""
+        "key":  "items_commodities_tin_ore="
     },
     {
         "id":  178,
         "uex_name":  "Carinite (Pure)",
-        "key":  ""
+        "key":  "items_commodities_carinite_pure="
     },
     {
         "id":  179,
@@ -672,121 +672,121 @@
     {
         "id":  184,
         "uex_name":  "Lindinium",
-        "key":  ""
+        "key":  "items_commodities_lindinium="
     },
     {
         "id":  185,
         "uex_name":  "Lindinium (Ore)",
-        "key":  ""
+        "key":  "items_commodities_lindinium_ore="
     },
     {
         "id":  186,
         "uex_name":  "Organics",
-        "key":  ""
+        "key":  "items_commodities_organimass="
     },
     {
         "id":  187,
         "uex_name":  "Savrilium (Ore)",
-        "key":  ""
+        "key":  "items_commodities_savrilium_ore="
     },
     {
         "id":  188,
         "uex_name":  "Savrilium",
-        "key":  ""
+        "key":  "items_commodities_savrilium="
     },
     {
         "id":  189,
         "uex_name":  "Torite (Ore)",
-        "key":  ""
+        "key":  "items_commodities_torite_ore="
     },
     {
         "id":  190,
         "uex_name":  "Torite",
-        "key":  ""
+        "key":  "items_commodities_torite="
     },
     {
         "id":  191,
         "uex_name":  "CryoPod",
-        "key":  ""
+        "key":  "Item_Name_Container_CryoPod_01="
     },
     {
         "id":  192,
         "uex_name":  "Year of the Rat Envelope",
-        "key":  ""
+        "key":  "items_commodities_special_lunar_envelope_1_rat_a="
     },
     {
         "id":  193,
         "uex_name":  "Aslarite",
-        "key":  ""
+        "key":  "items_commodities_aslarite="
     },
     {
         "id":  194,
         "uex_name":  "Ouratite",
-        "key":  ""
+        "key":  "items_commodities_ouratite="
     },
     {
         "id":  199,
         "uex_name":  "Aslarite (Raw)",
-        "key":  ""
+        "key":  "items_commodities_aslarite_raw="
     },
     {
         "id":  200,
         "uex_name":  "Sadaryx",
-        "key":  ""
+        "key":  "items_commodities_sadaryx="
     },
     {
         "id":  201,
         "uex_name":  "Ship Ammunition - Size 1",
-        "key":  ""
+        "key":  "items_commodities_shipammo_size_1,P="
     },
     {
         "id":  202,
         "uex_name":  "Ship Ammunition - Size 2",
-        "key":  ""
+        "key":  "items_commodities_shipammo_size_2,P="
     },
     {
         "id":  203,
         "uex_name":  "Ship Ammunition - Size 3",
-        "key":  ""
+        "key":  "items_commodities_shipammo_size_3,P="
     },
     {
         "id":  204,
         "uex_name":  "Ship Ammunition - Size 4",
-        "key":  ""
+        "key":  "items_commodities_shipammo_size_4,P="
     },
     {
         "id":  205,
         "uex_name":  "Ship Ammunition - Size 5",
-        "key":  ""
+        "key":  "items_commodities_shipammo_size_5,P="
     },
     {
         "id":  206,
         "uex_name":  "Ship Ammunition - Size 6",
-        "key":  ""
+        "key":  "items_commodities_shipammo_size_6,P="
     },
     {
         "id":  207,
         "uex_name":  "Ship Ammunition - Size 7",
-        "key":  ""
+        "key":  "items_commodities_shipammo_size_7,P="
     },
     {
         "id":  208,
         "uex_name":  "Ship Decoy Countermeasures",
-        "key":  ""
+        "key":  "items_commodities_countermeasures_decoy,P="
     },
     {
         "id":  209,
         "uex_name":  "Ship Noise Countermeasures",
-        "key":  ""
+        "key":  "items_commodities_countermeasures_noise,P="
     },
     {
         "id":  210,
         "uex_name":  "Ouratite (Raw)",
-        "key":  ""
+        "key":  "items_commodities_raw_ouratite="
     },
     {
         "id":  212,
         "uex_name":  "Sadaryx (Raw)",
-        "key":  ""
+        "key":  "items_commodities_sadaryx_raw="
     }
 ]
