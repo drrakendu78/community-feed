@@ -1,14 +1,20 @@
 {
   "schema": 1,
-  "updated": "2026-06-26-2",
-  "languages": ["fr", "vo", "en"],
+  "updated": "2026-08-27",
+  "languages": [
+    "fr",
+    "vo",
+    "en"
+  ],
   "packs": [
     {
       "id": "dolbyfr",
       "name": "StelliTrad",
       "author": "DolbyFR",
       "description": "Version FR SCCompanion enrichie par DolbyFR : marqueurs de missions ([BP], [XP], DIRECT) et préfixes Type/Taille/Grade sur les composants.",
-      "lang": ["fr"],
+      "lang": [
+        "fr"
+      ],
       "folder": "french_(france)",
       "url": "https://raw.githubusercontent.com/DolbyFR/StelliTrad/refs/heads/main/global.ini",
       "featured": true
@@ -18,7 +24,9 @@
       "name": "FR — Avec prix UEX / Grade composants",
       "author": "SCCompanion",
       "description": "Traduction FR complète : prix UEX et grade des composants intégrés aux titres et descriptions des missions.",
-      "lang": ["fr"],
+      "lang": [
+        "fr"
+      ],
       "folder": "french_(france)",
       "url": "https://raw.githubusercontent.com/GerbyTV/SCTMN/refs/heads/main/global.ini"
     },
@@ -27,7 +35,9 @@
       "name": "FR — Sans prix / Grade composants",
       "author": "SCCompanion",
       "description": "Traduction FR avec le grade des composants, mais sans les prix UEX.",
-      "lang": ["fr"],
+      "lang": [
+        "fr"
+      ],
       "folder": "french_(france)",
       "url": "https://raw.githubusercontent.com/GerbyTV/SCTMN/refs/heads/main/globalfr.ini"
     },
@@ -36,7 +46,10 @@
       "name": "FR/VO — Settings VO / Avec prix UEX",
       "author": "SCCompanion",
       "description": "Titres de missions et menus en version originale, avec prix UEX et grade des composants.",
-      "lang": ["fr", "vo"],
+      "lang": [
+        "fr",
+        "vo"
+      ],
       "folder": "french_(france)",
       "url": "https://raw.githubusercontent.com/GerbyTV/PolyToolSC/refs/heads/main/global.ini"
     },
@@ -45,7 +58,10 @@
       "name": "FR/VO — Settings VO / Sans prix",
       "author": "SCCompanion",
       "description": "Titres de missions et menus en VO, grade des composants, sans les prix UEX.",
-      "lang": ["fr", "vo"],
+      "lang": [
+        "fr",
+        "vo"
+      ],
       "folder": "french_(france)",
       "url": "https://raw.githubusercontent.com/GerbyTV/PolyToolSC/refs/heads/main/globalSPMIX.ini"
     },
@@ -54,7 +70,9 @@
       "name": "VO — Avec prix UEX / Grade composants",
       "author": "SCCompanion",
       "description": "Version anglaise (VO) avec prix UEX et grade des composants.",
-      "lang": ["vo"],
+      "lang": [
+        "vo"
+      ],
       "folder": "french_(france)",
       "url": "https://raw.githubusercontent.com/GerbyTV/PolyToolSC/refs/heads/main/global_en.ini"
     },
@@ -63,7 +81,9 @@
       "name": "Circuspes",
       "author": "Communauté Hugo Lisoir",
       "description": "Communautaire FR (communauté Hugo Lisoir), corrigée en amont via Evocati/PTU — à jour à chaque patch.",
-      "lang": ["fr"],
+      "lang": [
+        "fr"
+      ],
       "folder": "french_(france)",
       "url": "https://traduction.circuspes.fr/download/global.ini"
     },
@@ -72,7 +92,9 @@
       "name": "ExoAE — Composants courts",
       "author": "ExoAE",
       "description": "Anglais : noms de composants raccourcis + marqueurs [Rep]/[BP] sur les missions.",
-      "lang": ["en"],
+      "lang": [
+        "en"
+      ],
       "folder": "english",
       "url": "https://raw.githubusercontent.com/ExoAE/ScCompLangPack/main/ScCompLangPack/data/Localization/english/global.ini"
     },
@@ -81,18 +103,11 @@
       "name": "StarStrings (MrKraken)",
       "author": "MrKraken",
       "description": "Anglais composants — la version d'origine de MrKraken.",
-      "lang": ["en"],
+      "lang": [
+        "en"
+      ],
       "folder": "english",
       "url": "https://raw.githubusercontent.com/MrKraken/StarStrings/refs/heads/master/src/For_Players/Data/Localization/english/global.ini"
-    },
-    {
-      "id": "beltakoda",
-      "name": "BeltaKoda Remix",
-      "author": "BeltaKoda",
-      "description": "Anglais composants, version compacte (sans les marqueurs).",
-      "lang": ["en"],
-      "folder": "english",
-      "url": "https://raw.githubusercontent.com/BeltaKoda/ScCompLangPackRemix/refs/heads/main/LIVE/data/Localization/english/global.ini"
     }
   ]
 }
