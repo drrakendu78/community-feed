@@ -2,6 +2,14 @@
  "schema": "stelliverse-blueprints-index/1",
  "files": [
   {
+   "changelist": "12660092",
+   "channel": "LIVE",
+   "branch": "sc-alpha-4.10.0",
+   "file": "blueprints.12660092.json",
+   "blueprints": 1606,
+   "pools": 154
+  },
+  {
    "changelist": "12344265",
    "channel": "LIVE",
    "branch": "sc-alpha-4.9.0",
