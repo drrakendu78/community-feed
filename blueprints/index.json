@@ -7,7 +7,10 @@
    "branch": "sc-alpha-4.10.0",
    "file": "blueprints.12660092.json",
    "blueprints": 1606,
-   "pools": 154
+   "pools": 154,
+   "reputation": "reputation.12660092.json",
+   "scopes": 46,
+   "repMissions": 3852
   },
   {
    "changelist": "12344265",
