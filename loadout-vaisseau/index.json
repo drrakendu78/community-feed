@@ -1,0 +1,16 @@
+{
+ "schema": "stelliverse-loadout-feed/1",
+ "jeux": [
+  {
+   "version": "4.10.2-LIVE.12881860",
+   "changelist": 12881860,
+   "fichier": "loadout-vaisseau.12881860.d6e6e20a4363.zip",
+   "sha256": "d6e6e20a4363af37753a078cb71f1b52fd8641d996dadd739bc6272682d1eeb9",
+   "octets": 1570043,
+   "donnees": "20154403df8dca31fd4de302f75d6297ff34a754190aebad2f12802c1fec5bd2",
+   "vaisseaux": 271,
+   "prix": "2026-10-13T15:01:08.811Z",
+   "publie": "2026-10-13T15:01:30.376Z"
+  }
+ ]
+}
