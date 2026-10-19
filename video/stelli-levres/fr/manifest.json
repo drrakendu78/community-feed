@@ -1,0 +1,1895 @@
+{
+ "version": 1,
+ "description": "Stelli dit ses répliques (FR) : vidéos muettes, lèvres guidées par sa voix F5. Nom = clé de la réplique dans l’appli.",
+ "format": "H.264 High 576x768 24 i/s CRF 26 sans son",
+ "videos": [
+  {
+   "cle": "00b3bbdceaab7763c6bc9eb07d6c8440af53694ebf5906d76859caebdd18015c",
+   "taille": 211415,
+   "sha256": "dcd16bcbfe1aafea74690d08b2b821702c5ee270aca8ea5dce5cf61b8386a750",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "armement en ligne"
+  },
+  {
+   "cle": "01f65734ce9ce29d4830a93cb64a066b4f1c0fc8982e58f0548abb829639ca0a",
+   "taille": 210609,
+   "sha256": "d433fe3adf0a07a6a9ee81c70251f437ef0f7d1a45d8b8900d2b8b986937bef5",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "extraction prête"
+  },
+  {
+   "cle": "01fa2a11046b055496953582690c62c2a325ec378fe3bb6d85dcdbb678a5f029",
+   "taille": 302309,
+   "sha256": "816b485dccf2733f3616ae484122051ee7f22ebbb86d3416ab5c2d84ba4f1040",
+   "images": 46,
+   "duree": 1.917,
+   "texte": "le vaisseau se met en veille"
+  },
+  {
+   "cle": "02dfe42180b513a10425fa0f937c412214efab7687a3b9a8ab23f396907dc4d3",
+   "taille": 338496,
+   "sha256": "677dba553c5b8c5015df66b7cd2292682bcff302717a36fd1a53e4f752cfec0f",
+   "images": 53,
+   "duree": 2.208,
+   "texte": "atterrisseurs rentrés, commandant"
+  },
+  {
+   "cle": "048b7c80ce872f29eeba4f05c94fae27abf98078d9292b2e6a1fb92e6aeb25a9",
+   "taille": 343994,
+   "sha256": "e63cf2cf0c3fc489c320e68bf31aa62ba0285e5a5cc0155c7b9a6f35ba313873",
+   "images": 54,
+   "duree": 2.25,
+   "texte": "je vous éclaire la nuit, commandant"
+  },
+  {
+   "cle": "06bf2b4a92bb9940e11af6a92cbbcecded06b4fbd346b39f3500e7bcc5f4ee5f",
+   "taille": 260898,
+   "sha256": "bf60c9c6403bd5912a8f12c8d45b769f08e0f8e4259eb04917a62b68796df62e",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "communication ouverte"
+  },
+  {
+   "cle": "082faaf580e63df3e67ca07d06245b8f26a34a810375e1903e882f15002132f9",
+   "taille": 255591,
+   "sha256": "165751ea986968ce240feaa890815888f38939e74d44cc260227b1c175b137cf",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "atterrisseurs déployés"
+  },
+  {
+   "cle": "08ce1b5e81eccddd056497e529536db4f5468678cfa1d6317296eb488414a138",
+   "taille": 224234,
+   "sha256": "da187e4857a3e65485d9740538df6328ce766eb6f01467ae5245219f3c17fe16",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "lumières éteintes"
+  },
+  {
+   "cle": "0927712e179ab446de5f3646c6186c5be358a22e8e8218413e03b76773d18fe5",
+   "taille": 177476,
+   "sha256": "f68980dad72275d4d4501876d4367e05fc171efa67cf56c6313ee039afe3fc52",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "plus d ombres"
+  },
+  {
+   "cle": "0970afa446f651b6dcf287157bbce0a97bd849b6a158ebadb68c6136d0c2ff08",
+   "taille": 267592,
+   "sha256": "250b9ae52f671b9f704d83ee963e8338b276b9223c93753971649ec16af2f650",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "prêts à mordre, commandant"
+  },
+  {
+   "cle": "0c03003cbd2484ec9332e564e0741c34c844bf60695309222c2f1b4df4c5b45a",
+   "taille": 162006,
+   "sha256": "c62a5db97e0cf5a0fe3a769ab52fa330c3d0d3f4ff1fca1ba3a943e6ce4cce9c",
+   "images": 25,
+   "duree": 1.042,
+   "texte": "mode scan"
+  },
+  {
+   "cle": "0c0676d741ea273f7e44e0dd61388af042d44ae9a674a5d9e344c24066eb557f",
+   "taille": 216410,
+   "sha256": "0c7c129add57b82e6c6c2f5dd44e2f9ea999b60b268f86168f0bbc4c2658dc77",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "réacteurs éteints"
+  },
+  {
+   "cle": "0cd6155f7fdf4c36d84bcda35542e49e973f8fa46317542a4a30183e4356e433",
+   "taille": 193313,
+   "sha256": "3953397f8c79546efa73dea395eaf59c4438d70af8c04d95b4c9826b83496ecb",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "demande à l'ATC"
+  },
+  {
+   "cle": "0cf594ec39aba2108a4880aefde5c0ad4a1b19e7d0e5b794043fc16e58cbf989",
+   "taille": 245686,
+   "sha256": "e18d1c331b87319d477776c8ab3f8fd5da4bf897c11f873d136e6fe9a9245772",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "on va gratter du minerai"
+  },
+  {
+   "cle": "0d34312da217a28c0ddc20fda8f2a1db04300a0d365cd9f03a007026088f026d",
+   "taille": 238522,
+   "sha256": "8d5d808e827efcdaf86a1f8119f832891b8df3e07bc587673666322e6def8383",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "propulsion hors ligne"
+  },
+  {
+   "cle": "0d71dbefeae2578450041b4fb6e2a85fe1d0ea5583882ede52acda205afd62b2",
+   "taille": 213557,
+   "sha256": "c57fc11f08be79ca92785d9c80669c990193d834ebefac51a512a30958d042b0",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "propulsion coupée"
+  },
+  {
+   "cle": "0d9268d15e958f31985e84d33fd84520f34d86637a083ecf15b8b67e1af529a5",
+   "taille": 235129,
+   "sha256": "130c49ce962e02555e2b8068bf6ef08eacdd1faea5ce8fefb73d326f459a6f2b",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "j'ouvre le canal ATC"
+  },
+  {
+   "cle": "0e8d07e57694bba1f1d14e036138b5e45480fe028afd9152358f173012c1a29d",
+   "taille": 205703,
+   "sha256": "f2afe874918403fb2b12ea9fef589be6460322c47223bd10f064c3fcc09d190a",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "lumières coupées"
+  },
+  {
+   "cle": "0fbb317465fb4d0e17fca5a10381211264bedd7fad7ab1583540c0e77d01c18d",
+   "taille": 257127,
+   "sha256": "9dcee42e6a90adfab50064bd5b6f5c0c5ec30c132e655e2387437ae6fea4e6de",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "boucliers au maximum"
+  },
+  {
+   "cle": "112ee4e73b5e45703f0ca00156a5f8763cbaeaf3de10e72bbd2ae51b98f99887",
+   "taille": 211745,
+   "sha256": "8cac479a28ede50f68cd001554f495815028d85211120f374617497f0c9a5f17",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "mise sous tension"
+  },
+  {
+   "cle": "1143beedf793b405bacec377b81f6c3754517f5ea9f5d2936d2af54659e2a484",
+   "taille": 314469,
+   "sha256": "ccbebc3956343c678159e6772ea6cf0b8fa7fd6687e420b7404eb18c1ba593a4",
+   "images": 49,
+   "duree": 2.042,
+   "texte": "je coupe les lumières, commandant"
+  },
+  {
+   "cle": "11bfd8664718f6ffcbb5ded6460c483493bda022b895215fa89cab52a9426690",
+   "taille": 224161,
+   "sha256": "f983183b6269bfd1f4da3d6ea18fee5264681d577af0d24b44902a132c3a07e9",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "éclairage engagé"
+  },
+  {
+   "cle": "155faeead5997b4dab5b1714ba821a321f65e7769b44ae8f742104d29cecd703",
+   "taille": 207920,
+   "sha256": "53cc04fadd2d59de59fbf85da34fce1dc1935eb5d20f621f5bf88e5908a2e9b6",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "quantique engagé"
+  },
+  {
+   "cle": "161a24f9750768ae106d3786b2fd3dce352c3866f3225b51f86eeeb23f00c5ba",
+   "taille": 233262,
+   "sha256": "938606e97f5f7bf536d135786bf85838def4bf266dae788b85acca0ba315022e",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "je coupe les moteurs"
+  },
+  {
+   "cle": "168c83c389ddc26ae5a62f730d0a530299fa5c947d2da7f3c5ad6d6f92316ce3",
+   "taille": 214638,
+   "sha256": "f19e0d9bf577a3da6315d3f87230b91d0a39211b739085fa6267c2b13b00a4d8",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "terrain en visée"
+  },
+  {
+   "cle": "18bca02df2018597ebe5c8353e52b0da098bc0013bd676ebecb8beea1a686d6b",
+   "taille": 245432,
+   "sha256": "98d7a4d36c9bd61d186734682e5d71728d6be51ee0b2565335109b5526431232",
+   "images": 39,
+   "duree": 1.625,
+   "texte": "amplificateur en ligne"
+  },
+  {
+   "cle": "18c0a60be62c059c65a60424d86c73d88e65b447c9aa65a0ea51decf354ddb5f",
+   "taille": 206741,
+   "sha256": "e81fdfa8e8fcb8393cd3bcad113b1c9922f0dc95ff5b73933866ac3246479d0d",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "je les contacte"
+  },
+  {
+   "cle": "1908e663515374184d41183d0378d2983eb0e0340259fdc461e893fb9a597dd5",
+   "taille": 214987,
+   "sha256": "cc634a9f24ce7c6820b5d1b1dd63350176d335bca49003ddbf8000a05ac4662c",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "analyse lancée"
+  },
+  {
+   "cle": "1912fbe626071916d1687b463e4740a229dd8b297d379c6fd2580d23d2287594",
+   "taille": 286392,
+   "sha256": "e199cba3287eaccbae48551a7df90671826a0d5d21e7dccbd0bd60c84ce290c6",
+   "images": 43,
+   "duree": 1.792,
+   "texte": "silence moteur, commandant"
+  },
+  {
+   "cle": "19ccf3856adc7d56058eec5d37fdd5f420a63c06bf859f56042b4b97325ffb54",
+   "taille": 269089,
+   "sha256": "324beeb89c4511925c924d71041a06d2411d8ae6dff1e3dece5a9ec9f4dd5c34",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "armes rangées, commandant"
+  },
+  {
+   "cle": "1b80fc77c5175e5da82166070f7a04a9349e7121cad61a3e513af074c016421e",
+   "taille": 264816,
+   "sha256": "dbe2082740e97c7d726615bd138be70a23601efb24102a558fb85702ad0d34bb",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "liaison ATC ouverte"
+  },
+  {
+   "cle": "1c75c7ee82e8621d68f0b20e3f2bded2c4e5eeb96fbcf0fab54409f18e9619df",
+   "taille": 239418,
+   "sha256": "1bf886a3f68acb9835f6784c083f4fe4f60d54b2f715b37523728e83c6362640",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "posez-nous en douceur"
+  },
+  {
+   "cle": "1e313968bd803afbdf8c0c2392878005cda90e0ec992dffa5e81e255377dfe77",
+   "taille": 223316,
+   "sha256": "dc044e6db2ed3b295baaf7dde63b2d294032d28852d314990f25875aa5210516",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "vision augmentée"
+  },
+  {
+   "cle": "1e73f0ffc2df113a748ebd137d328e82fd667ebb6074a8ad5613c72685952612",
+   "taille": 262248,
+   "sha256": "5d04671b73f88c39f1503ef4747b99ad664377f8f6b7f5077f751c1d32ed831b",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "autorisation demandée"
+  },
+  {
+   "cle": "20d9e7677c251cf24b716ef4ced049ce94ce1dd800a2b3283ad6f4d8201e0a75",
+   "taille": 276834,
+   "sha256": "5533c9a8c02889b7655aa199320754c19317f81bfb449d07051b44a95d044e42",
+   "images": 42,
+   "duree": 1.75,
+   "texte": "j'ouvre la communication"
+  },
+  {
+   "cle": "22c0b59831199cfb432d50900fdf08643de8d85f39e69574c1817f81e13c3922",
+   "taille": 258008,
+   "sha256": "95f1d57b048682e4ccb3406fe595c7cd9ba4b224202d934e98e9374aeeb86f19",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "accrochez-vous, on saute"
+  },
+  {
+   "cle": "233d4f21813d8f726f331f423e646a33d8b3d67b85b8c8a6afd80f5ae034b78c",
+   "taille": 245475,
+   "sha256": "791e3c30891e7f9ed38cefc107cc6d231a51ed1e502658f98ade6357f69ce7e1",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "le vaisseau se réveille"
+  },
+  {
+   "cle": "2413947d2958fd2f120c5024c003f283ec84a40c41b7797f6c82e574ab4b19ce",
+   "taille": 157941,
+   "sha256": "36dfa5391fb1f146d052c5400c178246f36596ee3589537ed9026e7a11695560",
+   "images": 23,
+   "duree": 0.958,
+   "texte": "on creuse"
+  },
+  {
+   "cle": "243bc79a9e8cdd450284554eefac55798f0635b72bc892ace7decf9dabf03d11",
+   "taille": 196527,
+   "sha256": "59147780718bc094704218c5b86c2b73adb2eb49e664e6ae3c29ade3bfea3b06",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "moteurs coupés"
+  },
+  {
+   "cle": "24cd50c2cf34308018bb98a3973dc31809a40760d4095bc883633ffc2320dd02",
+   "taille": 172060,
+   "sha256": "f3f3a448ce7eeafb8635875cbcda92ed7d117912c866cfce1c07f3a6efa15ead",
+   "images": 26,
+   "duree": 1.083,
+   "texte": "prêt à miner"
+  },
+  {
+   "cle": "24f462eada99993cfb17e07c5ed03f82e3eb5cd9abe7f37b7407d1e3a2bfcced",
+   "taille": 181942,
+   "sha256": "f0dd3908f986c9593c5bbc5097b887e3153ebe7f4a57cdccdd370d37136f4d71",
+   "images": 27,
+   "duree": 1.125,
+   "texte": "je les hèle"
+  },
+  {
+   "cle": "2533e242a8289dd5a6662ef1adee92ec190609c5d99f9fe1891ae5be38cd0f5e",
+   "taille": 231068,
+   "sha256": "561519eccbeb132875452ffc89b7614b0f0c5067a2f590f8e2616d7f2984685a",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "armes en sécurité"
+  },
+  {
+   "cle": "25a4a72e54dd8d47bb6a82cd62fbf75680893f18ad70e5bdb46e47d09d2479db",
+   "taille": 181665,
+   "sha256": "47224efb80c2fa1613e609b5b16686ac31973373faefe673f8a01752772c9222",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "extraction"
+  },
+  {
+   "cle": "28f06f507c4effb2b75f9f3df50c1b047f441ded6eefc50f365ca25182ae1b37",
+   "taille": 194382,
+   "sha256": "0bfb4db7c7a14dd9253a6cd0ca2a10e2dc1063503559680d1aa2dd5a8e4da0a5",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "je sors le train"
+  },
+  {
+   "cle": "2bf42cda559a1800bb3462b5a4c423f3a93dab3cc13444c4bfda4510a92a1368",
+   "taille": 226819,
+   "sha256": "935975aa881af097dfe0ba866b2a389837746cbc9895bc6353b93f57bb4d6d5c",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "on passe en discret"
+  },
+  {
+   "cle": "2d428ff674a2c4f32850adac333f5d27a31076db2e115b87e10126d91477e518",
+   "taille": 243139,
+   "sha256": "6fb3cd531954d8f822e378f15bb47fd6950f3952d170d95755f2b3fec65c192e",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "je balaie, commandant"
+  },
+  {
+   "cle": "2d6d11663157c4bac229f24a99a0f26fd361682af28b770bacf3114ccf337b1d",
+   "taille": 242235,
+   "sha256": "a2589b7fbfcb9d047282a634de9a5cb1a97d7e08e73c70ca317f518200cba01b",
+   "images": 37,
+   "duree": 1.542,
+   "texte": "au boulot, commandant"
+  },
+  {
+   "cle": "2daa20b745869f09db7ed0278ab67e206e5b73cf695f91576193be8fd9379e9f",
+   "taille": 199206,
+   "sha256": "9f03751f9681f28fd4a46d6db162cbd4aa6b6bdef43c6e085363d8c55c7ff383",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "armes chargées"
+  },
+  {
+   "cle": "2ea88bf42cf0c00bd33e593b370ea920d934dca6d34217adb59facb305e3c696",
+   "taille": 287979,
+   "sha256": "57fe110a98d05bb9f84998e9ea32d66aceef86235d67091d393f6ba51e9bd637",
+   "images": 45,
+   "duree": 1.875,
+   "texte": "atterrisseurs en position"
+  },
+  {
+   "cle": "2fcdf5305dd519b83f1f57ae3f75ea5cda707f932d15ff68a190dd3b77aaa667",
+   "taille": 368234,
+   "sha256": "94c36489b9072ee6fbfdd7a1a4673e8dc372617c061aae3da0afeabcc95cf20a",
+   "images": 58,
+   "duree": 2.417,
+   "texte": "vision nocturne engagée, commandant"
+  },
+  {
+   "cle": "303679e9811a5cd9f0cc354077a658b4cee2d74cef2372395840599bd4daadea",
+   "taille": 231801,
+   "sha256": "d9a8067ac81638494db6d8a62ccc3db0ba4559f63d0198a3604417709c6c1b89",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "je range les canons"
+  },
+  {
+   "cle": "30f79a5c3bf55833eb07ff4cca08ab5c5e0a65218480819f6ce75c6ff61a17c3",
+   "taille": 300680,
+   "sha256": "90ec2c89fc06c841c63cce87855e4b8591a7fa068e385579182276d7bd6686f8",
+   "images": 46,
+   "duree": 1.917,
+   "texte": "de quoi discuter, commandant"
+  },
+  {
+   "cle": "3121ad82b48fa0315f935a7a3dbc697d3f52f853b47846269dd1e19acb383d5e",
+   "taille": 209749,
+   "sha256": "85ec261715b4c8593a3d748d02545e68fe9c7bd0c02eb024f1073c783d54fe85",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "mode extraction"
+  },
+  {
+   "cle": "31624fd1b28ab66ed37530e08d97e1ebfaea92628daf15ea23895849b7631f21",
+   "taille": 205838,
+   "sha256": "57072802402f6c6173f7a1f5f9e143215bedd18acd28551ecded682085215f45",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "analyse en cours"
+  },
+  {
+   "cle": "32a1b6a491a98977cdc6acc451e4e861320f79c65a3c1dad589dc4c84c858572",
+   "taille": 187554,
+   "sha256": "c256431f50671afee51e2940a9bce21812098b61a71b39b94ca46ac3c2d9737b",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "rien ne passe"
+  },
+  {
+   "cle": "34883acc6f1a66b444c782943b4a12d492166906b1369d848645643c3e28d435",
+   "taille": 176440,
+   "sha256": "8d5e85fad5ecdf1d7d65107d2b9196f23c436c80030c198f192e109a3e14a3e2",
+   "images": 27,
+   "duree": 1.125,
+   "texte": "train rentré"
+  },
+  {
+   "cle": "34aaa6f95f6b25b3cee2321075ce5a54e0965abd0f007bd546fa52b801de1cfe",
+   "taille": 234404,
+   "sha256": "894e3943ea39a092f2e40347efba9f77efd4589d56f854b240acca8937584643",
+   "images": 37,
+   "duree": 1.542,
+   "texte": "propulsion nominale"
+  },
+  {
+   "cle": "34cca5e6036ef17c15fd63ed0534a4a795f7137d5bcb3a7daccd11303191e337",
+   "taille": 201776,
+   "sha256": "6eae7e9cbf546fa7174c3d64bef8c1309bbb6508ee370e59a5d697c629133774",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "à vous de parler"
+  },
+  {
+   "cle": "351fb7512789e6c8d000e78ade49a4344f21d5b347d179567e2559a03e6e19e0",
+   "taille": 269069,
+   "sha256": "b03aee9b3a846a18cc8885d61032560d1d0b14bbc6411641969ceebe9a54d9f3",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "courant coupé, commandant"
+  },
+  {
+   "cle": "35fc37dc1892a43b55b632b41badc5268e59d9288d94df356948e2916740fd56",
+   "taille": 283826,
+   "sha256": "1e10cbaf70c0df613a29fbeae2d09eceb3933cb4c41d69898d67c3884acbe302",
+   "images": 43,
+   "duree": 1.792,
+   "texte": "train replié, commandant"
+  },
+  {
+   "cle": "36562b01305beeb29631d854eebb5073a01eed406c0389484c78a64edabc8c03",
+   "taille": 239179,
+   "sha256": "f9c54eda5857077020393d8a3e68d22a080f51c9603dd857333137614e92a0f9",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "atterrissage engagé"
+  },
+  {
+   "cle": "3b257a878e916208c122a55cf476ae4b9c8b3c1f9697abfb614bde87c34751c6",
+   "taille": 180114,
+   "sha256": "45df64f98ec0ef06dd479fb2d1c52ce29f664fe244924ecf08e1d8121c5c0117",
+   "images": 27,
+   "duree": 1.125,
+   "texte": "train remonté"
+  },
+  {
+   "cle": "3c2ebba1f772885d76e23dade4bdd9c917e39339e07cb7d6de33ba6d84307b6c",
+   "taille": 217817,
+   "sha256": "dce97c2f437c05ba634995748688c10cb77f7d98a617157a839e97a6f51ce24d",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "descente amorcée"
+  },
+  {
+   "cle": "3cdbba33cb10064bc49fa58990bca0db250a5c48deba71eeba3c2c02d806e3d5",
+   "taille": 310520,
+   "sha256": "d73b9a83f79173ff683ffb82dd7a86121abe4e24d2d41d847a7b6ca61bcc8918",
+   "images": 47,
+   "duree": 1.958,
+   "texte": "demande d accostage envoyée"
+  },
+  {
+   "cle": "3eeb6d1075c82451902767df8fef8bf87e8d244fb9e83f7a5d9109009d73dd75",
+   "taille": 166609,
+   "sha256": "4fb44b1a7e6ddfcebabcedbf7d26ae1ccbee7f3514fc4d056cebd00052292a18",
+   "images": 25,
+   "duree": 1.042,
+   "texte": "train rangé"
+  },
+  {
+   "cle": "3faf8a14604e87160565119aef316cfd84e0c5f71554ed3476f883ab3ff0f429",
+   "taille": 240899,
+   "sha256": "ccfc74bf0d8d0043718ead0603921a7bc3631a4b5fc5b25b8918e31335d7dfcd",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "amplificateur éteint"
+  },
+  {
+   "cle": "3fd5f53b530955c9e4c2e14ba82837b6bbd4c66964bdda6ccf0b683e3db5d12a",
+   "taille": 217431,
+   "sha256": "bf5fd5cf93f98cbc456490ccbdf0870a8669193a35292230c6260b6db09f6718",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "on rentre les pattes"
+  },
+  {
+   "cle": "3fdfb73316c84cbacd58f86d86bf9a766e6139ff340f51c5dd6c1672feb167ef",
+   "taille": 223046,
+   "sha256": "79a90bce86fb3f43ad03dd887da6da5b3122ed36911dcc2aabe3e793d984417c",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "amarrage demandé"
+  },
+  {
+   "cle": "40752d7e3ab37c24a2440959ffe6bcd53f9e9e307a667e7339ff8cc74e6962de",
+   "taille": 209872,
+   "sha256": "b83dee4b49ff4fa1f77e7ded7419ccd038908b20433f95d9cb5e7904319bbbcd",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "balayage en cours"
+  },
+  {
+   "cle": "43da2a04b657e1b03b0775e56e0f12f9ea3ebbb8ced9ec547859bc3fcec59e55",
+   "taille": 303144,
+   "sha256": "b6e67d7020fba772440cb3c234827bc0a220c763c8b4cfaf8f71985f192f0020",
+   "images": 46,
+   "duree": 1.917,
+   "texte": "on a de la poussée, commandant"
+  },
+  {
+   "cle": "45f5020bbd93b8849e3c17fad7e9d5aea96a9b2b196402a9266a921623caab39",
+   "taille": 236476,
+   "sha256": "b41bbd826a8169dc649800b57417a5e059d892e54d3f8ac5bff9f6faf469e9b6",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "on rentre à la maison"
+  },
+  {
+   "cle": "4a36505fa3b109888015a45fc54f1cbd9d4f3182682a215fe1b4509a33486881",
+   "taille": 183004,
+   "sha256": "3b823f084711a0cdd4f9128f07d3b8c4a57fcbe8df3fd828d2e2a4b1fec00152",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "canons froids"
+  },
+  {
+   "cle": "4b3ad5529e445e06bcc538ca7358bb6a191ab22398a70a507e53f1a9951a495a",
+   "taille": 217254,
+   "sha256": "202e4de2d91de7176717683562ac018416bfb31299bfa505ae58bbf257e7df3a",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "analyse démarrée"
+  },
+  {
+   "cle": "4c9e2de28fa0e78c35e31e582681a5c0d60c25ee8de33e149537ac1034d8a4a0",
+   "taille": 178824,
+   "sha256": "7a079a04eb6cefe78044a19b8eebddd5a988cb373cbea2ad6fd58d8338d6cf77",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "scanner actif"
+  },
+  {
+   "cle": "4f71ce88dd2b84e4a88797fd2bd01727119c40a23f2ac7e2e1af038345fd8d43",
+   "taille": 188481,
+   "sha256": "3977889811bf9b6726a06fce41154288b4195fdfaafa81bc64f1aa6ee9c2e392",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "patins déployés"
+  },
+  {
+   "cle": "504d0b50675307158c8b0672e11f34b94184ac7a0c00722927a7b199df8529c4",
+   "taille": 159720,
+   "sha256": "0476fc4468f027d636d27b56aa8115838ee26858f8ad12b346ddaf25c5336f36",
+   "images": 24,
+   "duree": 1,
+   "texte": "plein noir"
+  },
+  {
+   "cle": "51941d4322eae81deecff983a604d59eb00e918f02d18b4af5d29ee7a7076f07",
+   "taille": 245282,
+   "sha256": "155a5104272f59fbaaa9416fd7a8c13e0b77d3114e203a35e261bc203d2619e9",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "on se pose, commandant"
+  },
+  {
+   "cle": "52da6c408b36b917b96adfa0b2e33609b45100116f3627ed91cc240c4ed181c5",
+   "taille": 304353,
+   "sha256": "02912819eb9ca537d51476703d21b79a1c14d5989724861c01a9ee51ea89433c",
+   "images": 47,
+   "duree": 1.958,
+   "texte": "le vaisseau s’allume, commandant"
+  },
+  {
+   "cle": "534ce6bc741f4ae6357382fc55d25a8eed48d3d1793bdb10d002eba85422c67c",
+   "taille": 227208,
+   "sha256": "9a1ddec7c6c7aec104dfa05103e124675c8a460c518cb12461a3a6c9880854e5",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "réacteurs allumés"
+  },
+  {
+   "cle": "54dc6999766b0f715829c82be46447916bbd5f0177a88f3bb05872f1d9f26107",
+   "taille": 328139,
+   "sha256": "bdd0a7116fa48d3ac2ffef6041c9aef9f183d337492e1eda42b71f47015c4964",
+   "images": 52,
+   "duree": 2.167,
+   "texte": "protection maximale, commandant"
+  },
+  {
+   "cle": "55560a43a83c8b13c568e3fcecb43d793d98dd09c7a3e1f6ab3cea5be1054fee",
+   "taille": 182671,
+   "sha256": "8821a8f32380b45574f9fb3ceafec9f8282ab2e653de89ff6983e335b4afd503",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "mode minage"
+  },
+  {
+   "cle": "5688d51245b6ad8fbf002f193c023ce218f0b90bf1da1ab09852f37adde5f50b",
+   "taille": 286138,
+   "sha256": "da488a16d3d7c0efbf054d33dde4ab2384a25fea614786fba0e3cd6ce1c25cf1",
+   "images": 47,
+   "duree": 1.958,
+   "texte": "alimentation générale en ligne"
+  },
+  {
+   "cle": "570d4dee85f662666e1d910f8a10506a5c07a68dceef35877ce5b300d8b8fa6b",
+   "taille": 316377,
+   "sha256": "942795450c0379ef85c46442e71d975c8224a49de669830c4f4b0e1cb327b384",
+   "images": 50,
+   "duree": 2.083,
+   "texte": "vision nocturne off, commandant"
+  },
+  {
+   "cle": "5763f1c01e875e253781522e4d5ef011e57352ad48735ff0e8b5880c83b01cf1",
+   "taille": 276173,
+   "sha256": "d771ad92254e415baee150a89496fc351b7800ced7adbf3e871088dab0505c15",
+   "images": 42,
+   "duree": 1.75,
+   "texte": "appel en cours, commandant"
+  },
+  {
+   "cle": "57e57b5b74a3039895ab64f879bad3a263672a8f1352af60634dc7c6b239bd9c",
+   "taille": 159856,
+   "sha256": "e7889b499a25b80837d1e45f661395dfb1a2e117a21af5daaba0235830294944",
+   "images": 24,
+   "duree": 1,
+   "texte": "phares off"
+  },
+  {
+   "cle": "5847db24fe31417802bd45d436160cdc9940d82aa63718178d3858b4c76af16e",
+   "taille": 312535,
+   "sha256": "8e66abf1ba74a7c817afb65b9ed8dd796d77b9e6eb1fa102f85d95d6596c44ca",
+   "images": 48,
+   "duree": 2,
+   "texte": "moteurs allumés, commandant"
+  },
+  {
+   "cle": "58ecf78ac8a0ac75e10cdd02ba84f1255e3cdf94e102aba43ea61bb713d02da1",
+   "taille": 203020,
+   "sha256": "c5ab121d8a30e998a307f14be7a2e86c4139447598e0ec415c7e3d581c9f3025",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "boucliers levés"
+  },
+  {
+   "cle": "59ab7b1a95ded54640363d49e1b10b206714d8c6b8c526cd9a8f37c68577284b",
+   "taille": 194807,
+   "sha256": "b2bd8b916e816a132eca8725791305df9bf79930a8ed8311c1402f2e52f41067",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "patins repliés"
+  },
+  {
+   "cle": "5a0e5ff86d1ca5f0980eda8fe89cbf9eb2710f5a318dbc3275f0ace5600e9b7c",
+   "taille": 221131,
+   "sha256": "fcc1c49839e6082b4226170a71a382139f99a47c4fecf12d5b778dc280d83367",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "je remonte le train"
+  },
+  {
+   "cle": "5a1d8fec51b25d3639bb0f1747f9157fa02c0c01c029ae2d89b41d1a3e5e6dfe",
+   "taille": 246101,
+   "sha256": "7c8d46e610deb7afd5002de34de34b7ee1b92b41f96e1e7638019a3f3df3abf7",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "communication engagée"
+  },
+  {
+   "cle": "5cc829ed8699a0a4c4975e9f50cf0cba39a5f5c6ae8d4dcf6f21525aa80da01d",
+   "taille": 240025,
+   "sha256": "e77606303029be6df5ca2cb5d574b839e67e5582b62947fc03d1f6657c6df430",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "feu à votre commande"
+  },
+  {
+   "cle": "5cfe9b9093243c0c9440940812e5b454e9e6be6890efebbf9b76bccf8fb0b446",
+   "taille": 205864,
+   "sha256": "a53edc73a14b9f73c1383bbf1d4239558eee88010159d48bac8663d456af77b5",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "j'appelle la tour"
+  },
+  {
+   "cle": "5d8475d120516fb30edf76ca83bcc0b504da52855dd988cea1439b718cfcd143",
+   "taille": 202823,
+   "sha256": "506be20820b8aed47a7ac22600996f9ffb07c5dd7d707fb810138979d7a8b4cb",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "protection coupée"
+  },
+  {
+   "cle": "5f0f964fbe56ba851ae65dbf767e75a5592c5385c305e5ee23b2cbb72a9516ee",
+   "taille": 204501,
+   "sha256": "cf0149bf368f059dc493d06445ba7a82783776ab007b26378e9f1c8721de7344",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "canons hors ligne"
+  },
+  {
+   "cle": "60e0dcb18915aa870442c63ac4ffb32a50e3299296173985119386ee58f39d06",
+   "taille": 282698,
+   "sha256": "1db983ef8edd66db6f81d23c4b5ce3f5cc668a2b638124201eeed17fc12e1339",
+   "images": 46,
+   "duree": 1.917,
+   "texte": "amplification désactivée"
+  },
+  {
+   "cle": "62537d8eb6e0bc5f4883f28ee5c83638c1f80c8e5a518563abd6b84b8ca6f2ae",
+   "taille": 245268,
+   "sha256": "feafc6d1553297c59e552cf9042683f134f00912091d855e365204949a265f79",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "demande d'autorisation"
+  },
+  {
+   "cle": "67523ec19c79e5c14b171f922dc66183f4f3b0356cc18490f752dc91b98ca97f",
+   "taille": 199987,
+   "sha256": "2dbed448f9af47beb7b2a04613b1282badddf4205a3a4224ac607ec6da6261fd",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "scanner déployé"
+  },
+  {
+   "cle": "682bc5a122ef8afd3aaf8f9ea509816ffbae3242d124ce489c29754fe64e4ca1",
+   "taille": 241586,
+   "sha256": "04ef406cfe37742808afeace6a9bdae600b79066b7e4830a0be2ffb6673812a2",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "procédure d accostage"
+  },
+  {
+   "cle": "68481643a7ee9ba3e360d689e92a337b0d6d1bfd739e650756ee861fba13f18b",
+   "taille": 309017,
+   "sha256": "99ebcb2f10a37aac5b8a8ef9048ac5dbf0bd873df3ece6f807684beb73b03deb",
+   "images": 48,
+   "duree": 2,
+   "texte": "je fais la lumière, commandant"
+  },
+  {
+   "cle": "69c97cac8738cb4cc868ed1cf36b12df1bb8d3aea3c618fd3e393942d3c0571a",
+   "taille": 184855,
+   "sha256": "32a690a2a8459385271c5eea105ca5d957417161d83f4eaa8b4a924565a048e1",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "tout s’allume"
+  },
+  {
+   "cle": "6d906abf64bad1325ce58c354e8d612fab1a769c235b0cf18d34790340aa5cdc",
+   "taille": 220626,
+   "sha256": "563892f978711d4f3e43cecdd99478cae2ee8ad2c8ffbe28083560289b656015",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "le vaisseau s’endort"
+  },
+  {
+   "cle": "6e07da2ca092b3f7b5d6ea72bac1e137a921a393183f3c34f1b3ed8af529c3c1",
+   "taille": 322905,
+   "sha256": "ae205358492ddf60f85f2967700e0a5c333da794b3b5032f2001ead374f3041f",
+   "images": 51,
+   "duree": 2.125,
+   "texte": "accostage demandé, commandant"
+  },
+  {
+   "cle": "6e516cf7cd45f47d606b593533aff836e9aa6224cf35c3f02243dc3aed28c47f",
+   "taille": 314221,
+   "sha256": "039f162cd0c939f02fecccd19fd14eb1eb182dbebc6d717cfb30b1744b83e67d",
+   "images": 48,
+   "duree": 2,
+   "texte": "on est à découvert, commandant"
+  },
+  {
+   "cle": "70602dcdc126eb3c3c173ab1ba6bfbf44c814d684128af63fa8f6736674dfc60",
+   "taille": 225635,
+   "sha256": "8718913c21a396f9ea4070e602fceb7963bd6eaaa83b2014a381d2016fcd638b",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "on y voit dans le noir"
+  },
+  {
+   "cle": "7191623868b04f595c814267bb1686ad3c459e4139429654bdd0b01bfd254d64",
+   "taille": 311755,
+   "sha256": "553b772f57b7b0965323a398763bf1a7f1821e15391da6accd089094d0f1a678",
+   "images": 48,
+   "duree": 2,
+   "texte": "accostage initié, commandant"
+  },
+  {
+   "cle": "76ced199b5fd4937eff1a00a710ee6e5d5c7e8366fa55981e0720612a66e3874",
+   "taille": 219317,
+   "sha256": "d93a184e3eaefc6d057477cfd5a02f4a0766cee0809baea0cf33601bf894bff8",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "défenses actives"
+  },
+  {
+   "cle": "77a958eb19620b1b6e9a5f7d932dd9103da41e57e0974ca0b190c49089dd2bab",
+   "taille": 280944,
+   "sha256": "89c426370f65fa692a3cce92c752a9272e55c94767b24fc68515a956e1348622",
+   "images": 43,
+   "duree": 1.792,
+   "texte": "boucliers gonflés à bloc"
+  },
+  {
+   "cle": "78807364d7aad7a3864c08afe3f34e768922afd8ac706f4064baa728c06baef4",
+   "taille": 249684,
+   "sha256": "43820b02dc2a9aec89bf194522b84df1c6c50027d49bf51f682a5bbd9fdfc926",
+   "images": 39,
+   "duree": 1.625,
+   "texte": "train dehors, commandant"
+  },
+  {
+   "cle": "7a942eda40fafce040e6e5ce73ed905abb7973eac9b7628115589b93661cf75e",
+   "taille": 193584,
+   "sha256": "10a56e45d23f67eb728e0b849d0f3cf5661963436d4dbb48f6837c87306282a0",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "je rentre le train"
+  },
+  {
+   "cle": "7bd0f749f69616b023e25258bbf1cff06b96e49cff89c399f8ecef46f9cfe578",
+   "taille": 183539,
+   "sha256": "1d09a8c037e74621f5a32cfcf461b5186529c27a4905e42abc3bea4f7a9bc720",
+   "images": 27,
+   "duree": 1.125,
+   "texte": "tout s’éteint"
+  },
+  {
+   "cle": "7bfccdd830a070c64b190e67aac226685a0ba7ec5085c2d4d6bbd26cec0c69ff",
+   "taille": 171492,
+   "sha256": "c8697b5cebe204f0edd48612f83bdb0205d7f0413dbc4ef11d55a8cb407622aa",
+   "images": 26,
+   "duree": 1.083,
+   "texte": "laser paré"
+  },
+  {
+   "cle": "7f33e34d90169e4cf1ce16c397fcaac2da091ade167dbe0ff47712810a799b0a",
+   "taille": 171336,
+   "sha256": "7703db8f4a0936fd6297f723bc79b3f01270151205fd07d1ed0d0bda402e29c2",
+   "images": 25,
+   "duree": 1.042,
+   "texte": "plus de feu"
+  },
+  {
+   "cle": "7ffb30bae5fca2cb875a0b0fa7a602055757c7592a093b7f6fe3cb28ed57e434",
+   "taille": 190779,
+   "sha256": "05630b30ca11747d176eb114b9a21ac7e608b176cd034a9c0d59db1d9a60daed",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "plus de bouclier"
+  },
+  {
+   "cle": "806f2eb8101cf439a35548cf485179318368e093b6a6bd910dea1cfc48cb9ab1",
+   "taille": 201577,
+   "sha256": "75cb4f32a1ddcf2405edbe3ea154f5f93d164448ef6997da592212eefafdc9de",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "on plie l espace"
+  },
+  {
+   "cle": "81f97525cebafdabb5cc9a565be781a19aaeabf766e717da3f2a79df445933f5",
+   "taille": 248788,
+   "sha256": "6c7588e97bb6c84124a5c11c9556d3236647d9e0f946c31174a6b2474064fe80",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "doucement sur les patins"
+  },
+  {
+   "cle": "82a18fd671b5f3061a74a879fe73c258cb2362867a6b8ae5da9062635cc4d205",
+   "taille": 306471,
+   "sha256": "114098ad5923af710ff50dcfab9edc2f37476867505b318d177861bded45add0",
+   "images": 47,
+   "duree": 1.958,
+   "texte": "j’éteins le vaisseau, commandant"
+  },
+  {
+   "cle": "82a9d82b5f9f105c21d6999f3fbec480c70716c37505cd27dbf9569bf3024fed",
+   "taille": 224634,
+   "sha256": "b1b9ce5e418a531ea6b29a2ef0951175a1eb64b78ccf49e475b8cf15342a6aef",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "on saute, commandant"
+  },
+  {
+   "cle": "8381472309edd69a60c25e6e0cad04944077b52bd12a79f63ec89152db634f6e",
+   "taille": 212104,
+   "sha256": "329d423a63eec4a9ef28eee9197bf9f382683a981719afe7fb752b8ad939f820",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "mise hors tension"
+  },
+  {
+   "cle": "87d712df726119afb0980c4945b8a1c9226e1c8a6a6c2adf77649696c58864fc",
+   "taille": 166556,
+   "sha256": "1fed1475aceb74a23532c48a036a96dcbe28d168df4cc7eba76a414907fc161a",
+   "images": 25,
+   "duree": 1.042,
+   "texte": "je scanne"
+  },
+  {
+   "cle": "88796299024401b2117ca4262c0b888b6b843016e1cd89287beb288b46c08e34",
+   "taille": 207236,
+   "sha256": "9a652b404fddd6455148b464c021015e836491c831db40aca161240b918b9827",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "éclairage coupé"
+  },
+  {
+   "cle": "88bac03063c787b8c1363eee5e60415f9e2c74ba287734dfce8411bccb303113",
+   "taille": 267301,
+   "sha256": "09a70c47d90cdeaf5774106566b7f0278bf3ad7e82a9e180b6a26cedc690f251",
+   "images": 43,
+   "duree": 1.792,
+   "texte": "train sorti, prêts à poser"
+  },
+  {
+   "cle": "88ca0ef35247a3866c0c0d1eeae9eafb10600b033b73cc4c8247cec7b1659c51",
+   "taille": 205309,
+   "sha256": "b575a514fd184d2b0325e8966744671bbdd4d36882dae4a04035055ed45d5a9f",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "le train est rentré"
+  },
+  {
+   "cle": "8bed9c737981f7563e1fe234042cea72bde58422a82536a240594cc9577d8754",
+   "taille": 177593,
+   "sha256": "80e65f7e004fc1a525719f7472ea62b70e61fbfa4aedbfba309aed39dbe6556d",
+   "images": 27,
+   "duree": 1.125,
+   "texte": "mode nuit off"
+  },
+  {
+   "cle": "8c366afbd7ced63a6929d4890fb2ff5f557d858d7324c4ed97c3eaef70ae5c2d",
+   "taille": 354793,
+   "sha256": "717d6fc15619cbb744bcd107905b797d15ea91e5bb686716d54631273da49287",
+   "images": 60,
+   "duree": 2.5,
+   "texte": "je coupe la vision nocturne, commandant"
+  },
+  {
+   "cle": "8e85540fe9a667654be90f513e3dc738201833583662190f36e3adcaa42b062e",
+   "taille": 247446,
+   "sha256": "e6624a7065edfe19e0c58bae9fe742f6a67b4ac85f53b03ff9f6994c512c23b4",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "éclairage désactivé"
+  },
+  {
+   "cle": "8fd71773a1113c06af90416873f5bea715825aeab6787a161fab08cdb52e9d49",
+   "taille": 230839,
+   "sha256": "34bb9f26408c2e40bf32af1157da026dd3c3f696c7ff32913a9e1599eec67217",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "je lance les moteurs"
+  },
+  {
+   "cle": "900d2de503f4ceb58eef3872532063170a6f53ebf12af83e2b8b885178e34303",
+   "taille": 205576,
+   "sha256": "78b87f95cb9b06816f8052ba10f03da21a894ac5905b9d683dfbd98c052e23d6",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "liaison établie"
+  },
+  {
+   "cle": "900d342f3332e3f67135c48330b7fd7a5fc270bc3cf12f5ef422f7780c3cfc29",
+   "taille": 174263,
+   "sha256": "0a59bf5e21ad568c93990c105cd1fa378920ef6824317df41adb6e25b826c79d",
+   "images": 26,
+   "duree": 1.083,
+   "texte": "scan lancé"
+  },
+  {
+   "cle": "90db9a228366158d8e005a366993fbf4847653cd3e62d85f211fada409451726",
+   "taille": 311244,
+   "sha256": "d871c0a6600ebfcc08211b4798ff4a76f8edfbdfcc2f423cebf47bfbef0c3f08",
+   "images": 48,
+   "duree": 2,
+   "texte": "à vous les cailloux, commandant"
+  },
+  {
+   "cle": "91fe97de0fcdc7b80feb5cffb88221b6285cda2f77b11afb90c80086dd10d283",
+   "taille": 238769,
+   "sha256": "c1299ad7715b1d84d94899f2c11bed9ccd4561115206788faf059331ff2f4937",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "autorisation en cours"
+  },
+  {
+   "cle": "941cea3a084bb1189e9ef69a13b20ec8fb32bfac302397de0e6c2bbed211b12d",
+   "taille": 171853,
+   "sha256": "7e3f3ee09d4b61a5a0e8c9c3dddb22e205ba64e90479e45445a5745ef4231525",
+   "images": 27,
+   "duree": 1.125,
+   "texte": "canal ouvert"
+  },
+  {
+   "cle": "9549e07d4bac7ae83e8cc2fb2a8cd8527692fc91338e57e0bbc7431c4a9efd37",
+   "taille": 295508,
+   "sha256": "8ef60e831fc10306004a58c37f51376d66f3dbfd790a893d989122f7d02f01fb",
+   "images": 46,
+   "duree": 1.917,
+   "texte": "on pose ça tranquille, commandant"
+  },
+  {
+   "cle": "95acddfb4c16bf694459e305d70aeb7fd5cc8b99efeb3afec351715eff9a29e2",
+   "taille": 174125,
+   "sha256": "900fbd371dc7b322474fbb19e3f686469bed8d3329b5c83f4fa7d16f813add09",
+   "images": 27,
+   "duree": 1.125,
+   "texte": "mode analyse"
+  },
+  {
+   "cle": "96354b2ece0c35f2eca16af27c1b5a09df7fae291a31e725ca2a4a10ecc29849",
+   "taille": 228321,
+   "sha256": "4d5da0446d352c8b1d595af0f719eb92d085a2b8632553883f01cbb8bbac66f3",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "direction l infini"
+  },
+  {
+   "cle": "9aeec6f2131e70db7094151944790e8819220efbf8568db08a690241ac27b859",
+   "taille": 299153,
+   "sha256": "4769fd48121159a6e26a89420bfce76099511ffe2a1c3fda394d206f8a461825",
+   "images": 45,
+   "duree": 1.875,
+   "texte": "un peu de clarté, commandant"
+  },
+  {
+   "cle": "9b000305319c789af079fcca92562764edb21fb0298327226cd72d8353861749",
+   "taille": 185628,
+   "sha256": "d3330816457855911a837a1c99907ac63333f095288f4757a908b4a74bcac364",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "phares éteints"
+  },
+  {
+   "cle": "9b6095c9f7537873505269011b8b0a62f055b78d318c2b32aaa22a1a431a688a",
+   "taille": 228990,
+   "sha256": "c67276fa638d2430836c8218f8f4a25e51110b19474bf48071b386251f46078a",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "le vaisseau s’éveille"
+  },
+  {
+   "cle": "9c9bcc822cc43ecf2a77104c2101aeeca5015e92fde60f2a629916c8be22036e",
+   "taille": 217222,
+   "sha256": "bc74f2e7d95e233149f8aa38af6b8228872c6dc95d52627b3a2b6cab7023d94d",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "je prépare la pose"
+  },
+  {
+   "cle": "9d07059716514fbec277e8d0a0df059106f572276732aa5a32e9f94408dfbad3",
+   "taille": 190463,
+   "sha256": "f2fc5fb64e32b1be88cf39f2d66352d1b6dfff12ed299b4982715b434f4f459f",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "moteurs en ligne"
+  },
+  {
+   "cle": "9f283f0f10857e80b3004b07f55bee27f1658dc011c7f5913ebedabcb6d9a43c",
+   "taille": 190315,
+   "sha256": "29ec8df63fa16b465707217e4b7916c175592fad8ade41eae202f222928d272c",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "je replie le train"
+  },
+  {
+   "cle": "a00157b6c0b29845ac2380544275f85a750045ebd1ea2fc51f660bf4a5807a15",
+   "taille": 200975,
+   "sha256": "0b0d442371b3a0e15fc8d4d465a9b45e3b81c1df710074b17808f3b4e32afda6",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "boucliers pleins"
+  },
+  {
+   "cle": "a031f3256b69ff9eb7a8b680f40ac69a6cd57734cce7bd50e19b53dd2490e751",
+   "taille": 226433,
+   "sha256": "c02581dd8e20e486fec113461a40587fd6af17c61a7f93bf9e38e22155638f69",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "on se pose au port"
+  },
+  {
+   "cle": "a0a4aef2867312846a18f9273d4fc10d384b4e31a13f868b4e953239d283d17a",
+   "taille": 180446,
+   "sha256": "c008e1efaca0d78ee38a207a5766913382e5dfcca7d780c604c97095075bd68a",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "moteurs off"
+  },
+  {
+   "cle": "a106aac6cb30c5f456320d9c0562b5063f8e99489524489583d9522b20235991",
+   "taille": 250231,
+   "sha256": "c88271d67e0608ad52b74850b868acb6bc7e7f0b4574fe6269a8c845dcf20cd3",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "séquence d'atterrissage"
+  },
+  {
+   "cle": "a1ab010d07abe87a7e9d1718b283336a620ceb2b7b84f5049f766b60222d0b07",
+   "taille": 268381,
+   "sha256": "f3b0c56efa488edfba982756c7211a9ba9f5886b7d00fd226c36ed06bbc40d4d",
+   "images": 43,
+   "duree": 1.792,
+   "texte": "train sorti et verrouillé"
+  },
+  {
+   "cle": "a3641b658cf1862ada3c53053ebd0c7ed15d4102cf08c27764bfc771d1e944af",
+   "taille": 343627,
+   "sha256": "d8684074f03c30a8c7ed066d20ab9f97603168f0407c69709bcf10fee6485ffd",
+   "images": 55,
+   "duree": 2.292,
+   "texte": "la tour va nous répondre, commandant"
+  },
+  {
+   "cle": "a3690091eaeae721566ba4b12a5fbdcdeafdbba2d39281e33e00498652e96ddf",
+   "taille": 263479,
+   "sha256": "9892272ebcdd2e9e12afdac2885c2e829e27ccd5f275e84fc626370c94538d7b",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "saut lancé, commandant"
+  },
+  {
+   "cle": "a74fcc4b492ab57af6222dd0f9bb39bea65f26a58ecc484b658fd5bf35fc0c53",
+   "taille": 243203,
+   "sha256": "9848786da57bbac4f75aa63ebff7d528a3fa1b50ba0c767192486b371ad341e8",
+   "images": 39,
+   "duree": 1.625,
+   "texte": "atterrisseurs repliés"
+  },
+  {
+   "cle": "a75ade021436894416772a6c543e36dee2dd006d2c401f7c60fa66ed011a221f",
+   "taille": 169499,
+   "sha256": "d40607ef1de22648f905d7e89e21038df1df2d5e1708e94adaf594f164d42910",
+   "images": 26,
+   "duree": 1.083,
+   "texte": "power coupé"
+  },
+  {
+   "cle": "aa11acf7087ec404963e08dd4d3be46903c39520b3d586e3dc7a32de761abcca",
+   "taille": 225351,
+   "sha256": "efc5057fd37fca78edfb6701ced29b3f96b9526744130938f3b0d558d984baf4",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "boucliers hors ligne"
+  },
+  {
+   "cle": "ab1fdc9a4a890f4618ca22cadca90336c76c0dc6022bfce7baf1d3f69579a321",
+   "taille": 339858,
+   "sha256": "2fb580ba69247624134cc2dfe2bfb93d0fee149913bf2d9ee00d3e97e7c4b3d5",
+   "images": 54,
+   "duree": 2.25,
+   "texte": "en route vers l étoile, commandant"
+  },
+  {
+   "cle": "ab321bcabace7d04a1105b604e4990db37323df1add14ef4844a1e89016b59e9",
+   "taille": 246826,
+   "sha256": "6e8f355dc6005f15346d0f8678ec179fcbfd3144660583030f24065500018bb3",
+   "images": 40,
+   "duree": 1.667,
+   "texte": "vaisseau sous tension"
+  },
+  {
+   "cle": "ab526b5a0a9e1f9ec9356b0150e74cf5240fbce29c91ac716419a8fd356ffcca",
+   "taille": 261001,
+   "sha256": "2cef2612658992c6b381ac6cab100d2acfc065e72dba7332136f4a295b234b8a",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "je contacte le contrôle"
+  },
+  {
+   "cle": "abb8f18462276f1ff0167e360a18fed36db7155a155eeb95b8fd4269d9a1c55f",
+   "taille": 223916,
+   "sha256": "37b4f3ebdc8557828adf88e5367143d8135651638d44b92d2f37163dc5a502e9",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "atterrisseurs rentrés"
+  },
+  {
+   "cle": "ac7d1b716b6b68634dabe0982fdaae8af7090770129b263b9f16129d4f993944",
+   "taille": 270916,
+   "sha256": "cff9346ca13caab716e56dbe66e8e2b73866887e43795b7191c5d800ce89a613",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "train déployé, commandant"
+  },
+  {
+   "cle": "ad880ce56150442bfd76902a5fd326ae286c6768a6ad95dba77ecdfe6ea5ccc6",
+   "taille": 242264,
+   "sha256": "bb43fe6cbadf5a934d308b98da4372429ec74553c3d60de75d60d40a08d20115",
+   "images": 37,
+   "duree": 1.542,
+   "texte": "laser de minage prêt"
+  },
+  {
+   "cle": "adf8f454876d30005e640a9aaceb51e361e58be0da4f0ef357c8f5c9e041fc94",
+   "taille": 216090,
+   "sha256": "ce781c2f02b64c57744ff7a4b86cc68ed95b960697c11372bd5de448e95a8bf6",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "éclairage actif"
+  },
+  {
+   "cle": "ae720d389f45996671abc73ed0bda96d730f7c7259e6ba3b8e32c4fa8270b64f",
+   "taille": 262931,
+   "sha256": "cded51c714593c018be3adb409a8327f876a156d13f59d57b1df4abfe7ae7777",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "boucliers désactivés"
+  },
+  {
+   "cle": "b122e72cab1941393509d6e585c46eff33afa56071325fa57b19ea121deaa9d0",
+   "taille": 224236,
+   "sha256": "82ba59d197011d6bdb0ac2628f4d8e788ce69791bcf7855b9d737674ff1757a3",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "voyons ces roches"
+  },
+  {
+   "cle": "b13bd27ff5f31888bb547ab09debb8a3f9669bc73f1df1dedbd44db33b4f3224",
+   "taille": 235623,
+   "sha256": "a8a842149657516b442581de88fc9e21854a793795de8a1298568d5c0e8ffca8",
+   "images": 37,
+   "duree": 1.542,
+   "texte": "atterrisseurs sortis"
+  },
+  {
+   "cle": "b1c4e4ff974883cf841ae7905629c2bdbd3e07ad867f974cd652e96f89163cdd",
+   "taille": 200331,
+   "sha256": "eb4ee88fd08b82c7a5ea206fc9f49b2f3595653c382ebb5fe2fd3f164c6c3967",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "vision normale"
+  },
+  {
+   "cle": "b2d82e99c0a7bba9d8e4295dd2c3018f18d355ab28d641bb5f8de2381cdd1521",
+   "taille": 235049,
+   "sha256": "4c463bbb7b0f2bfd5cf52279b171700db2fa7d7daaebcbe7ac5393ef7113c898",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "atterrissage en cours"
+  },
+  {
+   "cle": "b3278905c231644190d99881452d8cc41ff598dde4bf7d30fb1b55d48cc523e2",
+   "taille": 238550,
+   "sha256": "96646e915969a0b72a101bb1df9ac6aadd201a6b25ca8e361ef2c216dcf93315",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "je demande à accoster"
+  },
+  {
+   "cle": "b3764b72c879e4f6d65e18a1ae4139477666cc6c1afe8eb933a571ee79e9c5a0",
+   "taille": 214898,
+   "sha256": "ddd8dc260cebd6f337fc6a2127e319209e00bdd4949940e3deacc9f1c81829f3",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "défenses coupées"
+  },
+  {
+   "cle": "b424b75d4a6e0164db9741bba6d53c619436b6eec21d1a70a88b5a80a4c9d585",
+   "taille": 186250,
+   "sha256": "b41d140a57b068a943e16380260bfa7a0eecd2339fe996f140704fbc84ec51ec",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "phares dehors"
+  },
+  {
+   "cle": "b46ba785a307b76113ae0abe0d146483f08ab7b4b707a2513c2cdbb35bf745d9",
+   "taille": 202559,
+   "sha256": "601d0128ea9621527305735a7ebfa0f58e59e61180f6e2732281b30b64b13596",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "vision standard"
+  },
+  {
+   "cle": "b4c75a009527c229b8fe5cdd34c1c5252e8bbdc5deb1464f3ca7daa41a2be0fe",
+   "taille": 222407,
+   "sha256": "22b494dac4255d826f6f9216e23290cf7543353d4fce7deeafe82740d767c9ce",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "lumières allumées"
+  },
+  {
+   "cle": "b56bf2079398ffc58988dcc1e31996a3924892f5ebbdb2d2dfb5d2481fc0bd21",
+   "taille": 172153,
+   "sha256": "84453d28197b159c60ae1bffebddcfe607c5b4cf67827f326b43710f41590b04",
+   "images": 26,
+   "duree": 1.083,
+   "texte": "je les appelle"
+  },
+  {
+   "cle": "b5cbafea39abfc0fc82ea31c60b87c386edb5c6a7aa0a35260746d294ada5a0c",
+   "taille": 303945,
+   "sha256": "7e080dd4e4633ad2e94933b92cdfb4aa02284bd35fb3f217a368296e8431fb90",
+   "images": 46,
+   "duree": 1.917,
+   "texte": "on est couverts, commandant"
+  },
+  {
+   "cle": "b641c717af594a50e96ddb98be7378149b46ecf5093aaa6fa19b8e6ff0188519",
+   "taille": 306443,
+   "sha256": "589e6f9b0f97074e577249fc53a0081e02f1fd8065ece57f4249847855497204",
+   "images": 48,
+   "duree": 2,
+   "texte": "attention, plus de protection"
+  },
+  {
+   "cle": "b7a9d110868d5e8a3eda51fb8f3b4b9551f62480d09aac6e5f027c3f52f92460",
+   "taille": 268042,
+   "sha256": "ef4c4114146a06cd9ccc586908e138f4a8069817880b80a9e31108bfe68550e1",
+   "images": 42,
+   "duree": 1.75,
+   "texte": "séquence de pose lancée"
+  },
+  {
+   "cle": "b97acae7e8f0d8c8b70a6e8fc07f3e19e00fd8becec3252c6e7d775c2309fd3c",
+   "taille": 185822,
+   "sha256": "4d07ca10883a94bfef6582ab197854a3b2de0f9ab704a06359315debf280564f",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "prêts à foncer"
+  },
+  {
+   "cle": "ba111c95897cee68c2584327f921630ff69b9ff71a66be008d49281f11c95e1a",
+   "taille": 240698,
+   "sha256": "2346010c010d82f2c877086df550fc7fb71acb1392d0ea9b37399316c0c708a7",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "je baisse les boucliers"
+  },
+  {
+   "cle": "ba329b2ebd822b1b7378c4ce26d9f6128b1162e9678d2096ea5638ae9e5573cf",
+   "taille": 180867,
+   "sha256": "1b7cafffee8864253ff2f2d60c8540d2eb877e470b14854442d369df1d08b799",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "train sorti"
+  },
+  {
+   "cle": "bbec817dc28022a14c6f3e968675e2cddbfc2738b11e81076a26ca78646948e4",
+   "taille": 239585,
+   "sha256": "9217bc38db4ccda22322dfff86956254804c1c223ba6cc1c5a1dcaf6e15924cf",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "drive quantique lancé"
+  },
+  {
+   "cle": "bc2562c5fb1e8c9536d804328309fe149585fb8a55cdd32aa5f27dd469024c4b",
+   "taille": 210413,
+   "sha256": "5788d65020b4570e294dae8e442f5f65e5ce3c62a9ec1ef5c8a4af4265138dd2",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "lumières en marche"
+  },
+  {
+   "cle": "bc9d4edab5a0019de30fb7d8b00808dabcec422ccd92fb2e11bd6bc80580ed96",
+   "taille": 184694,
+   "sha256": "199f51513c835acfcb3c91d40f959e4fd4581a1c34cd5d6984d6e5a789b21335",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "je hèle la tour"
+  },
+  {
+   "cle": "bd6115f688d455528100e57344a7b6967eeace147b8ad5f4dedaf64f309abd7f",
+   "taille": 192621,
+   "sha256": "8b559bff950c715090b87a5cf992e35fb0994ad90cb6e6480cd607d9f2fa89c6",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "moteurs chauds"
+  },
+  {
+   "cle": "bedf61fdc02da0cce537a6c34d2ae486a8ffc33069bce38017d69cb6c9c07f43",
+   "taille": 279278,
+   "sha256": "f175867121a5d14bd3543a16e5cb8edc2c521d19368ff028530830af356f1eee",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "plus de poussée, commandant"
+  },
+  {
+   "cle": "bfc00dbd516527b73c4c6c4b4159f4156e0d35528b3236de37ba768e4c71e521",
+   "taille": 261089,
+   "sha256": "4ffed71b63993e109c6219202f702a31a9731063fbc3935e34a43bb2e73eadd1",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "retour en vision normale"
+  },
+  {
+   "cle": "c0e2ab16df4f387369334b0a800ae9091c85dd4fea74465a66326a929a27f72a",
+   "taille": 269276,
+   "sha256": "47b5e09c704cffb9a0a4aceee241b07fa48a2d410e2a6a678051007d27d33678",
+   "images": 43,
+   "duree": 1.792,
+   "texte": "amplification activée"
+  },
+  {
+   "cle": "c579ec0c34018e2b8b4c66619aa68d389809ca03df1901b977cb1e3328132aaa",
+   "taille": 195094,
+   "sha256": "6710436d9f753d8f3acda58df0fe477052d61ad084b74f799266387e58cd8505",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "canons en ligne"
+  },
+  {
+   "cle": "c59603cfaa1fcc7207dd6746bc87170c369d06ba8a636144f9a627dc14286f14",
+   "taille": 226440,
+   "sha256": "283f1d153b869e6412f41a9dd9876081de7e25422e3783ea2d6869d581a69c8f",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "boucliers baissés"
+  },
+  {
+   "cle": "c831553216041234d87668b82b59661e15bbe94d1539baef14969a3a94582ddd",
+   "taille": 204510,
+   "sha256": "16f924e75f156f2fd5fc93011c5ababd3ae4580fd7354b9f67fb631587d22a9c",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "approche au sol"
+  },
+  {
+   "cle": "c856ee129e4466a40509d122251ebbb4edc3a7e399bef2d527ea6afdc8fab3e0",
+   "taille": 168471,
+   "sha256": "bd64fd63b9edc22197112cdd432e5bcbedcf23c8281e515f896ceea560caed50",
+   "images": 26,
+   "duree": 1.083,
+   "texte": "canal actif"
+  },
+  {
+   "cle": "c8ea8befffd47e29a51a5c4db9594b97a8c4a48c5095e8de692be73cedf5a007",
+   "taille": 197056,
+   "sha256": "8ad60bf634a58330827c1961c9bbf6d476517df546f53b9a33480c0568346156",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "power en ligne"
+  },
+  {
+   "cle": "ca3f59c865f30957001324442147e6cd3bfe614ab4300314b3db2bc24b699c11",
+   "taille": 237964,
+   "sha256": "31a07482082323c1c2fdfd5b469668b3ae7ae65c8e467e8ef12f2ebc69821edc",
+   "images": 37,
+   "duree": 1.542,
+   "texte": "train rentré, on file"
+  },
+  {
+   "cle": "ca9b07412a5d900d3f19ae60dcd0a4f6ac9989802e721b1c033da1453eabbb7c",
+   "taille": 202926,
+   "sha256": "9aeff6f1cd3ed790d6a95c7c8368e135cd3dad130ad1e126b6c1330e38104edd",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "moteurs à l arrêt"
+  },
+  {
+   "cle": "caa3fe6be682681b5e40dbfe2d8a5582118672bae79384faceb05329d793b126",
+   "taille": 224597,
+   "sha256": "3679f5db4ace7463007059d2dbd79d4311d878681b7f2e326b284ff49a13eb46",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "moteurs qui ronronnent"
+  },
+  {
+   "cle": "cb40c42c8df56284ca678361da81ca5444f1a67956dcd60388ccf923df4bd2f1",
+   "taille": 187769,
+   "sha256": "de5a38bed801294a38bd3aff0a36c3933d1bb712671bc0babca55af440800b2e",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "armement éteint"
+  },
+  {
+   "cle": "cd4ff5ec0c4644a94b20918972dafcd49af9a813a38e29e9f42bf82a42332556",
+   "taille": 198647,
+   "sha256": "6ec9af3dabdca3a30359bc2f1fc5359570ecabf79f7ccda5eb85397ca34b47d2",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "on y voit clair"
+  },
+  {
+   "cle": "ce2a997e5436196e8cfd0cc6e11ab7fa3ef539c060e8cfc10c473bcea17dcdf5",
+   "taille": 230549,
+   "sha256": "11e79b10f5e0125795a3ed7fa445efb5d050c5a9fdeafc738387c2e246a56ca2",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "armes désactivées"
+  },
+  {
+   "cle": "d00625af6281f95915b66a6fdb9daf00c2b82e552bee95693e5c84fb6ba84c89",
+   "taille": 313643,
+   "sha256": "36584cf9eecdefb8f2f3edeafbc07b1e3ecdd14aea35743f8e5deed82da6b548",
+   "images": 49,
+   "duree": 2.042,
+   "texte": "j'attends leur feu vert, commandant"
+  },
+  {
+   "cle": "d0cb9a10a0a49276f1cf39d85bdd29710deb935bc657114f0c77806531b1f0a5",
+   "taille": 181340,
+   "sha256": "f8a4a7f370f3ed74116f8414f4afb2f7cc609f2fa8166d6d2fbdb9475b3ee0bb",
+   "images": 27,
+   "duree": 1.125,
+   "texte": "canons chauds"
+  },
+  {
+   "cle": "d129877cf186300ab3a0f6474094fa57d179a0d2e915da18856d079b8524ac2e",
+   "taille": 234617,
+   "sha256": "8fbe41a37649bf5ee5d251f5411129cb7fe8fe3124b347884ff272e8c304576d",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "je contacte le port"
+  },
+  {
+   "cle": "d271d5d058b260d392a7689e313b67ee7692fafd308dc1fb19b7ee30b0eab0f5",
+   "taille": 207096,
+   "sha256": "c897759c2c1192f090a7dad7b6ee4b62e7c4ae26b2a2e98d119c21cb4efe268b",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "je baisse le train"
+  },
+  {
+   "cle": "d40b1c0d12496f01e8987fc855e3caa7c06d671a565d6390f8b02096f9ab3b61",
+   "taille": 209370,
+   "sha256": "08f21d384235fda5703b92e9cd4a14cdd56ac8060dec351b82ac28d013f87021",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "demande de créneau"
+  },
+  {
+   "cle": "d46fd99a7d7f8d3ebb939204e5495a5c7173a9fcf643ccc3630104c4af6aaa3a",
+   "taille": 240495,
+   "sha256": "f87d5af67a2247bd10732deef5afe771824e36227c802351f45cd28d41529187",
+   "images": 37,
+   "duree": 1.542,
+   "texte": "la nuit devient jour"
+  },
+  {
+   "cle": "d58e39a76bc5d776694fa788c416cb808809a1cfedc19b18518b350279ca1b58",
+   "taille": 159850,
+   "sha256": "f4e8bc799563ef9c9c61f606a6f572e67eb627a14851db2f4318fdae56c24e26",
+   "images": 24,
+   "duree": 1,
+   "texte": "mode nuit"
+  },
+  {
+   "cle": "d7aa4721920961a4d32fadb3bda16d3f35d655ce7c02bb1013fcd777cce8d7ff",
+   "taille": 261654,
+   "sha256": "e0db26eed9584c0c578735bbbebef98a17aa38b1dcf875de4fd54d0c16755e52",
+   "images": 42,
+   "duree": 1.75,
+   "texte": "vision nocturne active"
+  },
+  {
+   "cle": "d8c7fcfa5b8212fc0986ec195a9052f8c426b2406e07654307c98a0abab415b1",
+   "taille": 195613,
+   "sha256": "edbe92401ebec5fea2ef4b5275966147483f11eb8d24ee4d8eee1ef4069c8353",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "armement coupé"
+  },
+  {
+   "cle": "db81629c88acbd4d0a67f32107c9fc7f544f56b33e3d1abcb04ff5fb55b64c91",
+   "taille": 182590,
+   "sha256": "b92e15d72b065593fcb36d7a320c53e5d1886b15810098711c78c67f0b76a0e9",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "patins dehors"
+  },
+  {
+   "cle": "dc0f8175e9b0e73573b79df83efa6860baf0b982443a887e6b7c10961486f0aa",
+   "taille": 285677,
+   "sha256": "e85f59fab30dae902a5a79d17188da723e8a110e6ea2cd5142fb4c624cbeb0a3",
+   "images": 44,
+   "duree": 1.833,
+   "texte": "courant établi, commandant"
+  },
+  {
+   "cle": "ddda672a5852f269da6437089210c30c96d332fa09ef395b1ef36ac7d0d46528",
+   "taille": 309772,
+   "sha256": "51a2a4416d0db725f872853c928e9ec13c182473fcc6d4f20346d04e45f32182",
+   "images": 48,
+   "duree": 2,
+   "texte": "on baisse les armes, commandant"
+  },
+  {
+   "cle": "dddf74dbe7bef3a0eca24ca40a35f29de039fc5ba25d6f9c335b38d5a7c2d228",
+   "taille": 227992,
+   "sha256": "92e2770206b5f3dce9b129d68686f9bab8220f55000769e45d6a1ac5731ec1df",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "vaisseau hors tension"
+  },
+  {
+   "cle": "de87938383e0ceed034b1b9b774c82c64d83de08f751a205b0a5707d0f6c99e1",
+   "taille": 242276,
+   "sha256": "c76b061055305219f0db9d7f4414ff41f247254bd06531efbd75a71fc389986a",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "la tour, ici Stelli"
+  },
+  {
+   "cle": "e00967027d2110e0d78480bc8ea5be8d582d5618401eef869165386f64fa9aa8",
+   "taille": 220391,
+   "sha256": "dd36300bc57e912df8ae20e3b78d1e5949c81a5a6d8246736d09ba7bf0709077",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "je chauffe les canons"
+  },
+  {
+   "cle": "e11b0e506ebff3ce015b9d234e62d19353a87588332334ecd6d0d7f8665b50c3",
+   "taille": 246774,
+   "sha256": "6fffa953b4810a25bbd26718a727421de8d8c3bc9900cf151afbbe66a40107f3",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "saut quantique engagé"
+  },
+  {
+   "cle": "e15f1f34b30b4ef1d862bfc73adf7ec6cf3737565fab5d4c676c1e2ab8c1a19b",
+   "taille": 213818,
+   "sha256": "0c9d54953c1d836c635fd71f6f580ea9cb02e1c103d3d635d70f3d9f4ae09071",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "je déclenche le saut"
+  },
+  {
+   "cle": "e2707880d448e007536f832229fdf463c531242d2a9c5f985fc1d8c57dca54f3",
+   "taille": 227149,
+   "sha256": "223440ab866144c559c15cbd586d7601aedd8d4155d804b4eccda682dd45f33d",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "je monte la garde"
+  },
+  {
+   "cle": "e4e046a37f37761a6be309e0dae2f492c7ffd8603cbafc16349eddbde81d2f88",
+   "taille": 223289,
+   "sha256": "bbeaa6eecf8ea6afba4151d23a827ac1e0940f8c490d6889d84e4927bfd88286",
+   "images": 35,
+   "duree": 1.458,
+   "texte": "on se met en veille"
+  },
+  {
+   "cle": "e728189b9ae44c85fb9f3cc426167036c6a90bbaceee06cfaad95798f7fc150d",
+   "taille": 189242,
+   "sha256": "64d10f35ffbdab835442c4ba86cff155b70eab623c0b14ccdbfe9eb987ff1186",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "armes armées"
+  },
+  {
+   "cle": "e833e74805ece230de7a691f756c2764f71450d3531854bc8fd474a092e29885",
+   "taille": 206261,
+   "sha256": "4d8b2708556f65c51f249e69071eb61784f8f8356ded90c942c83e5f04d3dd7d",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "minage activé"
+  },
+  {
+   "cle": "e84b708b6eaffbb0f9842901b453650e4159d301782793b546fddfd8231c9e43",
+   "taille": 223547,
+   "sha256": "c2e150c966e4404918e1949ec41e0a345921aef5082d75bc5dc9db912a67d075",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "appel de la cible"
+  },
+  {
+   "cle": "e9261b1ca89313d4abca13d61b26d91cc3fc2d25faf8031ceb9480169b2d8ea4",
+   "taille": 209470,
+   "sha256": "49720271276de943c2c582275cb7c4d65c949c3f0903367d6717abe160f03a31",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "approche finale"
+  },
+  {
+   "cle": "e99a62de75ba8e9f381bbb0ff3627736ec2ad7261fea25786da31437b7e4040b",
+   "taille": 260919,
+   "sha256": "6e1d082a3adad5415d608e2ae24c2fa127f45ad43b56d6d978853a6dcfa79f9e",
+   "images": 42,
+   "duree": 1.75,
+   "texte": "laser de minage en ligne"
+  },
+  {
+   "cle": "eb9b1425116e5bfa1472afddac05766025b7c970936c91afbc4a0746920da74f",
+   "taille": 201507,
+   "sha256": "da654f7cc362357bc8013e994e40b66f8d383f37368ffdac448814fe21452649",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "scanner en marche"
+  },
+  {
+   "cle": "edc4eba8731b80bb39052d3bca2b10e9da71a278ba688e629302031c039a5753",
+   "taille": 192323,
+   "sha256": "48e8c56d5593f8bb31cac0497b13f4a9953a5a93f250691d05fa946736495d73",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "liaison ouverte"
+  },
+  {
+   "cle": "edd874f2dae032cfbd7081c41174abb3255326538d3e523e6a3c4fdecca4ab6d",
+   "taille": 245645,
+   "sha256": "6088c8dc4957b556adb38163f6e92cb4e9cf4f8f6c7ad4ac14d0c8e3e9e6345e",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "fini l amplification"
+  },
+  {
+   "cle": "efaf910aa43156907b32ae20461dafbdedc0d275e535a75f75f28fe597e70fc2",
+   "taille": 189428,
+   "sha256": "8801d1de9ca88975d8774e68eb169dc03a60ec0893e1f05164983366ccd14627",
+   "images": 29,
+   "duree": 1.208,
+   "texte": "phares allumés"
+  },
+  {
+   "cle": "f1fb5f6fe600d8d38a58dd683bd18f82de0a1705d391c9fbd9d80458d245126d",
+   "taille": 213895,
+   "sha256": "c090193b140684230a6f1e15aaec34274e3991c32f7c1e674feda517c4c26138",
+   "images": 34,
+   "duree": 1.417,
+   "texte": "le train est sorti"
+  },
+  {
+   "cle": "f21b65dd519c2e4f472134702ca10369a2f5ba3a63b483103c3ec67fc0a70e5c",
+   "taille": 318372,
+   "sha256": "85464406fc7ff727756797652c472072596a467f002061b8726fc5a26cb0f7a4",
+   "images": 49,
+   "duree": 2.042,
+   "texte": "extinction des feux, commandant"
+  },
+  {
+   "cle": "f23ef8e3f48ec7c4ea8937a2f61c94c5f0a86362445a18bc2054949af6b42062",
+   "taille": 246428,
+   "sha256": "84ebaef833561b017ffaa2bef31f7a452dd23f5b7df75de73b5be214960db4c7",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "systèmes hors tension"
+  },
+  {
+   "cle": "f282cc677ab793ce4d81192c563a2283e831d5964b8b91966312e65e7e0f51bd",
+   "taille": 242272,
+   "sha256": "78d8a7a57c159c0aa99ea969ddf4a4e4b6b5de29fa0015ff6bf93742c8fbc7b6",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "systèmes sous tension"
+  },
+  {
+   "cle": "f3aa51e8ddd2506a02fc84de2637307128a9f06e39497fe7248022b951de9b8e",
+   "taille": 198818,
+   "sha256": "975d22d308b7bf72e080db927eadf5fed1b06eadcccbe16af0a40666b221202d",
+   "images": 31,
+   "duree": 1.292,
+   "texte": "voyons ce qu'il y a"
+  },
+  {
+   "cle": "f4b683f4cf7a8094ef7ede8c01514a62306114520d7982ea51eaedb0d590e307",
+   "taille": 188738,
+   "sha256": "8c5a9d9b4a21cf2661b746509b49588071114c174256a8abc13eaccef6ceee4f",
+   "images": 28,
+   "duree": 1.167,
+   "texte": "armement prêt"
+  },
+  {
+   "cle": "f5d28bcf6085e0fb0abb3e202632bdef81d076e108bc557fd6a96bf405c65a82",
+   "taille": 246914,
+   "sha256": "990a468e238cd22d160d2706d5e82bce7676a78e6c00b45eb75b7742cbc9f165",
+   "images": 39,
+   "duree": 1.625,
+   "texte": "vision nocturne coupée"
+  },
+  {
+   "cle": "f64ad56154668f723a20aa7587ae1466ca3d27c1d03e55f75aa01b70bc661e1b",
+   "taille": 360173,
+   "sha256": "81940dbfbfe1dd2fc44df933156334dbf6802fa3121012941d062f60510eb7d8",
+   "images": 58,
+   "duree": 2.417,
+   "texte": "je renifle les environs, commandant"
+  },
+  {
+   "cle": "f7680ddacd537fed693c62b90448862b8cdca84a13bce8a3ceedf2269b063839",
+   "taille": 213333,
+   "sha256": "b0c795aa21a6e9afc84b0a036bc1c5e28e6970f90d3f7b116ab71c49831d03f2",
+   "images": 33,
+   "duree": 1.375,
+   "texte": "que la lumière soit"
+  },
+  {
+   "cle": "f83c6c21bfcb36ce6837179dde41fc28c4f927a0320b93554de02029201f4da4",
+   "taille": 269605,
+   "sha256": "8e1a796e2ee3b22d841bce9e8af5849a871cd59e59cd93f282bddbdaaf6a7460",
+   "images": 42,
+   "duree": 1.75,
+   "texte": "contrôle aérien contacté"
+  },
+  {
+   "cle": "f8ba3a2100d0738b9c4e9ae71351ad83e28818a86ee69bcdee8cdda6e13d0efe",
+   "taille": 229677,
+   "sha256": "b78049b0c2905ee4bb7a16a53d31cd886b3d4f7aca167dc1a6869eb9823417d6",
+   "images": 37,
+   "duree": 1.542,
+   "texte": "alimentation coupée"
+  },
+  {
+   "cle": "fa414772148db74d60d7b32d64e51caa15fdcf4e2d67caab4ef7aa4d4162d808",
+   "taille": 231375,
+   "sha256": "594692ae35747185e45356c4b6eb1789a1b777b4f9090e8a43aa794894fdedb3",
+   "images": 36,
+   "duree": 1.5,
+   "texte": "protection engagée"
+  },
+  {
+   "cle": "fd91c790566f622d5f278ddb9ea4b6bcfa2231434384ad5cd1fa914a35c01833",
+   "taille": 267655,
+   "sha256": "7fabce16812831b0a710904a4e3c7285e3b940a844d43512a0fe6811968babbc",
+   "images": 41,
+   "duree": 1.708,
+   "texte": "boucliers off, commandant"
+  },
+  {
+   "cle": "fef71e79caa2e12b30ebcffda966f8ea804ea3cf65e50deb101442a84b40a13e",
+   "taille": 191343,
+   "sha256": "dae03c77c4f72331add50472176e3db1f71685247a6ecb15c4c66c36c88cc3ab",
+   "images": 30,
+   "duree": 1.25,
+   "texte": "contact établi"
+  },
+  {
+   "cle": "ffd0f04a2eb8595e5bfed3430f5b91beb9057115e487ff981041c882f9ae8850",
+   "taille": 242355,
+   "sha256": "9010d04a0071cf1ca807f3735431beb8b0bc13077e0a79bb65a0e2cb3e11c003",
+   "images": 38,
+   "duree": 1.583,
+   "texte": "propulsion active"
+  },
+  {
+   "cle": "ffd492d5b1f9a29c73d185efb463f31af292253e53c1e4361775ac7d6503c00a",
+   "taille": 204592,
+   "sha256": "3fe812502d337504f52e2467c19ded7a63e3062d944b5a26c0f9458245e58aff",
+   "images": 32,
+   "duree": 1.333,
+   "texte": "je déploie le train"
+  }
+ ]
+}
