@@ -1,0 +1,31 @@
+# La liste des vaisseaux du flux, tirée chaque heure de la liste officielle de RSI (matrice des vaisseaux du site).
+# Ce fichier va dans community-feed/.github/workflows/, le script dans community-feed/.github/scripts/vaisseaux.mjs
+# (source : Stelliverse-beta/scripts/vaisseaux-feed/).
+#
+# Garde-fous : aucune action tierce (pas même actions/checkout : le script est lu au commit exact du flux) ; le jeton
+# du dépôt n'a que le droit d'écrire ce dépôt ; rien n'est publié si la liste est suspecte ou inchangée.
+name: vaisseaux
+
+on:
+  schedule:
+    - cron: '23 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vaisseaux
+  cancel-in-progress: false
+
+jobs:
+  liste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Liste officielle RSI vers vaisseaux/vaisseaux.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${GITHUB_SHA}/.github/scripts/vaisseaux.mjs" -o "$RUNNER_TEMP/vaisseaux.mjs"
+          node "$RUNNER_TEMP/vaisseaux.mjs" --github
