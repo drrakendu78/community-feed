@@ -5,7 +5,7 @@
 // matrice des vaisseaux du site, publique, la même que lit SHIPSNATCHER). L'appli la télécharge à chaque démarrage
 // (src-tauri/src/vaisseaux_feed.rs) : un vaisseau qui sort arrive dans le hangar sans mise à jour de l'appli.
 //
-// Tourne seul dans le dépôt du flux, chaque heure (.github/workflows/vaisseaux.yml) : il ne publie que si la liste a
+// Tourne seul dans le dépôt du flux, deux fois par jour (.github/workflows/vaisseaux.yml) : il ne publie que si la liste a
 // changé, et jamais une liste suspecte (moins de 150 vaisseaux, une page qui n'est pas du JSON…).
 //
 //   node generer.mjs [--sortie <fichier>]   en local : écrit le fichier (par défaut ./vaisseaux.json), rien d'autre

@@ -1,4 +1,4 @@
-# La liste des vaisseaux du flux, tirée chaque heure de la liste officielle de RSI (matrice des vaisseaux du site).
+# La liste des vaisseaux du flux, tirée deux fois par jour de la liste officielle de RSI (matrice des vaisseaux du site).
 # Ce fichier va dans community-feed/.github/workflows/, le script dans community-feed/.github/scripts/vaisseaux.mjs
 # (source : Stelliverse-beta/scripts/vaisseaux-feed/).
 #
