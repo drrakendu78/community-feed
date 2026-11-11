@@ -2,6 +2,7 @@
  "schema": "stelliverse-evenements/1",
  "maj": "2026-11-11",
  "sources": [
+  "https://robertsspaceindustries.com/en/comm-link/transmission/21386-Intergalactic-Aerospace-Expo-2956-Free-Fly-And-Manufacturer-Schedule",
   "https://robertsspaceindustries.com/en/comm-link/transmission/21445-This-Week-In-Star-Citizen",
   "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/iae-2956-faq-choose-your-adventure",
   "https://freeflyevent.com/iae-2956"
@@ -13,18 +14,24 @@
    "lieu": "New Babbage, microTech",
    "affiche": "2026-11-06T00:00:00Z",
    "debut": "2026-11-13T16:00:00Z",
-   "fin": "2026-11-28T00:00:00Z",
+   "fin": "2026-11-27T20:00:00Z",
    "lien": "https://robertsspaceindustries.com/en/comm-link/transmission/21386-Intergalactic-Aerospace-Expo-2956-Free-Fly-And-Manufacturer-Schedule",
    "gratuit": true,
    "programme": [
     {
      "debut": "2026-11-13T16:00:00Z",
      "genre": "constructeurs",
-     "titre": "RSI",
+     "titre": "Roberts Space Industries",
      "image": "https://media.robertsspaceindustries.com/b2bx2kl8ewqej/store_small.jpg",
      "bandeau": "https://media.robertsspaceindustries.com/b2bx2kl8ewqej/store_slideshow_large.jpg",
      "alt": "RSI Galaxy",
      "notes": [
+      {
+       "type": "debut",
+       "vaisseaux": [
+        "Galaxy"
+       ]
+      },
       {
        "type": "qr",
        "vaisseaux": [
@@ -62,7 +69,7 @@
     {
      "debut": "2026-11-16T16:00:00Z",
      "genre": "constructeurs",
-     "titre": "Crusader, Tumbril",
+     "titre": "Crusader Industries, Tumbril",
      "image": "https://media.robertsspaceindustries.com/y9nxh2pyic772/store_small.jpg",
      "bandeau": "https://media.robertsspaceindustries.com/y9nxh2pyic772/store_slideshow_large.jpg",
      "alt": "Crusader C2 Hercules",
@@ -71,10 +78,10 @@
     {
      "debut": "2026-11-17T16:00:00Z",
      "genre": "constructeurs",
-     "titre": "Drake",
-     "image": "https://media.robertsspaceindustries.com/nnpwaac1eqp4p/store_small.jpg",
-     "bandeau": "https://media.robertsspaceindustries.com/nnpwaac1eqp4p/store_slideshow_large.jpg",
-     "alt": "Drake Kraken",
+     "titre": "Drake Interplanetary",
+     "image": "https://media.robertsspaceindustries.com/0ffxba4wywl0j/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/0ffxba4wywl0j/store_slideshow_large.jpg",
+     "alt": "Drake Caterpillar",
      "notes": [
       {
        "type": "vente",
@@ -89,9 +96,9 @@
      "debut": "2026-11-18T16:00:00Z",
      "genre": "constructeurs",
      "titre": "Argo, C.O., Greycat, Grey's",
-     "image": "https://media.robertsspaceindustries.com/vtodzxlks918l/store_small.jpeg",
-     "bandeau": "https://media.robertsspaceindustries.com/vtodzxlks918l/store_slideshow_large.jpeg",
-     "alt": "C.O. Pioneer",
+     "image": "https://media.robertsspaceindustries.com/wgai60tvwa3vs/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/wgai60tvwa3vs/store_slideshow_large.jpg",
+     "alt": "Argo MOLE",
      "notes": [
       {
        "type": "vente",
@@ -104,7 +111,7 @@
     {
      "debut": "2026-11-19T16:00:00Z",
      "genre": "constructeurs",
-     "titre": "Kruger, Mirai, MISC",
+     "titre": "MISC, Mirai, Kruger Intergalactic",
      "image": "https://media.robertsspaceindustries.com/7rfmcpg9qcpmm/store_small.jpg",
      "bandeau": "https://media.robertsspaceindustries.com/7rfmcpg9qcpmm/store_slideshow_large.jpg",
      "alt": "MISC Prospector",
@@ -122,9 +129,9 @@
      "debut": "2026-11-20T16:00:00Z",
      "genre": "constructeurs",
      "titre": "Aegis Dynamics",
-     "image": "https://media.robertsspaceindustries.com/yfj9hnf0hrali/store_small.jpg",
-     "bandeau": "https://media.robertsspaceindustries.com/yfj9hnf0hrali/store_slideshow_large.jpg",
-     "alt": "Aegis Idris-P",
+     "image": "https://media.robertsspaceindustries.com/zuxffe2ckazbk/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/zuxffe2ckazbk/store_slideshow_large.jpg",
+     "alt": "Aegis Hammerhead",
      "notes": [
       {
        "type": "vente",
