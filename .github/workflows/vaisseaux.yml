@@ -6,9 +6,12 @@
 # du dépôt n'a que le droit d'écrire ce dépôt ; rien n'est publié si la liste est suspecte ou inchangée.
 name: vaisseaux
 
+# Deux passes par jour, pas chaque heure : RSI publie ses vaisseaux vers 16 h UTC (l'IAE 2956 ouvre chaque journée de
+# constructeur à 16 h UTC, du 13 au 27 novembre) ; la passe de 18 h 23 rattrape un retard de GitHub ou de RSI.
 on:
   schedule:
-    - cron: '23 * * * *'
+    - cron: '23 16 * * *'
+    - cron: '23 18 * * *'
   workflow_dispatch:
 
 permissions:
