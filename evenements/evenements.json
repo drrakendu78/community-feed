@@ -1,0 +1,202 @@
+{
+ "schema": "stelliverse-evenements/1",
+ "maj": "2026-11-11",
+ "sources": [
+  "https://robertsspaceindustries.com/en/comm-link/transmission/21445-This-Week-In-Star-Citizen",
+  "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/iae-2956-faq-choose-your-adventure",
+  "https://freeflyevent.com/iae-2956"
+ ],
+ "evenements": [
+  {
+   "id": "iae-2956",
+   "nom": "IAE 2956",
+   "lieu": "New Babbage, microTech",
+   "affiche": "2026-11-06T00:00:00Z",
+   "debut": "2026-11-13T16:00:00Z",
+   "fin": "2026-11-28T00:00:00Z",
+   "lien": "https://robertsspaceindustries.com/en/comm-link/transmission/21386-Intergalactic-Aerospace-Expo-2956-Free-Fly-And-Manufacturer-Schedule",
+   "gratuit": true,
+   "programme": [
+    {
+     "debut": "2026-11-13T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "RSI",
+     "image": "https://media.robertsspaceindustries.com/b2bx2kl8ewqej/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/b2bx2kl8ewqej/store_slideshow_large.jpg",
+     "alt": "RSI Galaxy",
+     "notes": [
+      {
+       "type": "qr",
+       "vaisseaux": [
+        "Galaxy",
+        "Skylark"
+       ]
+      }
+     ]
+    },
+    {
+     "debut": "2026-11-14T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "Origin Jumpworks",
+     "image": "https://media.robertsspaceindustries.com/t2bky2nbdg0ms/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/t2bky2nbdg0ms/store_slideshow_large.jpg",
+     "alt": "Origin 890 Jump",
+     "notes": [
+      {
+       "type": "vente",
+       "vaisseaux": [
+        "890 Jump"
+       ]
+      }
+     ]
+    },
+    {
+     "debut": "2026-11-15T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "Anvil Aerospace",
+     "image": "https://media.robertsspaceindustries.com/bau5bdotm8te8/store_small.png",
+     "bandeau": "https://media.robertsspaceindustries.com/bau5bdotm8te8/store_slideshow_large.png",
+     "alt": "Anvil Carrack",
+     "notes": []
+    },
+    {
+     "debut": "2026-11-16T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "Crusader, Tumbril",
+     "image": "https://media.robertsspaceindustries.com/y9nxh2pyic772/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/y9nxh2pyic772/store_slideshow_large.jpg",
+     "alt": "Crusader C2 Hercules",
+     "notes": []
+    },
+    {
+     "debut": "2026-11-17T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "Drake",
+     "image": "https://media.robertsspaceindustries.com/nnpwaac1eqp4p/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/nnpwaac1eqp4p/store_slideshow_large.jpg",
+     "alt": "Drake Kraken",
+     "notes": [
+      {
+       "type": "vente",
+       "vaisseaux": [
+        "Kraken",
+        "Kraken Privateer"
+       ]
+      }
+     ]
+    },
+    {
+     "debut": "2026-11-18T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "Argo, C.O., Greycat, Grey's",
+     "image": "https://media.robertsspaceindustries.com/vtodzxlks918l/store_small.jpeg",
+     "bandeau": "https://media.robertsspaceindustries.com/vtodzxlks918l/store_slideshow_large.jpeg",
+     "alt": "C.O. Pioneer",
+     "notes": [
+      {
+       "type": "vente",
+       "vaisseaux": [
+        "Pioneer"
+       ]
+      }
+     ]
+    },
+    {
+     "debut": "2026-11-19T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "Kruger, Mirai, MISC",
+     "image": "https://media.robertsspaceindustries.com/7rfmcpg9qcpmm/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/7rfmcpg9qcpmm/store_slideshow_large.jpg",
+     "alt": "MISC Prospector",
+     "notes": [
+      {
+       "type": "prix",
+       "vaisseaux": [
+        "Prospector"
+       ],
+       "valeur": "+20 $"
+      }
+     ]
+    },
+    {
+     "debut": "2026-11-20T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "Aegis Dynamics",
+     "image": "https://media.robertsspaceindustries.com/yfj9hnf0hrali/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/yfj9hnf0hrali/store_slideshow_large.jpg",
+     "alt": "Aegis Idris-P",
+     "notes": [
+      {
+       "type": "vente",
+       "vaisseaux": [
+        "Idris-P",
+        "Javelin"
+       ]
+      }
+     ]
+    },
+    {
+     "debut": "2026-11-21T16:00:00Z",
+     "genre": "constructeurs",
+     "titre": "Aopoa, Banu, Esperia, Gatac",
+     "image": "https://media.robertsspaceindustries.com/3hlrf4bj6k5r7/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/3hlrf4bj6k5r7/store_slideshow_large.jpg",
+     "alt": "Gatac Railen",
+     "notes": []
+    },
+    {
+     "debut": "2026-11-22T16:00:00Z",
+     "genre": "bis",
+     "titre": "Best in Show",
+     "image": "https://media.robertsspaceindustries.com/1zli0ngsh3vk7/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/1zli0ngsh3vk7/store_slideshow_large.jpg",
+     "alt": "RSI Perseus",
+     "notes": [
+      {
+       "type": "bis",
+       "vaisseaux": [
+        "Perseus",
+        "M80",
+        "Corsair",
+        "Ironclad Assault"
+       ]
+      }
+     ]
+    },
+    {
+     "debut": "2026-11-23T16:00:00Z",
+     "genre": "finale",
+     "image": "https://media.robertsspaceindustries.com/2vugvo1bdkvxl/store_small.jpg",
+     "bandeau": "https://media.robertsspaceindustries.com/2vugvo1bdkvxl/store_slideshow_large.jpg",
+     "alt": "RSI Constellation Mk V Centaurus",
+     "notes": [
+      {
+       "type": "libre"
+      }
+     ]
+    }
+   ],
+   "infos": [
+    {
+     "type": "vagues",
+     "heures_utc": [
+      16,
+      20,
+      0,
+      4,
+      8,
+      12
+     ]
+    },
+    {
+     "type": "drops",
+     "heures": [
+      2,
+      4,
+      6
+     ]
+    }
+   ]
+  }
+ ]
+}
