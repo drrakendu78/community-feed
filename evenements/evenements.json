@@ -5,7 +5,8 @@
   "https://robertsspaceindustries.com/en/comm-link/transmission/21386-Intergalactic-Aerospace-Expo-2956-Free-Fly-And-Manufacturer-Schedule",
   "https://robertsspaceindustries.com/en/comm-link/transmission/21445-This-Week-In-Star-Citizen",
   "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/iae-2956-faq-choose-your-adventure",
-  "https://freeflyevent.com/iae-2956"
+  "https://freeflyevent.com/iae-2956",
+  "https://robertsspaceindustries.com/pledge/ships/galaxy/Galaxy"
  ],
  "evenements": [
   {
@@ -22,8 +23,8 @@
      "debut": "2026-11-13T16:00:00Z",
      "genre": "constructeurs",
      "titre": "Roberts Space Industries",
-     "image": "https://media.robertsspaceindustries.com/b2bx2kl8ewqej/store_small.jpg",
-     "bandeau": "https://media.robertsspaceindustries.com/b2bx2kl8ewqej/store_slideshow_large.jpg",
+     "image": "https://robertsspaceindustries.com/i/ac8a38b35852208d00712b7106c8ab3dd99ddc44/resize(910,512,cover,ADdPNihJzmPbNuTnFsH1DqUeqBRpXdSXVVtgJTyDDgscGKrzJuoFjResjCb7pJrdMZhTCWP129GvBuBh1sLWGgdeE)/source.webp",
+     "bandeau": "https://robertsspaceindustries.com/i/c9d6f609d3372620776c1d4be02cd9148ab22a71/resize(1820,1024,cover,ADdPNihJzmPbNuTnFsH1DqUeqBRpXdSXVVtgJTyDDgscGKrzJuoFjResjCb7pJrdMZhTCWP129GvBuBh1sLWGgdeE)/source.webp",
      "alt": "RSI Galaxy",
      "notes": [
       {
