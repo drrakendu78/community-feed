@@ -2,15 +2,15 @@
  "schema": "stelliverse-loadout-feed/1",
  "jeux": [
   {
-   "version": "4.10.0-LIVE.13165946",
+   "version": "4.10.3-LIVE.13165946",
    "changelist": 13165946,
-   "fichier": "loadout-vaisseau.13165946.e85cb49a12e8.zip",
-   "sha256": "e85cb49a12e8cbef7032cd89d1a8787ec40c82911fcc7c3898a4c90738a559b9",
-   "octets": 1605131,
-   "donnees": "208ce688778690c69262973f9f9ef7ef07e80a3466bba667375dc59bbdfdf3d0",
+   "fichier": "loadout-vaisseau.13165946.1c429e2d4553.zip",
+   "sha256": "1c429e2d4553ee27a9f8537b4406448df39bc5c683af332fa381b44e3f4096fc",
+   "octets": 1605346,
+   "donnees": "29adcc4941cdab399a02e30f9e83e48e754c72378e87971478df280bdada6d43",
    "vaisseaux": 273,
-   "prix": "2026-11-13T17:47:26.930Z",
-   "publie": "2026-11-13T17:47:22.283Z"
+   "prix": "2026-11-15T16:44:14.478Z",
+   "publie": "2026-11-15T16:44:50.475Z"
   },
   {
    "version": "4.10.2-LIVE.12913470",
