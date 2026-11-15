@@ -1,8 +1,8 @@
 {
  "schema": "stelliverse-vaisseaux/1",
  "source": "https://robertsspaceindustries.com/ship-matrix/index",
- "genere": "2026-11-13T22:00:11.901Z",
- "empreinte": "c3243d8f5e7c6bc914a2516df0562b499bc689e916de00d1a3361280f601dba3",
+ "genere": "2026-11-15T21:05:03.871Z",
+ "empreinte": "bd03fea0610325fe445b70d23093a0dc141689d8981d552a2c03eed2e19d8b54",
  "nombre": 256,
  "vaisseaux": [
   {
@@ -3014,7 +3014,7 @@
    "focus": "Light Carrier",
    "type": "Transporter",
    "size": "Capital",
-   "img": "https://media.robertsspaceindustries.com/k2zu1md2ulfxn/store_small.png",
+   "img": "https://media.robertsspaceindustries.com/lyrq3kgz50tfc/store_small.jpg",
    "length": 119,
    "width": 67,
    "height": 25,
@@ -3025,7 +3025,7 @@
    "scm": 115,
    "boost": 950,
    "ground": false,
-   "concept": true,
+   "concept": false,
    "rsiId": 224,
    "url": "/pledge/ships/liberator/Liberator"
   },
