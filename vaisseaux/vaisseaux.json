@@ -1,9 +1,9 @@
 {
  "schema": "stelliverse-vaisseaux/1",
  "source": "https://robertsspaceindustries.com/ship-matrix/index",
- "genere": "2026-11-15T21:05:03.871Z",
- "empreinte": "bd03fea0610325fe445b70d23093a0dc141689d8981d552a2c03eed2e19d8b54",
- "nombre": 256,
+ "genere": "2026-11-17T23:32:27.106Z",
+ "empreinte": "d7b6d83ed51d245fcb984e07fb0e6af702535ac6ec3d46343dd95a7ae86ad779",
+ "nombre": 257,
  "vaisseaux": [
   {
    "name": "100i",
@@ -3133,6 +3133,27 @@
    "concept": false,
    "rsiId": 189,
    "url": "/pledge/ships/rsi-mantis/Mantis"
+  },
+  {
+   "name": "Marauder",
+   "maker": "DRAK",
+   "focus": "Medium Fighter",
+   "type": "Combat",
+   "size": "Small",
+   "img": "https://media.robertsspaceindustries.com/zzdts6fpnwojx/store_small.jpg",
+   "length": 20,
+   "width": 19,
+   "height": 6,
+   "mass": 75649,
+   "cargo": 0,
+   "crewMin": 1,
+   "crewMax": 1,
+   "scm": 223,
+   "boost": 1220,
+   "ground": false,
+   "concept": false,
+   "rsiId": 329,
+   "url": "/pledge/ships/marauder/Marauder"
   },
   {
    "name": "MDC",
