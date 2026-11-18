@@ -676,28 +676,55 @@
     "action": "v_engineering_assignment_shields_increase",
     "enabled": true,
     "key_to_press": "f7",
-    "order_string": "priorite aux boucliers|energie sur les boucliers|priorite bouclier|max sur les boucliers|renforce l energie des boucliers",
+    "order_string": "un cran sur les boucliers|mets un cran dans les boucliers|monte les boucliers d un cran|energie sur les boucliers|renforce l energie des boucliers|un cran dans les boucliers|un cran dans le bouclier|un cran sur le bouclier|monte le bouclier d un cran|energie sur le bouclier",
     "scene": false,
     "sounds": [],
-    "success_message": "L'énergie va aux boucliers, porteur.|Tout au rempart.|Je nourris les défenses.|Le flux protège, porteur.|Boucliers d'abord."
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "action": "v_engineering_assignment_shields_max",
+    "enabled": true,
+    "key_to_press": "f7:800",
+    "order_string": "mets tout dans les boucliers|tout dans les boucliers|boucliers a fond|toute l energie aux boucliers|max sur les boucliers|priorite aux boucliers|priorite bouclier|tout dans le bouclier|bouclier a fond|toute l energie au bouclier|max sur le bouclier|priorite au bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Tout au rempart.|Boucliers d'abord."
   },
   {
     "action": "v_engineering_assignment_weapons_increase",
     "enabled": true,
     "key_to_press": "f5",
-    "order_string": "priorite aux armes|energie sur les armes|priorite arme|max sur les armes|renforce l energie des armes",
+    "order_string": "un cran sur les armes|mets un cran dans les armes|monte les armes d un cran|energie sur les armes|renforce l energie des armes|un cran dans les armes",
     "scene": false,
     "sounds": [],
-    "success_message": "L'énergie va aux armes, porteur.|Tout au fer.|Je nourris les canons.|Le flux frappe, porteur.|Armes d'abord."
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "action": "v_engineering_assignment_weapons_max",
+    "enabled": true,
+    "key_to_press": "f5:800",
+    "order_string": "mets tout dans les armes|tout dans les armes|armes a fond|toute l energie aux armes|max sur les armes|priorite aux armes|priorite arme",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Tout au fer.|Armes d'abord."
   },
   {
     "action": "v_engineering_assignment_engine_increase",
     "enabled": true,
     "key_to_press": "f6",
-    "order_string": "priorite aux moteurs|energie sur les moteurs|priorite moteur|max sur les moteurs",
+    "order_string": "un cran sur les moteurs|mets un cran dans les moteurs|monte les moteurs d un cran|energie sur les moteurs|un cran dans les moteurs|un cran dans le moteur|un cran sur le moteur|monte le moteur d un cran|energie sur le moteur",
     "scene": false,
     "sounds": [],
-    "success_message": "L'énergie va aux moteurs, porteur.|Tout à la course.|Je nourris la poussée.|Le flux porte, porteur.|Moteurs d'abord."
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "action": "v_engineering_assignment_engine_max",
+    "enabled": true,
+    "key_to_press": "f6:800",
+    "order_string": "mets tout dans les moteurs|tout dans les moteurs|moteurs a fond|toute l energie aux moteurs|max sur les moteurs|priorite aux moteurs|priorite moteur|tout dans le moteur|moteur a fond|toute l energie au moteur|max sur le moteur|priorite au moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Tout à la course.|Moteurs d'abord."
   },
   {
     "action": "v_engineering_assignment_reset",
