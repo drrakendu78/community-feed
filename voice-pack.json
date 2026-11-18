@@ -691,6 +691,168 @@
     "success_message": "Tout au rempart.|Boucliers d'abord."
   },
   {
+    "action": "v_engineering_assignment_shields_decrease",
+    "enabled": true,
+    "key_to_press": "lalt++f7",
+    "order_string": "enleve un cran aux boucliers|enleve un cran des boucliers|enleve un cran dans les boucliers|retire un cran aux boucliers|retire un cran des boucliers|retire un cran dans les boucliers|baisse les boucliers d un cran|diminue les boucliers d un cran|un cran de moins aux boucliers|un cran de moins sur les boucliers|un cran de moins dans les boucliers|enleve un cran au bouclier|retire un cran au bouclier|baisse le bouclier d un cran|diminue le bouclier d un cran|un cran de moins au bouclier|un cran de moins sur le bouclier|un cran de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "action": "v_engineering_assignment_shields_min",
+    "enabled": true,
+    "key_to_press": "lalt++f7:800",
+    "order_string": "mets les boucliers au minimum|boucliers au minimum|boucliers au min|min sur les boucliers|minimum sur les boucliers|enleve tout aux boucliers|enleve tout des boucliers|enleve tout dans les boucliers|retire tout aux boucliers|retire tout des boucliers|retire tout dans les boucliers|enleve toute l energie des boucliers|enleve toute l energie aux boucliers|retire toute l energie des boucliers|retire toute l energie aux boucliers|bouclier au minimum|min sur le bouclier|enleve tout au bouclier|retire tout au bouclier|enleve tout dans le bouclier|retire tout dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Les boucliers se retirent. Restez entier.|Défenses repliées."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 f7 pause:150",
+    "order_string": "mets deux crans dans les boucliers|deux crans dans les boucliers|deux crans sur les boucliers|deux crans aux boucliers|deux crans de plus aux boucliers|monte les boucliers de deux crans|ajoute deux crans aux boucliers|deux crans dans le bouclier|deux crans sur le bouclier|deux crans au bouclier|monte le bouclier de deux crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 f7 pause:150",
+    "order_string": "mets trois crans dans les boucliers|trois crans dans les boucliers|trois crans sur les boucliers|trois crans aux boucliers|trois crans de plus aux boucliers|monte les boucliers de trois crans|ajoute trois crans aux boucliers|trois crans dans le bouclier|trois crans sur le bouclier|trois crans au bouclier|monte le bouclier de trois crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 f7 pause:150",
+    "order_string": "mets quatre crans dans les boucliers|quatre crans dans les boucliers|quatre crans sur les boucliers|quatre crans aux boucliers|quatre crans de plus aux boucliers|monte les boucliers de quatre crans|ajoute quatre crans aux boucliers|quatre crans dans le bouclier|quatre crans sur le bouclier|quatre crans au bouclier|monte le bouclier de quatre crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 f7 pause:150",
+    "order_string": "mets cinq crans dans les boucliers|cinq crans dans les boucliers|cinq crans sur les boucliers|cinq crans aux boucliers|cinq crans de plus aux boucliers|monte les boucliers de cinq crans|ajoute cinq crans aux boucliers|cinq crans dans le bouclier|cinq crans sur le bouclier|cinq crans au bouclier|monte le bouclier de cinq crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 f7 pause:150",
+    "order_string": "mets six crans dans les boucliers|six crans dans les boucliers|six crans sur les boucliers|six crans aux boucliers|six crans de plus aux boucliers|monte les boucliers de six crans|ajoute six crans aux boucliers|six crans dans le bouclier|six crans sur le bouclier|six crans au bouclier|monte le bouclier de six crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 f7 pause:150",
+    "order_string": "mets sept crans dans les boucliers|sept crans dans les boucliers|sept crans sur les boucliers|sept crans aux boucliers|sept crans de plus aux boucliers|monte les boucliers de sept crans|ajoute sept crans aux boucliers|sept crans dans le bouclier|sept crans sur le bouclier|sept crans au bouclier|monte le bouclier de sept crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 f7 pause:150",
+    "order_string": "mets huit crans dans les boucliers|huit crans dans les boucliers|huit crans sur les boucliers|huit crans aux boucliers|huit crans de plus aux boucliers|monte les boucliers de huit crans|ajoute huit crans aux boucliers|huit crans dans le bouclier|huit crans sur le bouclier|huit crans au bouclier|monte le bouclier de huit crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 f7 pause:150",
+    "order_string": "mets neuf crans dans les boucliers|neuf crans dans les boucliers|neuf crans sur les boucliers|neuf crans aux boucliers|neuf crans de plus aux boucliers|monte les boucliers de neuf crans|ajoute neuf crans aux boucliers|neuf crans dans le bouclier|neuf crans sur le bouclier|neuf crans au bouclier|monte le bouclier de neuf crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 f7 pause:150",
+    "order_string": "mets dix crans dans les boucliers|dix crans dans les boucliers|dix crans sur les boucliers|dix crans aux boucliers|dix crans de plus aux boucliers|monte les boucliers de dix crans|ajoute dix crans aux boucliers|dix crans dans le bouclier|dix crans sur le bouclier|dix crans au bouclier|monte le bouclier de dix crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux boucliers, porteur.|Je nourris les défenses.|Le flux protège, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 lalt++f7 pause:150",
+    "order_string": "enleve deux crans aux boucliers|enleve deux crans des boucliers|enleve deux crans dans les boucliers|retire deux crans aux boucliers|retire deux crans des boucliers|retire deux crans dans les boucliers|baisse les boucliers de deux crans|diminue les boucliers de deux crans|deux crans de moins aux boucliers|deux crans de moins sur les boucliers|deux crans de moins dans les boucliers|enleve deux crans au bouclier|retire deux crans au bouclier|baisse le bouclier de deux crans|diminue le bouclier de deux crans|deux crans de moins au bouclier|deux crans de moins sur le bouclier|deux crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 lalt++f7 pause:150",
+    "order_string": "enleve trois crans aux boucliers|enleve trois crans des boucliers|enleve trois crans dans les boucliers|retire trois crans aux boucliers|retire trois crans des boucliers|retire trois crans dans les boucliers|baisse les boucliers de trois crans|diminue les boucliers de trois crans|trois crans de moins aux boucliers|trois crans de moins sur les boucliers|trois crans de moins dans les boucliers|enleve trois crans au bouclier|retire trois crans au bouclier|baisse le bouclier de trois crans|diminue le bouclier de trois crans|trois crans de moins au bouclier|trois crans de moins sur le bouclier|trois crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 lalt++f7 pause:150",
+    "order_string": "enleve quatre crans aux boucliers|enleve quatre crans des boucliers|enleve quatre crans dans les boucliers|retire quatre crans aux boucliers|retire quatre crans des boucliers|retire quatre crans dans les boucliers|baisse les boucliers de quatre crans|diminue les boucliers de quatre crans|quatre crans de moins aux boucliers|quatre crans de moins sur les boucliers|quatre crans de moins dans les boucliers|enleve quatre crans au bouclier|retire quatre crans au bouclier|baisse le bouclier de quatre crans|diminue le bouclier de quatre crans|quatre crans de moins au bouclier|quatre crans de moins sur le bouclier|quatre crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 lalt++f7 pause:150",
+    "order_string": "enleve cinq crans aux boucliers|enleve cinq crans des boucliers|enleve cinq crans dans les boucliers|retire cinq crans aux boucliers|retire cinq crans des boucliers|retire cinq crans dans les boucliers|baisse les boucliers de cinq crans|diminue les boucliers de cinq crans|cinq crans de moins aux boucliers|cinq crans de moins sur les boucliers|cinq crans de moins dans les boucliers|enleve cinq crans au bouclier|retire cinq crans au bouclier|baisse le bouclier de cinq crans|diminue le bouclier de cinq crans|cinq crans de moins au bouclier|cinq crans de moins sur le bouclier|cinq crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 lalt++f7 pause:150",
+    "order_string": "enleve six crans aux boucliers|enleve six crans des boucliers|enleve six crans dans les boucliers|retire six crans aux boucliers|retire six crans des boucliers|retire six crans dans les boucliers|baisse les boucliers de six crans|diminue les boucliers de six crans|six crans de moins aux boucliers|six crans de moins sur les boucliers|six crans de moins dans les boucliers|enleve six crans au bouclier|retire six crans au bouclier|baisse le bouclier de six crans|diminue le bouclier de six crans|six crans de moins au bouclier|six crans de moins sur le bouclier|six crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 lalt++f7 pause:150",
+    "order_string": "enleve sept crans aux boucliers|enleve sept crans des boucliers|enleve sept crans dans les boucliers|retire sept crans aux boucliers|retire sept crans des boucliers|retire sept crans dans les boucliers|baisse les boucliers de sept crans|diminue les boucliers de sept crans|sept crans de moins aux boucliers|sept crans de moins sur les boucliers|sept crans de moins dans les boucliers|enleve sept crans au bouclier|retire sept crans au bouclier|baisse le bouclier de sept crans|diminue le bouclier de sept crans|sept crans de moins au bouclier|sept crans de moins sur le bouclier|sept crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 lalt++f7 pause:150",
+    "order_string": "enleve huit crans aux boucliers|enleve huit crans des boucliers|enleve huit crans dans les boucliers|retire huit crans aux boucliers|retire huit crans des boucliers|retire huit crans dans les boucliers|baisse les boucliers de huit crans|diminue les boucliers de huit crans|huit crans de moins aux boucliers|huit crans de moins sur les boucliers|huit crans de moins dans les boucliers|enleve huit crans au bouclier|retire huit crans au bouclier|baisse le bouclier de huit crans|diminue le bouclier de huit crans|huit crans de moins au bouclier|huit crans de moins sur le bouclier|huit crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 lalt++f7 pause:150",
+    "order_string": "enleve neuf crans aux boucliers|enleve neuf crans des boucliers|enleve neuf crans dans les boucliers|retire neuf crans aux boucliers|retire neuf crans des boucliers|retire neuf crans dans les boucliers|baisse les boucliers de neuf crans|diminue les boucliers de neuf crans|neuf crans de moins aux boucliers|neuf crans de moins sur les boucliers|neuf crans de moins dans les boucliers|enleve neuf crans au bouclier|retire neuf crans au bouclier|baisse le bouclier de neuf crans|diminue le bouclier de neuf crans|neuf crans de moins au bouclier|neuf crans de moins sur le bouclier|neuf crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 lalt++f7 pause:150",
+    "order_string": "enleve dix crans aux boucliers|enleve dix crans des boucliers|enleve dix crans dans les boucliers|retire dix crans aux boucliers|retire dix crans des boucliers|retire dix crans dans les boucliers|baisse les boucliers de dix crans|diminue les boucliers de dix crans|dix crans de moins aux boucliers|dix crans de moins sur les boucliers|dix crans de moins dans les boucliers|enleve dix crans au bouclier|retire dix crans au bouclier|baisse le bouclier de dix crans|diminue le bouclier de dix crans|dix crans de moins au bouclier|dix crans de moins sur le bouclier|dix crans de moins dans le bouclier",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Boucliers baissés, porteur.|Le flux se partage."
+  },
+  {
     "action": "v_engineering_assignment_weapons_increase",
     "enabled": true,
     "key_to_press": "f5",
@@ -709,6 +871,168 @@
     "success_message": "Tout au fer.|Armes d'abord."
   },
   {
+    "action": "v_engineering_assignment_weapons_decrease",
+    "enabled": true,
+    "key_to_press": "lalt++f5",
+    "order_string": "enleve un cran aux armes|enleve un cran des armes|enleve un cran dans les armes|retire un cran aux armes|retire un cran des armes|retire un cran dans les armes|baisse les armes d un cran|diminue les armes d un cran|un cran de moins aux armes|un cran de moins sur les armes|un cran de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "action": "v_engineering_assignment_weapons_min",
+    "enabled": true,
+    "key_to_press": "lalt++f5:800",
+    "order_string": "mets les armes au minimum|armes au minimum|armes au min|min sur les armes|minimum sur les armes|enleve tout aux armes|enleve tout des armes|enleve tout dans les armes|retire tout aux armes|retire tout des armes|retire tout dans les armes|enleve toute l energie des armes|enleve toute l energie aux armes|retire toute l energie des armes|retire toute l energie aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Armement au repos.|Canons froids, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 f5 pause:150",
+    "order_string": "mets deux crans dans les armes|deux crans dans les armes|deux crans sur les armes|deux crans aux armes|deux crans de plus aux armes|monte les armes de deux crans|ajoute deux crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 f5 pause:150",
+    "order_string": "mets trois crans dans les armes|trois crans dans les armes|trois crans sur les armes|trois crans aux armes|trois crans de plus aux armes|monte les armes de trois crans|ajoute trois crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 f5 pause:150",
+    "order_string": "mets quatre crans dans les armes|quatre crans dans les armes|quatre crans sur les armes|quatre crans aux armes|quatre crans de plus aux armes|monte les armes de quatre crans|ajoute quatre crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 f5 pause:150",
+    "order_string": "mets cinq crans dans les armes|cinq crans dans les armes|cinq crans sur les armes|cinq crans aux armes|cinq crans de plus aux armes|monte les armes de cinq crans|ajoute cinq crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 f5 pause:150",
+    "order_string": "mets six crans dans les armes|six crans dans les armes|six crans sur les armes|six crans aux armes|six crans de plus aux armes|monte les armes de six crans|ajoute six crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 f5 pause:150",
+    "order_string": "mets sept crans dans les armes|sept crans dans les armes|sept crans sur les armes|sept crans aux armes|sept crans de plus aux armes|monte les armes de sept crans|ajoute sept crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 f5 pause:150",
+    "order_string": "mets huit crans dans les armes|huit crans dans les armes|huit crans sur les armes|huit crans aux armes|huit crans de plus aux armes|monte les armes de huit crans|ajoute huit crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 f5 pause:150",
+    "order_string": "mets neuf crans dans les armes|neuf crans dans les armes|neuf crans sur les armes|neuf crans aux armes|neuf crans de plus aux armes|monte les armes de neuf crans|ajoute neuf crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 f5 pause:150",
+    "order_string": "mets dix crans dans les armes|dix crans dans les armes|dix crans sur les armes|dix crans aux armes|dix crans de plus aux armes|monte les armes de dix crans|ajoute dix crans aux armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux armes, porteur.|Je nourris les canons.|Le flux frappe, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 lalt++f5 pause:150",
+    "order_string": "enleve deux crans aux armes|enleve deux crans des armes|enleve deux crans dans les armes|retire deux crans aux armes|retire deux crans des armes|retire deux crans dans les armes|baisse les armes de deux crans|diminue les armes de deux crans|deux crans de moins aux armes|deux crans de moins sur les armes|deux crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 lalt++f5 pause:150",
+    "order_string": "enleve trois crans aux armes|enleve trois crans des armes|enleve trois crans dans les armes|retire trois crans aux armes|retire trois crans des armes|retire trois crans dans les armes|baisse les armes de trois crans|diminue les armes de trois crans|trois crans de moins aux armes|trois crans de moins sur les armes|trois crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 lalt++f5 pause:150",
+    "order_string": "enleve quatre crans aux armes|enleve quatre crans des armes|enleve quatre crans dans les armes|retire quatre crans aux armes|retire quatre crans des armes|retire quatre crans dans les armes|baisse les armes de quatre crans|diminue les armes de quatre crans|quatre crans de moins aux armes|quatre crans de moins sur les armes|quatre crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 lalt++f5 pause:150",
+    "order_string": "enleve cinq crans aux armes|enleve cinq crans des armes|enleve cinq crans dans les armes|retire cinq crans aux armes|retire cinq crans des armes|retire cinq crans dans les armes|baisse les armes de cinq crans|diminue les armes de cinq crans|cinq crans de moins aux armes|cinq crans de moins sur les armes|cinq crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 lalt++f5 pause:150",
+    "order_string": "enleve six crans aux armes|enleve six crans des armes|enleve six crans dans les armes|retire six crans aux armes|retire six crans des armes|retire six crans dans les armes|baisse les armes de six crans|diminue les armes de six crans|six crans de moins aux armes|six crans de moins sur les armes|six crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 lalt++f5 pause:150",
+    "order_string": "enleve sept crans aux armes|enleve sept crans des armes|enleve sept crans dans les armes|retire sept crans aux armes|retire sept crans des armes|retire sept crans dans les armes|baisse les armes de sept crans|diminue les armes de sept crans|sept crans de moins aux armes|sept crans de moins sur les armes|sept crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 lalt++f5 pause:150",
+    "order_string": "enleve huit crans aux armes|enleve huit crans des armes|enleve huit crans dans les armes|retire huit crans aux armes|retire huit crans des armes|retire huit crans dans les armes|baisse les armes de huit crans|diminue les armes de huit crans|huit crans de moins aux armes|huit crans de moins sur les armes|huit crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 lalt++f5 pause:150",
+    "order_string": "enleve neuf crans aux armes|enleve neuf crans des armes|enleve neuf crans dans les armes|retire neuf crans aux armes|retire neuf crans des armes|retire neuf crans dans les armes|baisse les armes de neuf crans|diminue les armes de neuf crans|neuf crans de moins aux armes|neuf crans de moins sur les armes|neuf crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 lalt++f5 pause:150",
+    "order_string": "enleve dix crans aux armes|enleve dix crans des armes|enleve dix crans dans les armes|retire dix crans aux armes|retire dix crans des armes|retire dix crans dans les armes|baisse les armes de dix crans|diminue les armes de dix crans|dix crans de moins aux armes|dix crans de moins sur les armes|dix crans de moins dans les armes",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Le flux se partage.|Chaque chose sa part."
+  },
+  {
     "action": "v_engineering_assignment_engine_increase",
     "enabled": true,
     "key_to_press": "f6",
@@ -725,6 +1049,168 @@
     "scene": false,
     "sounds": [],
     "success_message": "Tout à la course.|Moteurs d'abord."
+  },
+  {
+    "action": "v_engineering_assignment_engine_decrease",
+    "enabled": true,
+    "key_to_press": "lalt++f6",
+    "order_string": "enleve un cran aux moteurs|enleve un cran des moteurs|enleve un cran dans les moteurs|retire un cran aux moteurs|retire un cran des moteurs|retire un cran dans les moteurs|baisse les moteurs d un cran|diminue les moteurs d un cran|un cran de moins aux moteurs|un cran de moins sur les moteurs|un cran de moins dans les moteurs|enleve un cran au moteur|retire un cran au moteur|baisse le moteur d un cran|diminue le moteur d un cran|un cran de moins au moteur|un cran de moins sur le moteur|un cran de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "action": "v_engineering_assignment_engine_min",
+    "enabled": true,
+    "key_to_press": "lalt++f6:800",
+    "order_string": "mets les moteurs au minimum|moteurs au minimum|moteurs au min|min sur les moteurs|minimum sur les moteurs|enleve tout aux moteurs|enleve tout des moteurs|enleve tout dans les moteurs|retire tout aux moteurs|retire tout des moteurs|retire tout dans les moteurs|enleve toute l energie des moteurs|enleve toute l energie aux moteurs|retire toute l energie des moteurs|retire toute l energie aux moteurs|moteur au minimum|min sur le moteur|enleve tout au moteur|retire tout au moteur|enleve tout dans le moteur|retire tout dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "La machine se repose.|Ralenti, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 f6 pause:150",
+    "order_string": "mets deux crans dans les moteurs|deux crans dans les moteurs|deux crans sur les moteurs|deux crans aux moteurs|deux crans de plus aux moteurs|monte les moteurs de deux crans|ajoute deux crans aux moteurs|deux crans dans le moteur|deux crans sur le moteur|deux crans au moteur|monte le moteur de deux crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 f6 pause:150",
+    "order_string": "mets trois crans dans les moteurs|trois crans dans les moteurs|trois crans sur les moteurs|trois crans aux moteurs|trois crans de plus aux moteurs|monte les moteurs de trois crans|ajoute trois crans aux moteurs|trois crans dans le moteur|trois crans sur le moteur|trois crans au moteur|monte le moteur de trois crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 f6 pause:150",
+    "order_string": "mets quatre crans dans les moteurs|quatre crans dans les moteurs|quatre crans sur les moteurs|quatre crans aux moteurs|quatre crans de plus aux moteurs|monte les moteurs de quatre crans|ajoute quatre crans aux moteurs|quatre crans dans le moteur|quatre crans sur le moteur|quatre crans au moteur|monte le moteur de quatre crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 f6 pause:150",
+    "order_string": "mets cinq crans dans les moteurs|cinq crans dans les moteurs|cinq crans sur les moteurs|cinq crans aux moteurs|cinq crans de plus aux moteurs|monte les moteurs de cinq crans|ajoute cinq crans aux moteurs|cinq crans dans le moteur|cinq crans sur le moteur|cinq crans au moteur|monte le moteur de cinq crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 f6 pause:150",
+    "order_string": "mets six crans dans les moteurs|six crans dans les moteurs|six crans sur les moteurs|six crans aux moteurs|six crans de plus aux moteurs|monte les moteurs de six crans|ajoute six crans aux moteurs|six crans dans le moteur|six crans sur le moteur|six crans au moteur|monte le moteur de six crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 f6 pause:150",
+    "order_string": "mets sept crans dans les moteurs|sept crans dans les moteurs|sept crans sur les moteurs|sept crans aux moteurs|sept crans de plus aux moteurs|monte les moteurs de sept crans|ajoute sept crans aux moteurs|sept crans dans le moteur|sept crans sur le moteur|sept crans au moteur|monte le moteur de sept crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 f6 pause:150",
+    "order_string": "mets huit crans dans les moteurs|huit crans dans les moteurs|huit crans sur les moteurs|huit crans aux moteurs|huit crans de plus aux moteurs|monte les moteurs de huit crans|ajoute huit crans aux moteurs|huit crans dans le moteur|huit crans sur le moteur|huit crans au moteur|monte le moteur de huit crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 f6 pause:150",
+    "order_string": "mets neuf crans dans les moteurs|neuf crans dans les moteurs|neuf crans sur les moteurs|neuf crans aux moteurs|neuf crans de plus aux moteurs|monte les moteurs de neuf crans|ajoute neuf crans aux moteurs|neuf crans dans le moteur|neuf crans sur le moteur|neuf crans au moteur|monte le moteur de neuf crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 f6 pause:150",
+    "order_string": "mets dix crans dans les moteurs|dix crans dans les moteurs|dix crans sur les moteurs|dix crans aux moteurs|dix crans de plus aux moteurs|monte les moteurs de dix crans|ajoute dix crans aux moteurs|dix crans dans le moteur|dix crans sur le moteur|dix crans au moteur|monte le moteur de dix crans",
+    "scene": false,
+    "sounds": [],
+    "success_message": "L'énergie va aux moteurs, porteur.|Je nourris la poussée.|Le flux porte, porteur."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 lalt++f6 pause:150",
+    "order_string": "enleve deux crans aux moteurs|enleve deux crans des moteurs|enleve deux crans dans les moteurs|retire deux crans aux moteurs|retire deux crans des moteurs|retire deux crans dans les moteurs|baisse les moteurs de deux crans|diminue les moteurs de deux crans|deux crans de moins aux moteurs|deux crans de moins sur les moteurs|deux crans de moins dans les moteurs|enleve deux crans au moteur|retire deux crans au moteur|baisse le moteur de deux crans|diminue le moteur de deux crans|deux crans de moins au moteur|deux crans de moins sur le moteur|deux crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 lalt++f6 pause:150",
+    "order_string": "enleve trois crans aux moteurs|enleve trois crans des moteurs|enleve trois crans dans les moteurs|retire trois crans aux moteurs|retire trois crans des moteurs|retire trois crans dans les moteurs|baisse les moteurs de trois crans|diminue les moteurs de trois crans|trois crans de moins aux moteurs|trois crans de moins sur les moteurs|trois crans de moins dans les moteurs|enleve trois crans au moteur|retire trois crans au moteur|baisse le moteur de trois crans|diminue le moteur de trois crans|trois crans de moins au moteur|trois crans de moins sur le moteur|trois crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 lalt++f6 pause:150",
+    "order_string": "enleve quatre crans aux moteurs|enleve quatre crans des moteurs|enleve quatre crans dans les moteurs|retire quatre crans aux moteurs|retire quatre crans des moteurs|retire quatre crans dans les moteurs|baisse les moteurs de quatre crans|diminue les moteurs de quatre crans|quatre crans de moins aux moteurs|quatre crans de moins sur les moteurs|quatre crans de moins dans les moteurs|enleve quatre crans au moteur|retire quatre crans au moteur|baisse le moteur de quatre crans|diminue le moteur de quatre crans|quatre crans de moins au moteur|quatre crans de moins sur le moteur|quatre crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 lalt++f6 pause:150",
+    "order_string": "enleve cinq crans aux moteurs|enleve cinq crans des moteurs|enleve cinq crans dans les moteurs|retire cinq crans aux moteurs|retire cinq crans des moteurs|retire cinq crans dans les moteurs|baisse les moteurs de cinq crans|diminue les moteurs de cinq crans|cinq crans de moins aux moteurs|cinq crans de moins sur les moteurs|cinq crans de moins dans les moteurs|enleve cinq crans au moteur|retire cinq crans au moteur|baisse le moteur de cinq crans|diminue le moteur de cinq crans|cinq crans de moins au moteur|cinq crans de moins sur le moteur|cinq crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 lalt++f6 pause:150",
+    "order_string": "enleve six crans aux moteurs|enleve six crans des moteurs|enleve six crans dans les moteurs|retire six crans aux moteurs|retire six crans des moteurs|retire six crans dans les moteurs|baisse les moteurs de six crans|diminue les moteurs de six crans|six crans de moins aux moteurs|six crans de moins sur les moteurs|six crans de moins dans les moteurs|enleve six crans au moteur|retire six crans au moteur|baisse le moteur de six crans|diminue le moteur de six crans|six crans de moins au moteur|six crans de moins sur le moteur|six crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 lalt++f6 pause:150",
+    "order_string": "enleve sept crans aux moteurs|enleve sept crans des moteurs|enleve sept crans dans les moteurs|retire sept crans aux moteurs|retire sept crans des moteurs|retire sept crans dans les moteurs|baisse les moteurs de sept crans|diminue les moteurs de sept crans|sept crans de moins aux moteurs|sept crans de moins sur les moteurs|sept crans de moins dans les moteurs|enleve sept crans au moteur|retire sept crans au moteur|baisse le moteur de sept crans|diminue le moteur de sept crans|sept crans de moins au moteur|sept crans de moins sur le moteur|sept crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 lalt++f6 pause:150",
+    "order_string": "enleve huit crans aux moteurs|enleve huit crans des moteurs|enleve huit crans dans les moteurs|retire huit crans aux moteurs|retire huit crans des moteurs|retire huit crans dans les moteurs|baisse les moteurs de huit crans|diminue les moteurs de huit crans|huit crans de moins aux moteurs|huit crans de moins sur les moteurs|huit crans de moins dans les moteurs|enleve huit crans au moteur|retire huit crans au moteur|baisse le moteur de huit crans|diminue le moteur de huit crans|huit crans de moins au moteur|huit crans de moins sur le moteur|huit crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 lalt++f6 pause:150",
+    "order_string": "enleve neuf crans aux moteurs|enleve neuf crans des moteurs|enleve neuf crans dans les moteurs|retire neuf crans aux moteurs|retire neuf crans des moteurs|retire neuf crans dans les moteurs|baisse les moteurs de neuf crans|diminue les moteurs de neuf crans|neuf crans de moins aux moteurs|neuf crans de moins sur les moteurs|neuf crans de moins dans les moteurs|enleve neuf crans au moteur|retire neuf crans au moteur|baisse le moteur de neuf crans|diminue le moteur de neuf crans|neuf crans de moins au moteur|neuf crans de moins sur le moteur|neuf crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 lalt++f6 pause:150",
+    "order_string": "enleve dix crans aux moteurs|enleve dix crans des moteurs|enleve dix crans dans les moteurs|retire dix crans aux moteurs|retire dix crans des moteurs|retire dix crans dans les moteurs|baisse les moteurs de dix crans|diminue les moteurs de dix crans|dix crans de moins aux moteurs|dix crans de moins sur les moteurs|dix crans de moins dans les moteurs|enleve dix crans au moteur|retire dix crans au moteur|baisse le moteur de dix crans|diminue le moteur de dix crans|dix crans de moins au moteur|dix crans de moins sur le moteur|dix crans de moins dans le moteur",
+    "scene": false,
+    "sounds": [],
+    "success_message": "On ralentit, porteur.|Le flux se partage."
   },
   {
     "action": "v_engineering_assignment_reset",
