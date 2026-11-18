@@ -1232,7 +1232,7 @@
     "action": "v_engineering_assignment_reset",
     "enabled": true,
     "key_to_press": "f8",
-    "order_string": "equilibre l energie|repartition equilibree|remets l energie a zero|energie equilibree|reequilibre l energie",
+    "order_string": "equilibre l energie|repartition equilibree|remets l energie a zero|energie equilibree|reequilibre l energie|reinitialise l energie|reinitialise la puissance|reinitialise les assignations|reinitialise la repartition|reset l energie|reset la puissance|reset energie|reset puissance|reset de l energie|reset de la puissance|equilibre la puissance|reequilibre la puissance|puissance equilibree|remets la puissance a zero|remets l energie par defaut|remets la puissance par defaut|energie par defaut|puissance par defaut|remise a zero de l energie|remets les crans a zero|reinitialiser la puissance|reinitialiser l energie|reinitialisation de la puissance|reinitialisation de l energie|remets a zero la puissance|remets a zero l energie|remise a zero de la puissance|repartition par defaut|reset les crans|reset power",
     "scene": false,
     "sounds": [],
     "success_message": "Énergie équilibrée, porteur.|Le flux se partage.|Chaque chose sa part.|L'équilibre. Les Xi'an apprécieraient.|Répartition égale, porteur."
