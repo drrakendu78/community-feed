@@ -658,7 +658,7 @@
     "action": "v_toggle_qdrive_engagement",
     "enabled": true,
     "key_to_press": "clicgauche:350",
-    "order_string": "saut quantique|lance le saut quantique|engage le quantique|drive quantique|saut kantoum|lance le saut|active le saut|allez go|saut rapide|saut quantique rapide|quantum rapide|quantique rapide|saut direct|saut quantique direct|saut immediat|saut quantique tout de suite|saut tout de suite|saut quantique dans trois secondes|saut dans trois secondes|saut quantique dans trois",
+    "order_string": "saut quantique|lance le saut quantique|engage le quantique|drive quantique|saut kantoum|lance le saut|active le saut|allez go|saut rapide|saut quantique rapide|quantum rapide|quantique rapide|saut direct|saut quantique direct|saut immediat|saut quantique tout de suite|saut tout de suite|saut quantique dans trois secondes|saut dans trois secondes|saut quantique dans trois|engage",
     "scene": false,
     "sounds": [],
     "success_message": "Saut quantique engagé, porteur.|Le vide se plie.|L'espace consent, porteur. Passons.|Traversée quantique.|Les distances mentent, porteur. Prouvons-le.|Drive engagé. Tenez le cap."
