@@ -658,7 +658,7 @@
     "action": "v_toggle_qdrive_engagement",
     "enabled": true,
     "key_to_press": "clicgauche:350",
-    "order_string": "saut quantique|lance le saut quantique|engage le quantique|drive quantique|saut kantoum|lance le saut|active le saut|allez go|saut rapide|saut quantique rapide|quantum rapide|quantique rapide|saut direct|saut quantique direct|saut immediat|saut quantique tout de suite|saut tout de suite",
+    "order_string": "saut quantique|lance le saut quantique|engage le quantique|drive quantique|saut kantoum|lance le saut|active le saut|allez go|saut rapide|saut quantique rapide|quantum rapide|quantique rapide|saut direct|saut quantique direct|saut immediat|saut quantique tout de suite|saut tout de suite|saut quantique dans trois secondes|saut dans trois secondes|saut quantique dans trois",
     "scene": false,
     "sounds": [],
     "success_message": "Saut quantique engagé, porteur.|Le vide se plie.|L'espace consent, porteur. Passons.|Traversée quantique.|Les distances mentent, porteur. Prouvons-le.|Drive engagé. Tenez le cap."
@@ -667,6 +667,14 @@
     "enabled": true,
     "key_to_press": "b:350",
     "order_string": "charge le quantum|charge le quantique|charge le saut quantique|charge le saut|charge le quantoum|charge le kantoum|prepare le saut quantique|prepare le quantum|prepare le saut",
+    "scene": false,
+    "sounds": [],
+    "success_message": "Les routes s'ouvrent, porteur.|Cap au loin."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "b:350",
+    "order_string": "saut quantique dans dix secondes|saut dans dix secondes|saut quantique dans dix|decompte quantique|compte a rebours quantique|lance le compte a rebours|lance le decompte|decompte de dix secondes",
     "scene": false,
     "sounds": [],
     "success_message": "Les routes s'ouvrent, porteur.|Cap au loin."
