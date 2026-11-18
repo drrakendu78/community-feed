@@ -549,6 +549,148 @@
   },
   {
     "enabled": true,
+    "key_to_press": "lalt++f7",
+    "order_string": "shields down a notch|shields down one notch|one notch off shields|one notch off the shields|lower shields a notch|lower shields one notch|less power to shields|reduce shields power|reduce power to shields",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared.",
+    "action": "v_engineering_assignment_shields_decrease"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "lalt++f7:800",
+    "order_string": "minimum shields|min shields|shields to minimum|shields to min|no power to shields|lowest shields power",
+    "sounds": [],
+    "success_message": "The rampart fades.|Exposed, bearer. Care.",
+    "action": "v_engineering_assignment_shields_min"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 f7 pause:150",
+    "order_string": "two notches to shields|shields up two notches|add two notches to shields|two more notches to shields|raise shields two notches|raise shields by two notches|2 notches to shields|shields up 2 notches|add 2 notches to shields|2 more notches to shields|raise shields 2 notches|raise shields by 2 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 f7 pause:150",
+    "order_string": "three notches to shields|shields up three notches|add three notches to shields|three more notches to shields|raise shields three notches|raise shields by three notches|3 notches to shields|shields up 3 notches|add 3 notches to shields|3 more notches to shields|raise shields 3 notches|raise shields by 3 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 f7 pause:150",
+    "order_string": "four notches to shields|shields up four notches|add four notches to shields|four more notches to shields|raise shields four notches|raise shields by four notches|4 notches to shields|shields up 4 notches|add 4 notches to shields|4 more notches to shields|raise shields 4 notches|raise shields by 4 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 f7 pause:150",
+    "order_string": "five notches to shields|shields up five notches|add five notches to shields|five more notches to shields|raise shields five notches|raise shields by five notches|5 notches to shields|shields up 5 notches|add 5 notches to shields|5 more notches to shields|raise shields 5 notches|raise shields by 5 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 f7 pause:150",
+    "order_string": "six notches to shields|shields up six notches|add six notches to shields|six more notches to shields|raise shields six notches|raise shields by six notches|6 notches to shields|shields up 6 notches|add 6 notches to shields|6 more notches to shields|raise shields 6 notches|raise shields by 6 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 f7 pause:150",
+    "order_string": "seven notches to shields|shields up seven notches|add seven notches to shields|seven more notches to shields|raise shields seven notches|raise shields by seven notches|7 notches to shields|shields up 7 notches|add 7 notches to shields|7 more notches to shields|raise shields 7 notches|raise shields by 7 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 f7 pause:150",
+    "order_string": "eight notches to shields|shields up eight notches|add eight notches to shields|eight more notches to shields|raise shields eight notches|raise shields by eight notches|8 notches to shields|shields up 8 notches|add 8 notches to shields|8 more notches to shields|raise shields 8 notches|raise shields by 8 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 f7 pause:150",
+    "order_string": "nine notches to shields|shields up nine notches|add nine notches to shields|nine more notches to shields|raise shields nine notches|raise shields by nine notches|9 notches to shields|shields up 9 notches|add 9 notches to shields|9 more notches to shields|raise shields 9 notches|raise shields by 9 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 f7 pause:150",
+    "order_string": "ten notches to shields|shields up ten notches|add ten notches to shields|ten more notches to shields|raise shields ten notches|raise shields by ten notches|10 notches to shields|shields up 10 notches|add 10 notches to shields|10 more notches to shields|raise shields 10 notches|raise shields by 10 notches",
+    "sounds": [],
+    "success_message": "Power to shields, bearer.|I feed the defences."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 lalt++f7 pause:150",
+    "order_string": "shields down two notches|two notches off shields|two notches off the shields|lower shields two notches|lower shields by two notches|shields down 2 notches|2 notches off shields|2 notches off the shields|lower shields 2 notches|lower shields by 2 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 lalt++f7 pause:150",
+    "order_string": "shields down three notches|three notches off shields|three notches off the shields|lower shields three notches|lower shields by three notches|shields down 3 notches|3 notches off shields|3 notches off the shields|lower shields 3 notches|lower shields by 3 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 lalt++f7 pause:150",
+    "order_string": "shields down four notches|four notches off shields|four notches off the shields|lower shields four notches|lower shields by four notches|shields down 4 notches|4 notches off shields|4 notches off the shields|lower shields 4 notches|lower shields by 4 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 lalt++f7 pause:150",
+    "order_string": "shields down five notches|five notches off shields|five notches off the shields|lower shields five notches|lower shields by five notches|shields down 5 notches|5 notches off shields|5 notches off the shields|lower shields 5 notches|lower shields by 5 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 lalt++f7 pause:150",
+    "order_string": "shields down six notches|six notches off shields|six notches off the shields|lower shields six notches|lower shields by six notches|shields down 6 notches|6 notches off shields|6 notches off the shields|lower shields 6 notches|lower shields by 6 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 lalt++f7 pause:150",
+    "order_string": "shields down seven notches|seven notches off shields|seven notches off the shields|lower shields seven notches|lower shields by seven notches|shields down 7 notches|7 notches off shields|7 notches off the shields|lower shields 7 notches|lower shields by 7 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 lalt++f7 pause:150",
+    "order_string": "shields down eight notches|eight notches off shields|eight notches off the shields|lower shields eight notches|lower shields by eight notches|shields down 8 notches|8 notches off shields|8 notches off the shields|lower shields 8 notches|lower shields by 8 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 lalt++f7 pause:150",
+    "order_string": "shields down nine notches|nine notches off shields|nine notches off the shields|lower shields nine notches|lower shields by nine notches|shields down 9 notches|9 notches off shields|9 notches off the shields|lower shields 9 notches|lower shields by 9 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 lalt++f7 pause:150",
+    "order_string": "shields down ten notches|ten notches off shields|ten notches off the shields|lower shields ten notches|lower shields by ten notches|shields down 10 notches|10 notches off shields|10 notches off the shields|lower shields 10 notches|lower shields by 10 notches",
+    "sounds": [],
+    "success_message": "The rampart fades.|The flow is shared."
+  },
+  {
+    "enabled": true,
     "key_to_press": "f5",
     "order_string": "one notch to weapons|weapons up a notch|power to weapons|weapons power|more guns|boost the weapons",
     "sounds": [],
@@ -565,6 +707,148 @@
   },
   {
     "enabled": true,
+    "key_to_press": "lalt++f5",
+    "order_string": "weapons down a notch|weapons down one notch|one notch off weapons|one notch off the weapons|lower weapons a notch|lower weapons one notch|less power to weapons|reduce weapons power|reduce power to weapons",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part.",
+    "action": "v_engineering_assignment_weapons_decrease"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "lalt++f5:800",
+    "order_string": "minimum weapons|min weapons|weapons to minimum|weapons to min|no power to weapons|lowest weapons power",
+    "sounds": [],
+    "success_message": "Guns cold, bearer.|Peace, for a moment.",
+    "action": "v_engineering_assignment_weapons_min"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 f5 pause:150",
+    "order_string": "two notches to weapons|weapons up two notches|add two notches to weapons|two more notches to weapons|raise weapons two notches|raise weapons by two notches|2 notches to weapons|weapons up 2 notches|add 2 notches to weapons|2 more notches to weapons|raise weapons 2 notches|raise weapons by 2 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 f5 pause:150",
+    "order_string": "three notches to weapons|weapons up three notches|add three notches to weapons|three more notches to weapons|raise weapons three notches|raise weapons by three notches|3 notches to weapons|weapons up 3 notches|add 3 notches to weapons|3 more notches to weapons|raise weapons 3 notches|raise weapons by 3 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 f5 pause:150",
+    "order_string": "four notches to weapons|weapons up four notches|add four notches to weapons|four more notches to weapons|raise weapons four notches|raise weapons by four notches|4 notches to weapons|weapons up 4 notches|add 4 notches to weapons|4 more notches to weapons|raise weapons 4 notches|raise weapons by 4 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 f5 pause:150",
+    "order_string": "five notches to weapons|weapons up five notches|add five notches to weapons|five more notches to weapons|raise weapons five notches|raise weapons by five notches|5 notches to weapons|weapons up 5 notches|add 5 notches to weapons|5 more notches to weapons|raise weapons 5 notches|raise weapons by 5 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 f5 pause:150",
+    "order_string": "six notches to weapons|weapons up six notches|add six notches to weapons|six more notches to weapons|raise weapons six notches|raise weapons by six notches|6 notches to weapons|weapons up 6 notches|add 6 notches to weapons|6 more notches to weapons|raise weapons 6 notches|raise weapons by 6 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 f5 pause:150",
+    "order_string": "seven notches to weapons|weapons up seven notches|add seven notches to weapons|seven more notches to weapons|raise weapons seven notches|raise weapons by seven notches|7 notches to weapons|weapons up 7 notches|add 7 notches to weapons|7 more notches to weapons|raise weapons 7 notches|raise weapons by 7 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 f5 pause:150",
+    "order_string": "eight notches to weapons|weapons up eight notches|add eight notches to weapons|eight more notches to weapons|raise weapons eight notches|raise weapons by eight notches|8 notches to weapons|weapons up 8 notches|add 8 notches to weapons|8 more notches to weapons|raise weapons 8 notches|raise weapons by 8 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 f5 pause:150",
+    "order_string": "nine notches to weapons|weapons up nine notches|add nine notches to weapons|nine more notches to weapons|raise weapons nine notches|raise weapons by nine notches|9 notches to weapons|weapons up 9 notches|add 9 notches to weapons|9 more notches to weapons|raise weapons 9 notches|raise weapons by 9 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 f5 pause:150",
+    "order_string": "ten notches to weapons|weapons up ten notches|add ten notches to weapons|ten more notches to weapons|raise weapons ten notches|raise weapons by ten notches|10 notches to weapons|weapons up 10 notches|add 10 notches to weapons|10 more notches to weapons|raise weapons 10 notches|raise weapons by 10 notches",
+    "sounds": [],
+    "success_message": "Power to weapons, bearer.|I feed the guns."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 lalt++f5 pause:150",
+    "order_string": "weapons down two notches|two notches off weapons|two notches off the weapons|lower weapons two notches|lower weapons by two notches|weapons down 2 notches|2 notches off weapons|2 notches off the weapons|lower weapons 2 notches|lower weapons by 2 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 lalt++f5 pause:150",
+    "order_string": "weapons down three notches|three notches off weapons|three notches off the weapons|lower weapons three notches|lower weapons by three notches|weapons down 3 notches|3 notches off weapons|3 notches off the weapons|lower weapons 3 notches|lower weapons by 3 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 lalt++f5 pause:150",
+    "order_string": "weapons down four notches|four notches off weapons|four notches off the weapons|lower weapons four notches|lower weapons by four notches|weapons down 4 notches|4 notches off weapons|4 notches off the weapons|lower weapons 4 notches|lower weapons by 4 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 lalt++f5 pause:150",
+    "order_string": "weapons down five notches|five notches off weapons|five notches off the weapons|lower weapons five notches|lower weapons by five notches|weapons down 5 notches|5 notches off weapons|5 notches off the weapons|lower weapons 5 notches|lower weapons by 5 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 lalt++f5 pause:150",
+    "order_string": "weapons down six notches|six notches off weapons|six notches off the weapons|lower weapons six notches|lower weapons by six notches|weapons down 6 notches|6 notches off weapons|6 notches off the weapons|lower weapons 6 notches|lower weapons by 6 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 lalt++f5 pause:150",
+    "order_string": "weapons down seven notches|seven notches off weapons|seven notches off the weapons|lower weapons seven notches|lower weapons by seven notches|weapons down 7 notches|7 notches off weapons|7 notches off the weapons|lower weapons 7 notches|lower weapons by 7 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 lalt++f5 pause:150",
+    "order_string": "weapons down eight notches|eight notches off weapons|eight notches off the weapons|lower weapons eight notches|lower weapons by eight notches|weapons down 8 notches|8 notches off weapons|8 notches off the weapons|lower weapons 8 notches|lower weapons by 8 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 lalt++f5 pause:150",
+    "order_string": "weapons down nine notches|nine notches off weapons|nine notches off the weapons|lower weapons nine notches|lower weapons by nine notches|weapons down 9 notches|9 notches off weapons|9 notches off the weapons|lower weapons 9 notches|lower weapons by 9 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 lalt++f5 pause:150",
+    "order_string": "weapons down ten notches|ten notches off weapons|ten notches off the weapons|lower weapons ten notches|lower weapons by ten notches|weapons down 10 notches|10 notches off weapons|10 notches off the weapons|lower weapons 10 notches|lower weapons by 10 notches",
+    "sounds": [],
+    "success_message": "The flow is shared.|Each thing its part."
+  },
+  {
+    "enabled": true,
     "key_to_press": "f6",
     "order_string": "one notch to engines|engines up a notch|power to engines|engine power|more speed|boost the engines",
     "sounds": [],
@@ -578,6 +862,148 @@
     "sounds": [],
     "success_message": "All to the run.|Engines first.",
     "action": "v_engineering_assignment_engine_max"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "lalt++f6",
+    "order_string": "engines down a notch|engines down one notch|one notch off engines|one notch off the engines|lower engines a notch|lower engines one notch|less power to engines|reduce engine power|reduce power to engines",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared.",
+    "action": "v_engineering_assignment_engine_decrease"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "lalt++f6:800",
+    "order_string": "minimum engines|min engines|engines to minimum|engines to min|no power to engines|lowest engine power",
+    "sounds": [],
+    "success_message": "The machine rests.|Low regime.",
+    "action": "v_engineering_assignment_engine_min"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 f6 pause:150",
+    "order_string": "two notches to engines|engines up two notches|add two notches to engines|two more notches to engines|raise engines two notches|raise engines by two notches|2 notches to engines|engines up 2 notches|add 2 notches to engines|2 more notches to engines|raise engines 2 notches|raise engines by 2 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 f6 pause:150",
+    "order_string": "three notches to engines|engines up three notches|add three notches to engines|three more notches to engines|raise engines three notches|raise engines by three notches|3 notches to engines|engines up 3 notches|add 3 notches to engines|3 more notches to engines|raise engines 3 notches|raise engines by 3 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 f6 pause:150",
+    "order_string": "four notches to engines|engines up four notches|add four notches to engines|four more notches to engines|raise engines four notches|raise engines by four notches|4 notches to engines|engines up 4 notches|add 4 notches to engines|4 more notches to engines|raise engines 4 notches|raise engines by 4 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 f6 pause:150",
+    "order_string": "five notches to engines|engines up five notches|add five notches to engines|five more notches to engines|raise engines five notches|raise engines by five notches|5 notches to engines|engines up 5 notches|add 5 notches to engines|5 more notches to engines|raise engines 5 notches|raise engines by 5 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 f6 pause:150",
+    "order_string": "six notches to engines|engines up six notches|add six notches to engines|six more notches to engines|raise engines six notches|raise engines by six notches|6 notches to engines|engines up 6 notches|add 6 notches to engines|6 more notches to engines|raise engines 6 notches|raise engines by 6 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 f6 pause:150",
+    "order_string": "seven notches to engines|engines up seven notches|add seven notches to engines|seven more notches to engines|raise engines seven notches|raise engines by seven notches|7 notches to engines|engines up 7 notches|add 7 notches to engines|7 more notches to engines|raise engines 7 notches|raise engines by 7 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 f6 pause:150",
+    "order_string": "eight notches to engines|engines up eight notches|add eight notches to engines|eight more notches to engines|raise engines eight notches|raise engines by eight notches|8 notches to engines|engines up 8 notches|add 8 notches to engines|8 more notches to engines|raise engines 8 notches|raise engines by 8 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 f6 pause:150",
+    "order_string": "nine notches to engines|engines up nine notches|add nine notches to engines|nine more notches to engines|raise engines nine notches|raise engines by nine notches|9 notches to engines|engines up 9 notches|add 9 notches to engines|9 more notches to engines|raise engines 9 notches|raise engines by 9 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 f6 pause:150",
+    "order_string": "ten notches to engines|engines up ten notches|add ten notches to engines|ten more notches to engines|raise engines ten notches|raise engines by ten notches|10 notches to engines|engines up 10 notches|add 10 notches to engines|10 more notches to engines|raise engines 10 notches|raise engines by 10 notches",
+    "sounds": [],
+    "success_message": "Power to engines, bearer.|I feed the thrust."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:2 lalt++f6 pause:150",
+    "order_string": "engines down two notches|two notches off engines|two notches off the engines|lower engines two notches|lower engines by two notches|engines down 2 notches|2 notches off engines|2 notches off the engines|lower engines 2 notches|lower engines by 2 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:3 lalt++f6 pause:150",
+    "order_string": "engines down three notches|three notches off engines|three notches off the engines|lower engines three notches|lower engines by three notches|engines down 3 notches|3 notches off engines|3 notches off the engines|lower engines 3 notches|lower engines by 3 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:4 lalt++f6 pause:150",
+    "order_string": "engines down four notches|four notches off engines|four notches off the engines|lower engines four notches|lower engines by four notches|engines down 4 notches|4 notches off engines|4 notches off the engines|lower engines 4 notches|lower engines by 4 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:5 lalt++f6 pause:150",
+    "order_string": "engines down five notches|five notches off engines|five notches off the engines|lower engines five notches|lower engines by five notches|engines down 5 notches|5 notches off engines|5 notches off the engines|lower engines 5 notches|lower engines by 5 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:6 lalt++f6 pause:150",
+    "order_string": "engines down six notches|six notches off engines|six notches off the engines|lower engines six notches|lower engines by six notches|engines down 6 notches|6 notches off engines|6 notches off the engines|lower engines 6 notches|lower engines by 6 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:7 lalt++f6 pause:150",
+    "order_string": "engines down seven notches|seven notches off engines|seven notches off the engines|lower engines seven notches|lower engines by seven notches|engines down 7 notches|7 notches off engines|7 notches off the engines|lower engines 7 notches|lower engines by 7 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:8 lalt++f6 pause:150",
+    "order_string": "engines down eight notches|eight notches off engines|eight notches off the engines|lower engines eight notches|lower engines by eight notches|engines down 8 notches|8 notches off engines|8 notches off the engines|lower engines 8 notches|lower engines by 8 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:9 lalt++f6 pause:150",
+    "order_string": "engines down nine notches|nine notches off engines|nine notches off the engines|lower engines nine notches|lower engines by nine notches|engines down 9 notches|9 notches off engines|9 notches off the engines|lower engines 9 notches|lower engines by 9 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
+  },
+  {
+    "enabled": true,
+    "key_to_press": "repeat:10 lalt++f6 pause:150",
+    "order_string": "engines down ten notches|ten notches off engines|ten notches off the engines|lower engines ten notches|lower engines by ten notches|engines down 10 notches|10 notches off engines|10 notches off the engines|lower engines 10 notches|lower engines by 10 notches",
+    "sounds": [],
+    "success_message": "Slowing.|The flow is shared."
   },
   {
     "enabled": true,
