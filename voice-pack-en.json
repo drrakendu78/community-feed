@@ -534,23 +534,50 @@
   {
     "enabled": true,
     "key_to_press": "f7",
-    "order_string": "power to shields|shields power|more shields|boost the shields|shield priority",
+    "order_string": "one notch to shields|shields up a notch|power to shields|shields power|more shields|boost the shields",
     "sounds": [],
-    "success_message": "Power to shields, bearer.|All to the rampart.|I feed the defences.|Shields first."
+    "success_message": "Power to shields, bearer.|I feed the defences.",
+    "action": "v_engineering_assignment_shields_increase"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "f7:800",
+    "order_string": "all power to shields|max shields|full power to shields|shield priority",
+    "sounds": [],
+    "success_message": "All to the rampart.|Shields first.",
+    "action": "v_engineering_assignment_shields_max"
   },
   {
     "enabled": true,
     "key_to_press": "f5",
-    "order_string": "power to weapons|weapons power|more guns|boost the weapons|weapon priority",
+    "order_string": "one notch to weapons|weapons up a notch|power to weapons|weapons power|more guns|boost the weapons",
     "sounds": [],
-    "success_message": "Power to weapons, bearer.|All to the iron.|I feed the guns.|Weapons first."
+    "success_message": "Power to weapons, bearer.|I feed the guns.",
+    "action": "v_engineering_assignment_weapons_increase"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "f5:800",
+    "order_string": "all power to weapons|max weapons|full power to weapons|weapon priority",
+    "sounds": [],
+    "success_message": "All to the iron.|Weapons first.",
+    "action": "v_engineering_assignment_weapons_max"
   },
   {
     "enabled": true,
     "key_to_press": "f6",
-    "order_string": "power to engines|engine power|more speed|boost the engines|engine priority",
+    "order_string": "one notch to engines|engines up a notch|power to engines|engine power|more speed|boost the engines",
     "sounds": [],
-    "success_message": "Power to engines, bearer.|All to the run.|I feed the thrust.|Engines first."
+    "success_message": "Power to engines, bearer.|I feed the thrust.",
+    "action": "v_engineering_assignment_engine_increase"
+  },
+  {
+    "enabled": true,
+    "key_to_press": "f6:800",
+    "order_string": "all power to engines|max engines|full power to engines|engine priority",
+    "sounds": [],
+    "success_message": "All to the run.|Engines first.",
+    "action": "v_engineering_assignment_engine_max"
   },
   {
     "enabled": true,
