@@ -1008,7 +1008,7 @@
   {
     "enabled": true,
     "key_to_press": "f8",
-    "order_string": "balance power|balance the power|even power|reset the power|equal power",
+    "order_string": "balance power|balance the power|even power|reset the power|equal power|reset power|power reset|reset power distribution|reset power assignments|reset energy|reset the energy|default power|power to default|reset all power|rebalance power|rebalance the power",
     "sounds": [],
     "success_message": "Power balanced, bearer.|The flow is shared.|Each thing its part.|Balance. The Xi'an would approve."
   },
