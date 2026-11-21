@@ -2,6 +2,17 @@
  "schema": "stelliverse-blueprints-index/1",
  "files": [
   {
+   "changelist": "13165946",
+   "channel": "LIVE",
+   "branch": "sc-alpha-4.10.0",
+   "file": "blueprints.13165946.json",
+   "blueprints": 1633,
+   "pools": 176,
+   "reputation": "reputation.13165946.json",
+   "scopes": 46,
+   "repMissions": 3864
+  },
+  {
    "changelist": "12660092",
    "channel": "LIVE",
    "branch": "sc-alpha-4.10.0",
