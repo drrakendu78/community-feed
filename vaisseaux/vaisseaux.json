@@ -1,9 +1,9 @@
 {
  "schema": "stelliverse-vaisseaux/1",
  "source": "https://robertsspaceindustries.com/ship-matrix/index",
- "genere": "2026-11-17T23:32:27.106Z",
- "empreinte": "d7b6d83ed51d245fcb984e07fb0e6af702535ac6ec3d46343dd95a7ae86ad779",
- "nombre": 257,
+ "genere": "2026-11-21T21:41:24.985Z",
+ "empreinte": "06751f8666ba8b9bd7e2a13a4392f3f07bd27359fba64c1c023572c0ea6d8dea",
+ "nombre": 258,
  "vaisseaux": [
   {
    "name": "100i",
@@ -2755,6 +2755,27 @@
    "concept": false,
    "rsiId": 128,
    "url": "/pledge/ships/hurricane/Hurricane"
+  },
+  {
+   "name": "Hyūn",
+   "maker": "GAMA",
+   "focus": "Generalist",
+   "type": "Industrial",
+   "size": "Large",
+   "img": "https://media.robertsspaceindustries.com/kq97jchfje92f/store_small.jpg",
+   "length": 36.8,
+   "width": 22.6,
+   "height": 31.9,
+   "mass": 743959,
+   "cargo": 32,
+   "crewMin": 1,
+   "crewMax": 1,
+   "scm": 160,
+   "boost": 965,
+   "ground": false,
+   "concept": false,
+   "rsiId": 330,
+   "url": "/pledge/ships/hyun/Hy-n"
   },
   {
    "name": "Idris-M",
