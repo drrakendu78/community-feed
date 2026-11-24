@@ -1,8 +1,8 @@
 {
  "schema": "stelliverse-vaisseaux/1",
  "source": "https://robertsspaceindustries.com/ship-matrix/index",
- "genere": "2026-11-21T21:41:24.985Z",
- "empreinte": "06751f8666ba8b9bd7e2a13a4392f3f07bd27359fba64c1c023572c0ea6d8dea",
+ "genere": "2026-11-24T02:55:59.587Z",
+ "empreinte": "994af19775dac0b8e3b539cc469253b8c4eddd6f3c8506f881bf8cefdf6c55dc",
  "nombre": 258,
  "vaisseaux": [
   {
@@ -2284,7 +2284,7 @@
    "width": 60,
    "height": 25,
    "mass": 5435000,
-   "cargo": 468,
+   "cargo": 64,
    "crewMin": 6,
    "crewMax": 6,
    "scm": 145,
