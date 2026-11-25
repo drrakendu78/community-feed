@@ -4,13 +4,13 @@
   {
    "version": "4.10.3-LIVE.13165946",
    "changelist": 13165946,
-   "fichier": "loadout-vaisseau.13165946.7d74dec741fe.zip",
-   "sha256": "7d74dec741fe7171bbebeaa54e7b9f16bd8302cc55cc8eb879d390d32262e271",
-   "octets": 1637092,
-   "donnees": "63444f215d2a00e76160ea1c5aebc1b47076d6a634ddf29a342d450c47b15843",
+   "fichier": "loadout-vaisseau.13165946.f95c26ba7bc3.zip",
+   "sha256": "f95c26ba7bc3b6bae4a5797945ee00d484ccddce9a6189864b10c9ac5e221ca7",
+   "octets": 1637144,
+   "donnees": "de209a5154163041e059e9d642ca3a26a1650159c9c1dcc76bd541c945482728",
    "vaisseaux": 273,
-   "prix": "2026-11-23T12:52:58.697Z",
-   "publie": "2026-11-23T12:52:54.515Z"
+   "prix": "2026-11-25T01:55:56.054Z",
+   "publie": "2026-11-25T01:55:51.747Z"
   },
   {
    "version": "4.10.2-LIVE.12913470",
